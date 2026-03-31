@@ -33,23 +33,56 @@
 - 📍 Pyramid Lake Recreation Area
 - 📍 Vasquez Rocks Natural Area and Nature Center
 
-### Day 4 — Неділя, 05.04
+### Day 4 — Неділя, 05.04 · Los Angeles
 - ⛪ Nativity of the BVM Ukrainian Catholic Church
+- 📍 Griffith Observatory (безкоштовно, без квитків)
+- 📍 Hollywood Walk of Fame / Elvis Presley's Star
+- 🏨 **Comfort Inn Los Angeles near Hollywood**
 
-### Day 5 — Понеділок, 06.04
-- *(вільний день)*
+### Day 5 — Понеділок, 06.04 · LA → Las Vegas
+- 🚗 Лос-Анджелес → Лас-Вегас (~4.5 год)
+- 📍 Sphere (зовні / фото)
+- 📍 Las Vegas Strip / Grand Prix Plaza
+- 🏨 **Comfort Inn & Suites Henderson — Las Vegas**
 
-### Day 6 — Вівторок, 07.04
-- *(вільний день)*
+### Day 6 — Вівторок, 07.04 · Route 66 → Williams
+- 📍 Hoover Dam ⚠️ тур бронювати заздалегідь
+- 📍 Oatman (Route 66 ghost town)
+- 📍 Seligman (Route 66)
+- 📍 Williams (Route 66)
+- 🏨 **Quality Inn Williams — Grand Canyon** (2 ночі)
 
-### Day 7 — Середа, 08.04
-- *(вільний день)*
+### Day 7 — Середа, 08.04 · Grand Canyon
+- 📍 Grand Canyon National Park — South Rim (вхід $35/авто, або America the Beautiful Pass)
+- 📍 South Entrance Station → Desert View Drive
+- 🏨 **Quality Inn Williams — Grand Canyon**
 
-### Day 8 — Четвер, 09.04
-- *(вільний день)*
+### Day 8 — Четвер, 09.04 · Sedona → Page
+- 🚗 Williams → Flagstaff → Sedona (~1 год)
+- 📍 Sedona (червоні скелі, ~2 год на огляд)
+- 🚗 Sedona → Flagstaff → Page (~3.5 год)
+- 📍 Horseshoe Bend (парковка $10)
+- 📍 Glen Canyon Dam
+- 🏨 **Quality Inn at Lake Powell — Page**
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon
-- 📍 Sightseer's Tour — Upper Antelope Canyon
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Las Vegas
+- 🎫 **Sightseer's Tour — Upper Antelope Canyon**
+  - **Booking #339689525** · 4 квитки · **$502.23**
+  - **Час:** 9:00 AM — 10:40 AM (тривалість 100 хв)
+  - **Прибути до 8:30 AM** (check-in за 30 хв до відправлення)
+  - **Адреса:** [22 South Lake Powell Blvd, Page, AZ 86040](https://www.google.com/maps/search/22+South+Lake+Powell+Blvd+Page+AZ+86040) (біля Pizza Hut)
+  - **Парковка:** WEST parking lot (за Pizza Hut), не паркуватись перед офісом
+  - ⚠️ **Часовий пояс:** Arizona Time (завжди -7 GMT, як Phoenix). Телефон може показувати час Utah (+1 год)! Перевірити: "What is the current time in Phoenix Arizona?"
+  - ⚠️ **Тільки прозорі сумки!** Без рюкзаків, без поясних сумок, без сумочок. Залишити в авто
+  - ⚠️ Без штативів, моноподів, селфі-палок
+  - 💧 Взяти воду (пляшку з ремінцем), хороше взуття
+  - 📋 Waiver (WHEREWOLF) — підписати заздалегідь, потрібно 4 підписи
+  - 💳 На check-in мати ту саму картку + ID
+  - 🥾 Після каньйону — обов'язковий підйом по пагорбу 800м по піску зі сходами (~15 хв). Загалом 1200м ходьби
+  - ❌ Пропустив тур = без повернення коштів (анулюється за 7 хв до старту)
+- 📍 *(опціонально)* Zion NP — scenic drive + Canyon Overlook Trail (~2 год, вхід $35/авто)
+- 🚗 Page → Las Vegas (~4.5 год напряму, ~6.5 год через Zion)
+- 🚗 Повернути авто в аеропорту ввечері (до 01:00 11.04)
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
@@ -72,8 +105,50 @@
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers)
 - [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/ca867)
 
-### 3. Дні 4–10 (05.04 — 11.04)
-> ⚠️ Готелі ще не заброньовані — потрібно додати
+### 3. Comfort Inn Los Angeles near Hollywood
+- **Дати:** 05.04 (Sun) — 06.04 (Mon) · 1 ніч
+- **Адреса:** 1823 N Highland Ave, Los Angeles, CA 90028
+- **Телефон:** +1 (323) 464-2184
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
+- [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca613)
+
+### 4. Comfort Inn & Suites Henderson — Las Vegas (повторно)
+- **Дати:** 06.04 (Mon) — 07.04 (Tue) · 1 ніч
+- *(той самий готель що й Day 0–1)*
+
+### 5. Quality Inn Williams — Grand Canyon
+- **Дати:** 07.04 (Tue) — 09.04 (Thu) · 2 ночі
+- **Адреса:** 2000 W Route 66, Williams, AZ 86046
+- [Google Maps](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
+- [Choice Hotels](https://www.choicehotels.com/arizona/williams/quality-inn-hotels)
+
+### 6. Quality Inn at Lake Powell — Page
+- **Дати:** 09.04 (Thu) — 10.04 (Fri) · 1 ніч
+- **Адреса:** 287 N Lake Powell Blvd, Page, AZ 86040
+- [Google Maps](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ)
+- [Choice Hotels](https://www.choicehotels.com/arizona/page/quality-inn-hotels)
+
+> ⚠️ Готелі 3–6 потрібно забронювати!
+
+---
+
+## Квитки та бронювання
+
+> 💡 **America the Beautiful Pass** ($80) — покриває вхід у всі національні парки на рік. Вам потрібно: Death Valley ($30) + Sequoia ($35) + Grand Canyon ($35) + Zion ($35, якщо заїдете) = **$100–135 окремо** → пас вигідніший!
+> Купити: [nps.gov/planyourvisit/passes.htm](https://www.nps.gov/planyourvisit/passes.htm) або на вході першого парку.
+
+| Що | Бронювати заздалегідь? | Офіційний сайт |
+|---|---|---|
+| Death Valley NP | ❌ Ні, квиток на вході ($30/авто) | [nps.gov/deva](https://www.nps.gov/deva/) |
+| Sequoia NP | ⚠️ Перевірити timed entry на квітень | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
+| Griffith Observatory | ❌ Безкоштовно | [griffithobservatory.org](https://griffithobservatory.org/) |
+| Sphere (якщо всередину) | ✅ Так, квитки $50–200+ | [thesphere.com](https://www.thesphere.com/) |
+| Hoover Dam Tour | ✅ Так, тури розкуповуються | [usbr.gov/lc/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
+| Grand Canyon NP | ❌ Ні, квиток на вході ($35/авто) | [nps.gov/grca](https://www.nps.gov/grca/) |
+| Horseshoe Bend | ❌ Парковка $10 на місці | — |
+| Glen Canyon Dam | ❌ Безкоштовно | [nps.gov/glca](https://www.nps.gov/glca/) |
+| Antelope Canyon | ✅ **ОБОВ'ЯЗКОВО** заздалегідь! Тільки тури | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
+| Zion NP (опціонально) | ⚠️ Angels Landing потребує permit (лотерея) | [nps.gov/zion](https://www.nps.gov/zion/) · [recreation.gov](https://www.recreation.gov/permits/274880) |
 
 ---
 
@@ -189,6 +264,38 @@
 - [ ] Снеки
 - [ ] Рюкзак для хайків
 - [ ] Карти офлайн (Google Maps / Maps.me)
+
+---
+
+## Оренда авто (Turo)
+
+- **Хост:** Claire
+- **Авто:** [Honda CR-V 2021 EX](https://turo.com/us/en/suv-rental/united-states/las-vegas-nv/honda/cr-v/1249515) · номерний знак **8377D6**
+- **Рейтинг:** 4.95 (129 trips)
+- **Місць:** 5 · Автомат · Бензин (Regular) · 31 MPG
+- **Період:** Wed 01.04 20:00 — Sat 11.04 01:00
+- **Вартість:** $920.74 (включно з Unlimited Miles $99)
+- **Скасування:** Non-refundable
+- **Захист:** Out-of-pocket max **$500**
+- **Заміна ключа (FOB):** ~$250
+
+### Правила
+- 🚫 Без тварин (без дозволу хоста)
+- 🚫 Без куріння / вейпу / марихуани (штраф $150)
+- 🚫 Без off-road, без буксирування
+- 🧹 Повернути чистим + заправленим
+- 🚗 На авто є OEM-трекінг (Honda Connected Services)
+- ⚠️ Штрафи за забруднення: **$150** (бруд зовні, салон, куріння, сильне забруднення)
+
+### Забір та повернення авто (Harry Reid International Airport)
+
+> ⚠️ Аеропорт і Turo вимагають забір **тільки** з Turo Lot або Remote Pickup Lot. Штраф за порушення: **$250**, евакуація, бан + додаткові штрафи від аеропорту.
+
+1. З аеропорту сісти на **Rental Car shuttle**
+2. Доїхати до Rental Car Facility
+3. Пішки на північ до:
+   - **Turo Lot** — [7033 Gilespie St](https://www.google.com/maps/search/7033+Gilespie+St+Las+Vegas)
+   - **Remote Lot** (overflow) — [7156 Gilespie St](https://www.google.com/maps/search/7156+Gilespie+St+Las+Vegas) (через дорогу)
 
 ---
 
