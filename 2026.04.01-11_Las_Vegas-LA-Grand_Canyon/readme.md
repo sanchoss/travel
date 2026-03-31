@@ -8,6 +8,21 @@
 
 ---
 
+## 🎫 Квитки — що потрібно купити заздалегідь
+
+| # | Що | День | Дата | Час | Статус | Коли бронювати | Ціна | Посилання |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **America the Beautiful Pass** | Day 1+ | 02.04+ | — | ✅ Є | Order #UPP538726 · $90.88 (pass $80 + shipping $9.99 + tax $0.89). Expires 30.04.2027. Покриває DV + GC + Zion | $90.88 | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) |
+| 2 | **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | 08:00–16:00 | ✅ Є | Order #0898115340 · MASTERCARD ****6805 · Valid 02.04–08.04 | $35.00 | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
+| 3 | **Hoover Dam Powerplant Tour** | Day 6 | 07.04 | 08:30–10:00 | 💬 Обговорюємо | Тур ($10/ос) чи індивідуально (безкоштовно, тільки оглядовий майданчик + міст). Тури розкуповуються — вирішити ASAP | $10/особа (тур) | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
+| 4 | **Upper Antelope Canyon** | Day 9 | 10.04 | 09:00–10:40 | ✅ Є | Заброньовано! Booking #339689525, 4 квитки | $502.23 | — |
+| 5 | **Zion NP — Angels Landing Permit** | Day 9 | 10.04 | ~14:00–17:00 | ⚠️ Лотерея | Day-before lottery на recreation.gov (подати 09.04, результат о 18:00) | $6/особа | [recreation.gov](https://www.recreation.gov/permits/274880) |
+| 6 | **Sphere (всередину)** | Day 5 | 06.04 | ~16:15 | ❓ Вирішити | За 1–2 тижні; квитки дорогі, перевірте чи є шоу 06.04 | $50–200+/особа | [thesphere.com](https://www.thesphere.com/) |
+
+> **Не потребують бронювання:** Death Valley (Day 1, $30/авто або ABP), Griffith Observatory (Day 4, безкоштовно), Hollywood Walk of Fame (Day 4), Horseshoe Bend (Day 8, $10 паркінг на місці), Glen Canyon Dam (Day 8, безкоштовно), Grand Canyon (Day 7, $35/авто або ABP)
+
+---
+
 ## Маршрут по днях
 
 > ⏰ **Часові пояси:** Nevada та California — PDT (UTC-7 у квітні). Arizona — MST (UTC-7 завжди, без переведення годинників). Тобто час однаковий, але в AZ сонце сідає раніше (~18:55 vs ~19:15+ в CA/NV).
@@ -212,21 +227,20 @@
 
 ## Квитки та бронювання
 
-> 💡 **America the Beautiful Pass** ($80) — покриває вхід у всі національні парки на рік. Вам потрібно: Death Valley ($30) + Sequoia ($35) + Grand Canyon ($35) + Zion ($35, якщо заїдете) = **$100–135 окремо** → пас вигідніший!
-> Купити: [nps.gov/planyourvisit/passes.htm](https://www.nps.gov/planyourvisit/passes.htm) або на вході першого парку.
+> 💡 **America the Beautiful Pass** ($90.88) — покриває вхід у всі національні парки на рік. Order #UPP538726, expires 30.04.2027. Покриває DV + GC + Zion.
 
-| Що | Бронювати заздалегідь? | Офіційний сайт |
-|---|---|---|
-| Death Valley NP | ❌ Ні, квиток на вході ($30/авто) | [nps.gov/deva](https://www.nps.gov/deva/) |
-| Sequoia NP | ⚠️ Перевірити timed entry на квітень | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
-| Griffith Observatory | ❌ Безкоштовно | [griffithobservatory.org](https://griffithobservatory.org/) |
-| Sphere (якщо всередину) | ✅ Так, квитки $50–200+ | [thesphere.com](https://www.thesphere.com/) |
-| Hoover Dam Tour | ✅ Так, тури розкуповуються | [usbr.gov/lc/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
-| Grand Canyon NP | ❌ Ні, квиток на вході ($35/авто) | [nps.gov/grca](https://www.nps.gov/grca/) |
-| Horseshoe Bend | ❌ Парковка $10 на місці | — |
-| Glen Canyon Dam | ❌ Безкоштовно | [nps.gov/glca](https://www.nps.gov/glca/) |
-| Antelope Canyon | ✅ **ОБОВ'ЯЗКОВО** заздалегідь! Тільки тури | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
-| Zion NP (опціонально) | ⚠️ Angels Landing потребує permit (лотерея) | [nps.gov/zion](https://www.nps.gov/zion/) · [recreation.gov](https://www.recreation.gov/permits/274880) |
+| Що | Бронювати заздалегідь? | Маємо | Офіційний сайт |
+|---|---|---|---|
+| Death Valley NP | ❌ Ні, покриває America the Beautiful Pass | ✅ America the Beautiful Pass | [nps.gov/deva](https://www.nps.gov/deva/) |
+| Sequoia NP | ⚠️ Timed entry / Site Pass | ✅ Site Pass $35 (Order #0898115340, valid 02–08.04) | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
+| Griffith Observatory | ❌ Безкоштовно | ✅ Не потрібен | [griffithobservatory.org](https://griffithobservatory.org/) |
+| Sphere (якщо всередину) | ✅ Так, квитки $50–200+ | ❓ Вирішуємо | [thesphere.com](https://www.thesphere.com/) |
+| Hoover Dam Tour | ✅ Так, тури розкуповуються | 💬 Обговорюємо (тур чи індивідуально) | [usbr.gov/lc/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
+| Grand Canyon NP | ❌ Ні, покриває America the Beautiful Pass | ✅ America the Beautiful Pass | [nps.gov/grca](https://www.nps.gov/grca/) |
+| Horseshoe Bend | ❌ Парковка $10 на місці | ✅ Не потрібен | — |
+| Glen Canyon Dam | ❌ Безкоштовно | ✅ Не потрібен | [nps.gov/glca](https://www.nps.gov/glca/) |
+| Antelope Canyon | ✅ **ОБОВ'ЯЗКОВО** заздалегідь! | ✅ Booking #339689525, 4 квитки, $502.23 | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
+| Zion NP (опціонально) | ⚠️ Angels Landing — лотерея | ⚠️ Day-before lottery 09.04 | [nps.gov/zion](https://www.nps.gov/zion/) · [recreation.gov](https://www.recreation.gov/permits/274880) |
 
 ---
 
@@ -261,6 +275,40 @@
 - **Літак:** Airbus A321
 - **Місця:** 28A, 28B, 28C, 28D
 - **Харчування:** Refreshment
+
+### Назад · Spirit Airlines · 11.04.2026
+
+- **Confirmation Number:** WWT2ND
+- **Free Spirit #:** 1029596043
+- **Пасажири:** 4 дорослих
+- **Оплата:** **$985.92 USD** (Flight $492.60 + Bags $350.00 + Tax $143.32)
+
+#### Пасажири
+| # | Ім'я | Free Spirit # |
+|---|------|--------------|
+| 1 | SENYK, OLEKSANDR | 1029596043 |
+| 2 | SENYK, NATALIIA | — |
+| 3 | SENYK, VOLODYMYR | — |
+| 4 | SENYK, ZAKHAR | — |
+
+### NK 1255 · LAS → IAH
+- **Виліт:** 1:01 AM (Термінал 1) → **Приліт:** 5:52 AM
+- **Тривалість:** 2 год 51 хв
+
+> ⚠️ Пересадка в IAH — **54 хвилини**
+
+### NK 1158 · IAH → LGA
+- **Виліт:** 6:46 AM → **Приліт:** 11:00 AM (Термінал A)
+- **Тривалість:** 3 год 14 хв
+
+#### Багаж Spirit (по сегментах)
+
+| Пасажир | NK 1255 carry-on | NK 1255 checked | NK 1158 carry-on | NK 1158 checked |
+|---|---|---|---|---|
+| Oleksandr Senyk | 1 | 1 | 1 | 0 |
+| Nataliia Senyk | 1 | 1 | 0 | 0 |
+| Volodymyr Senyk | 0 | 0 | 0 | 0 |
+| Zakhar Senyk | 0 | 0 | 0 | 0 |
 
 ### 🧳 Багаж
 
