@@ -2,7 +2,9 @@
 
 **01.04.2026 — 11.04.2026** (11 днів / 10 ночей)
 
-[Google Sheet](https://docs.google.com/spreadsheets/d/1LEWtGXnE2ZuVKpud_WfjipjxMxRwBw34f-tLojVSPkA/edit?usp=sharing) · [Карта маршруту](https://www.google.com/maps/d/edit?mid=1i84h3LbfKL5Bt-8-LU0EHkXdVTGWc30&usp=sharing)
+[Google Sheet](https://docs.google.com/spreadsheets/d/1LEWtGXnE2ZuVKpud_WfjipjxMxRwBw34f-tLojVSPkA/edit?usp=sharing) · [Карта маршруту](https://www.google.com/maps/d/edit?mid=1i84h3LbfKL5Bt-8-LU0EHkXdVTGWc30&usp=sharing) · [KML-файл](route-map.kml)
+
+> 📍 **route-map.kml** — ~45 плейсмарків у 10 папках (Day 0–9) + лінія маршруту. Аеропорт, Turo, готелі (6), Death Valley (4), Sequoia (5), Tejon/Pyramid/Vasquez (4), LA (церква, Griffith, Mt Hollywood, TCL, Walk of Fame, Santa Barbara), Vegas (Sphere, Strip), Route 66 (Hoover Dam, Oatman, Seligman, Williams), Grand Canyon (4), Sedona, Horseshoe Bend, Glen Canyon Dam + Overlook, Antelope Canyon (2), Zion, Angels Landing, Bryce Canyon. 🅿️ Парковки: Fern Dell Dr, Franklin & Highland, Treasure Island. Стилі: пронумеровані іконки по днях, жовті — готелі, зелені — парковки, білі — опціональні. Імпорт: Google My Maps → Import → завантажити KML.
 
 ---
 
@@ -204,7 +206,7 @@
 - [Google Maps](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ)
 - [Choice Hotels](https://www.choicehotels.com/arizona/page/quality-inn-hotels)
 
-> ⚠️ Готелі 3–6 потрібно забронювати!
+> ⚠️ Готелі 4–6 потрібно забронювати!
 
 ---
 
@@ -337,6 +339,8 @@
 
 ### В дорогу
 - [ ] Вода (велика пляшка на кожного)
+- [ ] Пляшка з ремінцем для води (для Antelope Canyon)
+- [ ] Прозора сумка / clear bag (для Antelope Canyon — без рюкзаків!)
 - [ ] Снеки
 - [ ] Рюкзак для хайків
 - [ ] Карти офлайн (Google Maps / Maps.me)
