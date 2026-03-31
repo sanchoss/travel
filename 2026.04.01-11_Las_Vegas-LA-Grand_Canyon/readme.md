@@ -4,7 +4,7 @@
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1LEWtGXnE2ZuVKpud_WfjipjxMxRwBw34f-tLojVSPkA/edit?usp=sharing) · [Карта маршруту](https://www.google.com/maps/d/edit?mid=1Kfn5dO2T5VcJo4E4pOSpPcqhzvIklCM&usp=sharing) · [KML-файл](route-map.kml)
 
-> 📍 **route-map.kml** — ~45 плейсмарків у 10 папках (Day 0–9) + лінія маршруту. Аеропорт, Turo, готелі (6), Death Valley (4), Sequoia (5), Tejon/Pyramid/Vasquez (4), LA (церква, Griffith, Mt Hollywood, TCL, Walk of Fame, Santa Barbara), Vegas (Sphere, Strip), Route 66 (Hoover Dam, Oatman, Seligman, Williams), Grand Canyon (4), Sedona, Horseshoe Bend, Glen Canyon Dam + Overlook, Antelope Canyon (2), Zion, Angels Landing, Bryce Canyon. 🅿️ Парковки: Fern Dell Dr, Franklin & Highland, Treasure Island. Стилі: пронумеровані іконки по днях, жовті — готелі, зелені — парковки, білі — опціональні. Імпорт: Google My Maps → Import → завантажити KML.
+> 📍 **route-map.kml** — ~49 плейсмарків у 10 папках (Day 0–9) + лінія маршруту. Аеропорт, Turo, готелі (6), Death Valley (6 — Dante's View, Badwater, Artist's Drive, Zabriskie, Sand Dunes, General Store), Sequoia (5), Tejon/Pyramid/Vasquez (4), LA (церква, Griffith, Mt Hollywood, TCL, Walk of Fame, Santa Barbara), Vegas (Seven Magic Mountains, Sphere, Strip), Route 66 (Hoover Dam, Oatman, Seligman, Williams), Grand Canyon (4), Sedona + Chapel of the Holy Cross, Horseshoe Bend, Glen Canyon Dam + Overlook, Antelope Canyon (2), Zion, Angels Landing, Bryce Canyon. 🅿️ Парковки: Fern Dell Dr, Franklin & Highland, Treasure Island. Стилі: пронумеровані іконки по днях, жовті — готелі, зелені — парковки, білі — опціональні. Імпорт: Google My Maps → Import → завантажити KML.
 
 ---
 
@@ -12,12 +12,13 @@
 
 | # | Що | День | Дата | Час | Статус | Коли бронювати | Ціна | Посилання |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **America the Beautiful Pass** | Day 1+ | 02.04+ | — | ✅ Є | Order #UPP538726 · $90.88 (pass $80 + shipping $9.99 + tax $0.89). Expires 30.04.2027. Покриває DV + GC + Zion | $90.88 | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) |
+| 1 | **America the Beautiful Pass** | Day 1+ | 02.04+ | — | ✅ Є | Order #UPP538726 · $90.88 (pass $80 + shipping $9.99 + tax $0.89). Expires 30.04.2027. Покриває DV + GC + Zion. ⚠️ **Фізичний пас поштою** — скан/фото НЕ дійсні! Перевірити поштову скриньку до виїзду | $90.88 | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) |
 | 2 | **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | 08:00–16:00 | ✅ Є | Order #0898115340 · MASTERCARD ****6805 · Valid 02.04–08.04 | $35.00 | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
-| 3 | **Hoover Dam Powerplant Tour** | Day 6 | 07.04 | 08:30–10:00 | 💬 Обговорюємо | Тур ($10/ос) чи індивідуально (безкоштовно, тільки оглядовий майданчик + міст). Тури розкуповуються — вирішити ASAP | $10/особа (тур) | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
+| 3 | **Hoover Dam — Exhibits Only** | Day 6 | 07.04 | 09:00–15:45 | ✅ Є | Order #C75-HBC-GQLT · 3 Adult + 1 Junior · Пред'явити QR в Visitor Center | $60.00 | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
 | 4 | **Upper Antelope Canyon** | Day 9 | 10.04 | 09:00–10:40 | ✅ Є | Заброньовано! Booking #339689525, 4 квитки | $502.23 | — |
 | 5 | **Zion NP — Angels Landing Permit** | Day 9 | 10.04 | ~14:00–17:00 | ⚠️ Лотерея | Day-before lottery на recreation.gov (подати 09.04, результат о 18:00) | $6/особа | [recreation.gov](https://www.recreation.gov/permits/274880) |
-| 6 | **Sphere (всередину)** | Day 5 | 06.04 | ~16:15 | ❓ Вирішити | За 1–2 тижні; квитки дорогі, перевірте чи є шоу 06.04 | $50–200+/особа | [thesphere.com](https://www.thesphere.com/) |
+| 6 | **Sphere — "The Wizard of Oz"** | Day 5 | 06.04 | 20:00 | ✅ Є | Order #60-18902/NEV · 4 квитки (Sec 405, Row 10, Seats 21–24) + Parking Lot B | $521.00 | [thesphere.com](https://www.thesphere.com/) |
+| 7 | **Zion NP — Site Pass** | Day 9 | 10.04 | — | ✅ Є | Order #0872378323 · Private Vehicle Pass · Valid 06–12.04. ⚠️ Завантажити PDF заздалегідь — немає зв'язку! | $35.00 | [recreation.gov](https://www.recreation.gov/) |
 
 > **Не потребують бронювання:** Death Valley (Day 1, $30/авто або ABP), Griffith Observatory (Day 4, безкоштовно), Hollywood Walk of Fame (Day 4), Horseshoe Bend (Day 8, $10 паркінг на місці), Glen Canyon Dam (Day 8, безкоштовно), Grand Canyon (Day 7, $35/авто або ABP)
 
@@ -27,128 +28,155 @@
 
 > ⏰ **Часові пояси:** Nevada та California — PDT (UTC-7 у квітні). Arizona — MST (UTC-7 завжди, без переведення годинників). Тобто час однаковий, але в AZ сонце сідає раніше (~18:55 vs ~19:15+ в CA/NV).
 
+> 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
+
 ### Day 0 — Середа, 01.04 · ⏰ 21:09–23:00 · 🌅 19:07
 - 21:09 ✈️ Приліт LAS
 - 21:30 🚌 Rental Car shuttle → Turo Lot (~30 хв)
 - 22:00 🚗 Отримання авто, огляд, фото (~30 хв)
 - 22:30 🚗 → Henderson (~15 хв)
-- 22:45 🏨 **Comfort Inn & Suites Henderson — Las Vegas** (check-in 15:00)
+- 22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #26234509 (check-in 15:00)
 
 ### Day 1 — Четвер, 02.04 · Death Valley · ⏰ 07:00–20:00 · 🌅 19:17
-- 07:00 🏨 Comfort Inn & Suites Henderson — Las Vegas (check-out 12:00)
+> 🎫 **America the Beautiful Pass** — вхід безкоштовний (Order #UPP538726)
+- 07:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - 07:00 🚗 Henderson → Dante's View (~2 год)
-- 09:00 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
+- 09:00  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
 - 09:30 🚗 → Badwater Basin (~45 хв)
-- 10:15 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
-- 10:45 🚗 → Zabriskie Point (~30 хв)
-- 11:15 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
-- 11:35 🚗 → General Store (~10 хв)
-- 11:45 🛒 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
-- 12:00 🚗 Death Valley → Three Rivers (~4 год)
-- 16:00 🏨 **Comfort Inn & Suites Sequoia Kings Canyon** (заселення, check-in 16:00)
+- 10:15  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
+- 10:45 🚗 → Artist's Drive (~5 хв)
+- 10:50  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
+- 11:20 🚗 → Zabriskie Point (~20 хв)
+- 11:40  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
+- 12:00 🚗 → General Store (~10 хв)
+- 12:10  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни) · 🕐 24/7
+- 12:30 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
+- 12:45 🚗 Death Valley → Three Rivers (~4 год)
+- 16:45 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (заселення, check-in 16:00)
 
 ### Day 2 — П'ятниця, 03.04 · Sequoia National Park · ⏰ 08:00–17:00 · 🌅 19:27
+> 🎫 **Sequoia Site Pass** — $35 (Order #0898115340, valid 02–08.04)
 - 08:00 🚗 Готель → Ash Mountain Entrance (~15 хв)
 - 08:15 📍 [Sequoia NP — Ash Mountain Entrance](https://www.google.com/maps/search/Sequoia+National+Park+Ash+Mountain+Entrance) (~15 хв) · 🕐 парк 24/7
-- 08:30 🛒 [Foothills Visitor Center](https://www.google.com/maps/search/Foothills+Visitor+Center+Sequoia) (~20 хв) · 🕐 8:00–17:00
+- 08:30  🔴 🛒 [Foothills Visitor Center](https://www.google.com/maps/search/Foothills+Visitor+Center+Sequoia) (~20 хв) · 🕐 8:00–17:00
 - 08:50 🚗 → General Sherman Tree (~45 хв, серпантин)
-- 09:35 🌲 [General Sherman Tree](https://www.google.com/maps/search/General+Sherman+Tree+Sequoia) (~45 хв) · 🕐 24/7
+- 09:35  🟢 🌲 [General Sherman Tree](https://www.google.com/maps/search/General+Sherman+Tree+Sequoia) (~45 хв) · 🕐 24/7
 - 10:20 🚗 → Tunnel Log (~15 хв)
-- 10:35 🌲 [Tunnel Log](https://www.google.com/maps/search/Tunnel+Log+Sequoia+National+Park) (~20 хв) · 🕐 24/7
+- 10:35  🟡 🌲 [Tunnel Log](https://www.google.com/maps/search/Tunnel+Log+Sequoia+National+Park) (~20 хв) · 🕐 24/7
 - 10:55 🚗 → Moro Rock (~10 хв)
-- 11:05 🥾 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7
+- 11:05  🟢 🥾 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7
 - 12:05 🍽️ Обід / перекус
-- 12:30 🚗 Прогулянка парком / вільний час (~2.5 год)
+- 12:30 🚗 → Crescent Meadow (~10 хв від Moro Rock)
+- 12:40  🟡 🌲 [Crescent Meadow](https://www.google.com/maps/search/Crescent+Meadow+Sequoia+National+Park) (~30 хв, рівна тропа серед секвой та луків) · 🕐 24/7
+  > 🅿️ Парковка в кінці Crescent Meadow Rd — безкоштовна з Site Pass
+- 13:10 🚗 → Big Trees Trail (~5 хв)
+- 13:15  🔴 🥾 [Big Trees Trail](https://www.google.com/maps/search/Big+Trees+Trail+Sequoia+National+Park) (~1 год, ~2 км рівна петля навколо Round Meadow) · 🕐 24/7
+  > 🅿️ Парковка біля [Giant Forest Museum](https://www.google.com/maps/search/Giant+Forest+Museum+Sequoia) — безкоштовна з Site Pass
+- 14:15 🚗 Вільний час / прогулянка (~45 хв)
 - 15:00 🚗 Повернення в готель (~1 год)
-- 16:00 🏨 **Comfort Inn & Suites Sequoia Kings Canyon**
+- 16:00 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers)
 
 ### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · ⏰ 11:00–19:00 · 🌅 19:23
-- 11:00 🏨 Comfort Inn & Suites Sequoia Kings Canyon (check-out 11:00)
+- 11:00 🏨 [Comfort Inn & Suites Sequoia Kings Canyon](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (check-out 11:00)
 - 11:00 🚗 Three Rivers → Outlets at Tejon (~2 год)
-- 13:00 🛍️ [Outlets at Tejon](https://www.google.com/maps/search/Outlets+at+Tejon) (~1.5 год) · 🕐 10:00–21:00
+- 13:00  🟡 🛒️ [Outlets at Tejon](https://www.google.com/maps/search/Outlets+at+Tejon) (~1.5 год) · 🕐 10:00–21:00
 - 14:30 🚗 → Tejon Pass (~5 хв)
-- 14:35 📍 [Tejon Pass](https://www.google.com/maps/search/Tejon+Pass+California) (~10 хв, scenic viewpoint) · 🕐 24/7
+- 14:35  🔴 📍 [Tejon Pass](https://www.google.com/maps/search/Tejon+Pass+California) (~10 хв, scenic viewpoint) · 🕐 24/7
 - 14:45 🚗 → Pyramid Lake (~15 хв)
-- 14:50 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
+- 14:50  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
 - 15:20 🚗 → Vasquez Rocks (~40 хв)
-- 16:00 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
+- 16:00  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
 - 16:45 🚗 → Hollywood (~40 хв)
-- 17:25 🏨 **Comfort Inn Los Angeles near Hollywood** (заселення, check-in 15:00)
+- 17:25 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (заселення, check-in 15:00)
 
 ### Day 4 — Неділя, 05.04 · Los Angeles · ⏰ 09:00–20:00 · 🌅 19:24
+
+> 🔀 **Варіант A (рекомендую):** Griffith Observatory + Mt Hollywood Trail + Hollywood Walk of Fame — класика LA, мінімум їзди
+> 🔀 **Варіант B:** [Santa Barbara](https://www.google.com/maps/search/Santa+Barbara+California) на цілий день (~1.5 год від LA) — пляж, іспанська архітектура, але 3 год на дорогу
 
 > 🅿️ **Паркування в LA:**
 > - **Griffith Observatory** — безкоштовний паркінг, але в неділю заповнюється до 10:00. Альтернатива: [парковка на Fern Dell Dr](https://www.google.com/maps/search/Fern+Dell+Dr+parking+Griffith+Park) (безкоштовно) + 20 хв пішки вгору, або [Greek Theatre lot](https://www.google.com/maps/search/Greek+Theatre+parking+Los+Angeles) + DASH shuttle (безкоштовний)
 > - **Hollywood Walk of Fame** — безкоштовно на бічних вулицях на північ від Franklin Ave (~10 хв пішки). [Парковка біля Franklin & Highland](https://www.google.com/maps/search/Franklin+Ave+Highland+Ave+Los+Angeles+parking). Платні структури на Hollywood Blvd — $5–15
 - 09:00 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~1.5 год, літургія)
 - 10:30 🚗 → Griffith Observatory (~20 хв)
-- 10:50 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~1 год) · 🕐 Нд 12:00–22:00
-- 11:50 🪴 [Mt Hollywood Trail](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~1.5 год, ~5 км туди-назад) · 🕐 до заходу
+- 10:50  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~1 год) · 🕐 Нд 12:00–22:00
+- 11:50  🟡 🪴 [Mt Hollywood Trail](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~1.5 год, ~5 км туди-назад) · 🕐 до заходу
 - 13:20 🍽️ Обід (~1 год)
 - 14:20 🚗 → Hollywood Blvd (~15 хв)
-- 14:35 📍 [Hollywood Walk of Fame / Elvis Presley's Star](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~1 год) · 🕐 24/7
+- 14:35  🟢 📍 [Hollywood Walk of Fame / Elvis Presley's Star](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~1 год) · 🕐 24/7
   - 🎬 [TCL Chinese Theatre](https://www.google.com/maps/search/TCL+Chinese+Theatre+Hollywood) — відбитки рук/ніг зірок
   - ⭐ [Michael Jackson star](https://www.google.com/maps/search/Michael+Jackson+star+Hollywood) — 6927 Hollywood Blvd
   - ⭐ Інші збережені: Frank Sinatra, The Beatles, Queen, Chuck Norris, Tom Cruise, Morgan Freeman, Arnold Schwarzenegger, Jackie Chan, The Rock, Snoop Dogg
-- 15:35 🚗 Вільний час / повернення в готель
-- 📍 *(опціонально)* [Santa Barbara](https://www.google.com/maps/search/Santa+Barbara+California) (~1.5 год від LA, на цілий день замість Griffith/Hollywood)
-- 🏨 **Comfort Inn Los Angeles near Hollywood**
+- 15:35 🚗 → Santa Monica (~40 хв)
+  > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
+- 16:15  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1.5 год) · 🕐 24/7 (атракціони ~11:00–21:00)
+  - 🎡 Pacific Park — оглядове колесо, американські гірки
+  - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
+- 17:45 🚗 → Готель (~40 хв)
+- 18:25 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
 
 ### Day 5 — Понеділок, 06.04 · LA → Las Vegas · ⏰ 10:00–21:00 · 🌅 19:11
 
 > 🅿️ **Паркування на Strip:** безкоштовно на вулицях Henderson ввечері. Для Strip — [Treasure Island](https://www.google.com/maps/search/Treasure+Island+Las+Vegas+parking) має безкоштовний self-parking. Інші казино: безкоштовно перші 1–3 год
-- 10:00 🏨 Comfort Inn Los Angeles near Hollywood (check-out 12:00)
+- 10:00 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (check-out 12:00)
 - 10:00 🚗 Лос-Анджелес → Лас-Вегас (~4.5 год)
+- 14:00  🔴 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~15 хв, кольорові кам'яні тотеми в пустелі, прямо біля I-15) · 🕐 24/7
 - 14:30 🍽️ Обід в Лас-Вегасі (~1 год)
-- 15:30 🏨 **Comfort Inn & Suites Henderson — Las Vegas** (check-in 15:00, залишити речі)
-- 16:00 🚗 → Sphere (~15 хв)
-- 16:15 📍 [Sphere](https://www.google.com/maps/search/Sphere+Las+Vegas) (~30 хв, зовні / фото) · 🕐 24/7 (зовні)
-- 16:45 🚗 → Strip (~5 хв)
-- 16:50 📍 [Las Vegas Strip / Grand Prix Plaza](https://www.google.com/maps/search/Las+Vegas+Strip+Grand+Prix+Plaza) (~3 год) · 🕐 24/7
-- 20:00 🚗 → Henderson (~20 хв)
-- 20:20 🏨 Comfort Inn & Suites Henderson — Las Vegas
+- 15:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ (check-in 15:00, залишити речі)
+- 16:00 🚗 → Strip (~15 хв)
+- 16:15  🟢 📍 [Las Vegas Strip / Grand Prix Plaza](https://www.google.com/maps/search/Las+Vegas+Strip+Grand+Prix+Plaza) (~3 год, прогулянка) · 🕐 24/7
+- 19:15 🚗 → Sphere Parking Lot B (~10 хв)
+- 19:30 📍 [Sphere](https://www.google.com/maps/search/Sphere+Las+Vegas) — прибуття / вхід
+  > 🎫 Order #60-18902/NEV · Sec 405, Row 10, Seats 21–24 · Upper Gallery · Mobile tickets · 🅿️ Parking Lot B включено
+  > ⚠️ **Двері відкриваються о 19:15** (за 45 хв до шоу). Запізнення — не впускають! Імерсивний досвід: гаптика крісел, спецефекти, туман, вітер, запахи, гучні звуки, спалахи світла. Квитки non-refundable.
+- 20:00 🎬 **"The Wizard of Oz" at Sphere** (~1.5 год)
+- ~21:30 🚗 → Henderson (~20 хв)
+- ~21:50 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 
 ### Day 6 — Вівторок, 07.04 · Route 66 → Williams · ⏰ 08:00–19:00 · 🌅 18:53
-- 08:00 🏨 Comfort Inn & Suites Henderson — Las Vegas (check-out 12:00)
+- 08:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - 08:00 🚗 Henderson → Hoover Dam (~30 хв)
-- 08:30 📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~1.5 год) · 🕐 9:00–17:00 · 🅿️ $10 гараж ⚠️ тур бронювати заздалегідь
+- 08:30  🟢 📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~1.5 год) · 🕐 9:00–15:45 · 🅿️ $10 гараж
+  > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
+  > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
 - 10:00 🚗 → Oatman (~1.5 год)
-- 11:30 📍 [Oatman](https://www.google.com/maps/search/Oatman+Arizona+Route+66) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
+- 11:30  🟡 📍 [Oatman](https://www.google.com/maps/search/Oatman+Arizona+Route+66) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
 - 12:15 🍽️ Обід в Oatman (~30 хв)
 - 12:45 🚗 → Seligman (~1.5 год)
-- 14:15 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
+- 14:15  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
 - 14:45 🚗 → Williams (~45 хв)
-- 15:30 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
-- 16:00 🏨 **Quality Inn Williams — Grand Canyon** (2 ночі, check-in 15:00)
+- 15:30  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
+- 16:00 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) · ❌ Забронювати! (2 ночі, check-in 15:00)
 
 ### Day 7 — Середа, 08.04 · Grand Canyon · ⏰ 08:00–18:00 · 🌅 18:56
 - 08:00 🚗 Williams → South Entrance Station (~1 год)
-- 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) (вхід $35/авто, або America the Beautiful Pass) · 🕐 парк 24/7
+- 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
 - 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Mather Point (~15 хв)
-- 09:15 📍 [Mather Point / Visitor Center](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~1 год) · 🕐 Visitor Center 9:00–17:00
-- 10:15 📍 [Rim Trail / Bright Angel Trail](https://www.google.com/maps/search/Bright+Angel+Trail+Grand+Canyon) viewpoints (~2 год) · 🕐 24/7
+- 09:15  🟢 📍 [Mather Point / Visitor Center](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~1 год) · 🕐 Visitor Center 9:00–17:00
+- 10:15  🟢 📍 [Rim Trail / Bright Angel Trail](https://www.google.com/maps/search/Bright+Angel+Trail+Grand+Canyon) viewpoints (~2 год) · 🕐 24/7
 - 12:15 🍽️ Обід (~1 год)
-- 13:15 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive + зупинки (~3 год) · 🕐 24/7
+- 13:15  🟡 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive + зупинки (~3 год) · 🕐 24/7
 - 16:15 🚗 Повернення в Williams (~1.5 год)
-- 17:45 🏨 **Quality Inn Williams — Grand Canyon**
+- 17:45 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
 
 ### Day 8 — Четвер, 09.04 · Sedona → Page · ⏰ 08:00–20:00 · 🌅 18:55
-- 08:00 🏨 Quality Inn Williams — Grand Canyon (check-out 11:00)
+- 08:00 🏨 [Quality Inn Williams — Grand Canyon](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) (check-out 11:00)
 - 08:00 🚗 Williams → Sedona (~1 год через Flagstaff)
-- 09:00 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~2 год, червоні скелі, огляд) · 🕐 24/7
+- 09:00  🟡 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~2 год, червоні скелі, огляд) · 🕐 24/7
+  -  🟡 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
 - 11:00 🚗 Sedona → Page (~3.5 год через Flagstaff)
 - 14:30 🍽️ Обід в Page (~30 хв)
-- 15:00 🏨 **Quality Inn at Lake Powell — Page** (check-in 15:00, залишити речі)
+- 15:00 🏨 [**Quality Inn at Lake Powell — Page**](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ) · ❌ Забронювати! (check-in 15:00, залишити речі)
 - 15:30 🚗 → Horseshoe Bend (~5 хв)
-- 15:35 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1.5 год, парковка $10) · 🕐 до заходу сонця
+- 15:35  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1.5 год, парковка $10) · 🕐 до заходу сонця
 - 17:05 🚗 → Glen Canyon Dam (~10 хв)
-- 17:15 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~30 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
+- 17:15  🔴 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~30 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
   - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
 - 17:45 🚗 → Готель (~10 хв)
-- 18:00 🏨 Quality Inn at Lake Powell — Page
+- 18:00 🏨 [Quality Inn at Lake Powell — Page](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ)
 
 ### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Las Vegas · ⏰ 07:30–23:00 · 🌅 18:57
-- 07:30 🏨 Quality Inn at Lake Powell — Page (check-out раніше)
+- 07:30 🏨 [Quality Inn at Lake Powell — Page](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ) (check-out раніше)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
 - 09:00 **Sightseer's Tour — Upper Antelope Canyon** (9:00–10:40)
@@ -167,12 +195,14 @@
   - ❌ Пропустив тур = без повернення коштів (анулюється за 7 хв до старту)
 - 10:40 🚗 Повернення до офісу
 - 11:00 🍽️ Обід в Page (~30 хв)
-- 11:30 📍 *(опціонально)* [Zion NP](https://www.google.com/maps/search/Zion+National+Park) (~2 год, scenic drive + Canyon Overlook Trail, вхід $35/авто, +2 год об'їзд) · 🕐 парк 24/7
-  - 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) — ❗ потребує permit (лотерея), не встигнете за 2 год
-- 📍 *(опціонально)* [Bryce Canyon NP](https://www.google.com/maps/search/Bryce+Canyon+National+Park) — +3 год об'їзд від Page, тільки якщо не їдете в Zion
-- **Варіант A (напряму):** 11:30 🚗 Page → Las Vegas (~4.5 год) → прибуття ~16:00
-- **Варіант B (через Zion):** 11:30 🚗 Page → Zion (~2 год) → Zion (~2 год) → Las Vegas (~2.5 год) → прибуття ~20:00
-- 🚗 Повернути авто в аеропорту ввечері (до 01:00 11.04)
+> 🔀 **Варіант A (рекомендую):** Page → Zion (~2 год) — **4.5 год в Zion** (13:30–18:00). Більше часу на shuttle + trails
+> 🔀 **Варіант B (через Bryce):** Page → [Bryce Canyon NP](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (~2 год) → Bryce (~1–1.5 год, Sunset/Bryce/Inspiration Points) → Zion (~1.5 год) — **2 год в Zion** (16:00–18:00), але побачите унікальні худу
+- 11:30 🚗 Page → Zion NP (~2 год)
+- 13:30  🟢 📍 [Zion NP](https://www.google.com/maps/search/Zion+National+Park) (~4.5 год, scenic drive + Canyon Overlook Trail) · 🕐 парк 24/7
+  > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
+  - 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) — ❗ потребує permit (лотерея, подати 09.04)
+- 18:00 🚗 Zion → Las Vegas (~2.5 год)
+- 20:30 🚗 Повернути авто в аеропорту (до 01:00 11.04)
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
@@ -187,7 +217,7 @@
 - **Адреса:** 401 N Gibson Rd, Henderson, NV 89011
 - **Телефон:** +1 (702) 387-6500
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
-- [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv293)
+- [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
 
 ### 2. Comfort Inn & Suites Sequoia Kings Canyon
 - **Дати:** 02.04 (Thu) 16:00 — 04.04 (Sat) 11:00 · 2 ночі
@@ -195,7 +225,7 @@
 - **Адреса:** 40820 Sierra Dr, Three Rivers, CA 93271
 - **Телефон:** +1 (559) 566-0232
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers)
-- [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/ca867)
+- [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/caa26)
 
 ### 3. Comfort Inn Los Angeles near Hollywood
 - **Дати:** 04.04 (Sat) 15:00 — 06.04 (Mon) 12:00 · 2 ночі
@@ -203,7 +233,7 @@
 - **Адреса:** 1823 N Highland Ave, Los Angeles, CA 90028
 - **Телефон:** +1 (213) 413-8222
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
-- [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca613)
+- [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca785)
 
 ### 4. Comfort Inn & Suites Henderson — Las Vegas (повторно)
 - **Дати:** 06.04 (Mon) — 07.04 (Tue) · 1 ніч
@@ -228,19 +258,23 @@
 ## Квитки та бронювання
 
 > 💡 **America the Beautiful Pass** ($90.88) — покриває вхід у всі національні парки на рік. Order #UPP538726, expires 30.04.2027. Покриває DV + GC + Zion.
+> ⚠️ **Тільки фізичний пас** — надсилається поштою, скановані/електронні копії НЕ дійсні. Перевірити поштову скриньку до 01.04!
 
 | Що | Бронювати заздалегідь? | Маємо | Офіційний сайт |
 |---|---|---|---|
 | Death Valley NP | ❌ Ні, покриває America the Beautiful Pass | ✅ America the Beautiful Pass | [nps.gov/deva](https://www.nps.gov/deva/) |
 | Sequoia NP | ⚠️ Timed entry / Site Pass | ✅ Site Pass $35 (Order #0898115340, valid 02–08.04) | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
 | Griffith Observatory | ❌ Безкоштовно | ✅ Не потрібен | [griffithobservatory.org](https://griffithobservatory.org/) |
-| Sphere (якщо всередину) | ✅ Так, квитки $50–200+ | ❓ Вирішуємо | [thesphere.com](https://www.thesphere.com/) |
-| Hoover Dam Tour | ✅ Так, тури розкуповуються | 💬 Обговорюємо (тур чи індивідуально) | [usbr.gov/lc/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
+| Sphere — "The Wizard of Oz" | ✅ Заброньовано | ✅ Order #60-18902/NEV, 4 квитки $521.00 (Sec 405, Row 10, Seats 21–24 + Parking Lot B) | [thesphere.com](https://www.thesphere.com/) |
+| Hoover Dam — Exhibits Only | ✅ Заброньовано | ✅ Order #C75-HBC-GQLT, 4 квитки, $60.00 | [usbr.gov/lc/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
 | Grand Canyon NP | ❌ Ні, покриває America the Beautiful Pass | ✅ America the Beautiful Pass | [nps.gov/grca](https://www.nps.gov/grca/) |
 | Horseshoe Bend | ❌ Парковка $10 на місці | ✅ Не потрібен | — |
 | Glen Canyon Dam | ❌ Безкоштовно | ✅ Не потрібен | [nps.gov/glca](https://www.nps.gov/glca/) |
 | Antelope Canyon | ✅ **ОБОВ'ЯЗКОВО** заздалегідь! | ✅ Booking #339689525, 4 квитки, $502.23 | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
-| Zion NP (опціонально) | ⚠️ Angels Landing — лотерея | ⚠️ Day-before lottery 09.04 | [nps.gov/zion](https://www.nps.gov/zion/) · [recreation.gov](https://www.recreation.gov/permits/274880) |
+| Zion NP | ⚠️ Site Pass + Angels Landing лотерея | ✅ Site Pass $35 (Order #0872378323, valid 06–12.04) + America the Beautiful Pass. Angels Landing — day-before lottery 09.04. ⚠️ Завантажити PDF пасу заздалегідь! | [nps.gov/zion](https://www.nps.gov/zion/) · [recreation.gov](https://www.recreation.gov/permits/274880) |
+| Santa Monica Pier | ❌ Безкоштовно | ✅ Не потрібен | [santamonicapier.org](https://www.santamonicapier.org/) |
+
+> 🌲 **Crescent Meadow + Big Trees Trail** — всередині Sequoia NP, покриваються Sequoia Site Pass (вже є).
 
 ---
 
