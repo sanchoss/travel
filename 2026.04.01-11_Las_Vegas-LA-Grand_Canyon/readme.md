@@ -2,9 +2,6 @@
 
 **01.04.2026 — 11.04.2026** (11 днів / 10 ночей)
 
-[Google Sheet](https://docs.google.com/spreadsheets/d/1LEWtGXnE2ZuVKpud_WfjipjxMxRwBw34f-tLojVSPkA/edit?usp=sharing) · [Карта маршруту](https://www.google.com/maps/d/edit?mid=1Kfn5dO2T5VcJo4E4pOSpPcqhzvIklCM&usp=sharing) · [KML-файл](route-map.kml)
-
-> 📍 **route-map.kml** — ~56 плейсмарків у 10 папках (Day 0–9) + лінія маршруту. Аеропорт, Turo, готелі (6), Death Valley (6 — Dante's View, Badwater, Artist's Drive, Zabriskie, Sand Dunes, General Store), Sequoia (7 — Ash Mt, Foothills VC, General Sherman, Tunnel Log, Moro Rock, Crescent Meadow, Big Trees Trail), Tejon/Pyramid/Vasquez (4), LA (церква, Griffith, Mt Hollywood, TCL, Walk of Fame, Santa Monica Pier, Santa Barbara), Vegas (Seven Magic Mountains, Sphere — "The Wizard of Oz", Strip), Route 66 (Hoover Dam, Oatman, Seligman, Williams), Grand Canyon (4), Sedona + Chapel of the Holy Cross, Horseshoe Bend, Glen Canyon Dam + Overlook, Antelope Canyon (2), Zion, Angels Landing, Bryce Canyon. 🅿️ Парковки: Fern Dell Dr, Franklin & Highland, 1550 PCH Santa Monica, Treasure Island. Стилі: пронумеровані іконки по днях, жовті — готелі, зелені — парковки, білі — опціональні. Імпорт: Google My Maps → Import → завантажити KML.
 
 ---
 
@@ -101,8 +98,9 @@
 > - **Hollywood Walk of Fame** — безкоштовно на бічних вулицях на північ від Franklin Ave (~10 хв пішки). [Парковка біля Franklin & Highland](https://www.google.com/maps/search/Franklin+Ave+Highland+Ave+Los+Angeles+parking). Платні структури на Hollywood Blvd — $5–15
 - 09:00 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~1.5 год, літургія)
 - 10:30 🚗 → Griffith Observatory (~20 хв)
-- 10:50  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~1 год) · 🕐 Нд 12:00–22:00
-- 11:50  🟡 🪴 [Mt Hollywood Trail](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~1.5 год, ~5 км туди-назад) · 🕐 до заходу
+  > ⚠️ **Griffith Observatory відкривається о 12:00 в неділю!** Спочатку хайк, потім обсерваторія
+- 10:50  🟡 🪴 [Mt Hollywood Trail](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~1.5 год, ~5 км туди-назад) · 🕐 до заходу
+- 12:20  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~1 год) · 🕐 Нд 12:00–22:00
 - 13:20 🍽️ Обід (~1 год)
 - 14:20 🚗 → Hollywood Blvd (~15 хв)
 - 14:35  🟢 📍 [Hollywood Walk of Fame / Elvis Presley's Star](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~1 год) · 🕐 24/7
@@ -168,17 +166,17 @@
 - 10:50  🟢 🥾 Yaki Point (~20 хв огляд) → 🚌 shuttle назад до Visitor Center (~10 хв)
 - 11:20  🥾 Пішки Visitor Center → Yavapai Viewpoint Rd (~10 хв, ~0.7 км) → забрати авто
   > 📊 **Загалом хайк:** ~2.5 км пішки (Yavapai → Mather → VC, пласка Rim Trail). Shuttle до/від Yaki Point
-- 11:30  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~30 хв, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
-  > 🚌 Hermit Road shuttle (Red Route) від Village Route Transfer до Hopi Point (~15 хв). Квітень — shuttle only, авто заборонені
-- 12:00 🍽️ Обід (~1 год)
-- 13:00 🚗 Grand Canyon → Kanab (~3 год через Desert View Drive → 89N → 89A)
+- 11:30  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~1 год з shuttle, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
+  > 🚌 Hermit Road shuttle (Red Route) від Village Route Transfer до Hopi Point (~15 хв в один бік). Квітень — shuttle only, авто заборонені. Закласти ~1 год (очікування + їзда туди-назад + огляд)
+- 12:30 🍽️ Обід (~1 год)
+- 13:30 🚗 Grand Canyon → Kanab (~3 год через Desert View Drive → 89N → 89A)
   > 🟡 Дорога через [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive з зупинками (Grandview Point, Desert View Watchtower). Якщо часу мало — їхати напряму через South Entrance → I-40 → Flagstaff → 89N (~3.5 год)
   > 🔀 **Якщо їдете через Sedona** (+2.5 год): GC → Flagstaff → Sedona (~2 год) → Sedona ~1.5 год → Sedona → Kanab (~3 год через Flagstaff → 89N → 89A). Прибуття в Kanab ~20:00
   -  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
   -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
 - 16:00 🏨 [**Comfort Suites Kanab**](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) · ❌ Забронювати! (1 ніч, check-in 15:00)
 
-### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 08:00–20:00 · 🌅 18:55
+### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 08:00–20:30 · 🌅 18:55
 > 🌟 **Повний день у Zion!** Kanab → Zion лише ~1 год. Angels Landing lottery — подати **08.04**, результат о 18:00
 - 08:00 🏨 [Comfort Suites Kanab](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) (check-out 11:00)
 - 08:00 🚗 Kanab → Zion NP East Entrance (~1 год через Mt Carmel Hwy)
@@ -199,7 +197,7 @@
 - 18:00 🚗 Zion → Page (~2.5 год через Mt Carmel → 89S)
 - 20:30 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (check-in 15:00)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Las Vegas · ⏰ 07:30–20:00 · 🌅 18:57
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–21:30 · 🌅 18:57
 - 07:30 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) (check-out раніше)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
@@ -219,15 +217,21 @@
   - ❌ Пропустив тур = без повернення коштів (анулюється за 7 хв до старту)
 - 10:40 🚗 Повернення до офісу
 - 11:00 🚗 → Horseshoe Bend (~5 хв)
-- 11:05  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1.5 год, парковка $10) · 🕐 до заходу сонця
-- 12:35 🚗 → Glen Canyon Dam (~10 хв)
-- 12:45  🟡 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~30 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
+- 11:05  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1 год, парковка $10) · 🕐 до заходу сонця
+- 12:05 🚗 → Glen Canyon Dam (~10 хв)
+- 12:15  🟡 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~20 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
   - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
-- 13:15 🍽️ Обід в Page (~30 хв)
-- 13:45 🚗 Page → St. George (~2.5 год через Kanab → I-15)
-- 16:15 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
-- 16:45 🚗 St. George → Las Vegas (~1.5 год)
-- 18:15 🚗 Повернути авто в аеропорту (до 01:00 11.04)
+- 12:35 🍽️ Обід в Page (~30 хв)
+- 13:05 🚗 Page → Bryce Canyon (~2.5 год через US-89N → UT-12E)
+- 15:35  🟢 📍 [Bryce Canyon National Park](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (~1.5 год) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
+  - 🟢 📍 [Sunset Point](https://www.google.com/maps/search/Sunset+Point+Bryce+Canyon) — найкращий вид на амфітеатр худу
+  - 🟢 📍 [Bryce Point](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) — панорама всього амфітеатру
+  - 🟡 📍 [Inspiration Point](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) — вид на Silent City
+  > 🥾 Опціонально: [Navajo Loop Trail](https://www.google.com/maps/search/Navajo+Loop+Trail+Bryce+Canyon) від Sunset Point (~1 год, 1.4 км, спуск між худу) — якщо є час і сили
+- 17:05 🚗 Bryce Canyon → St. George (~2 год через UT-12W → US-89S → I-15S)
+- 19:05 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
+- 19:35 🚗 St. George → Las Vegas (~1.5 год)
+- 21:05 🚗 Повернути авто в аеропорту (до 01:00 11.04)
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
