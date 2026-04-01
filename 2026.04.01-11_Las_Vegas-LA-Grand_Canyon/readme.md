@@ -155,26 +155,28 @@
 - 15:30  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
 - 16:00 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) · ❌ Забронювати! (1 ніч, check-in 15:00)
 
-### Day 7 — Середа, 08.04 · Grand Canyon → Sedona → Kanab · ⏰ 08:00–21:00 · 🌅 18:56
+### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
 - 08:00 🚗 Williams → South Entrance Station (~1 год)
 - 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
 - 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Yavapai Viewpoint Rd (~15 хв)
   > 🅿️ Парковка на [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Road+Grand+Canyon) — залишити авто тут, далі пішки по Rim Trail
 - 09:15  🟢 📍 [Yavapai Point & Geology Museum](https://www.google.com/maps/search/Yavapai+Geology+Museum+Grand+Canyon) (~30 хв, панорама каньйону + геологічний музей) · 🕐 24/7
-- 09:45  🟢 🥾 Rim Trail → [Mather Point](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~30 хв пішки, ~1.1 км) · 🕐 24/7
+- 09:45  🟢 🥾 Rim Trail → [Mather Point](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~20 хв пішки, ~1.1 км, рівна асфальтована стежка) · 🕐 24/7
   - 📍 [Grand Canyon Visitor Center](https://www.google.com/maps/search/Grand+Canyon+Visitor+Center) (~15 хв) · 🕐 9:00–17:00
-- 10:30  🟢 🥾 Rim Trail → [Yaki Point](https://www.google.com/maps/search/Yaki+Point+Grand+Canyon) (~45 хв пішки, ~2.5 км від Mather Point) · 🕐 24/7
-- 11:15  🟢 🥾 Повернення до Yavapai Viewpoint Rd (~45 хв пішки, ~3.5 км від Yaki Point)
-- 12:00  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~30 хв, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
+- 10:20  🟢 🚌 Kaibab Shuttle (Orange Route) від Visitor Center → [Yaki Point](https://www.google.com/maps/search/Yaki+Point+Grand+Canyon) (~10 хв, shuttle only — авто заборонені) · 🕐 24/7
+  > 📍 Yaki Point — чудовий вид на Phantom Ranch та Inner Canyon. Тут же початок South Kaibab Trail
+- 10:50  🟢 🥾 Yaki Point (~20 хв огляд) → 🚌 shuttle назад до Visitor Center (~10 хв)
+- 11:20  🥾 Пішки Visitor Center → Yavapai Viewpoint Rd (~10 хв, ~0.7 км) → забрати авто
+  > 📊 **Загалом хайк:** ~2.5 км пішки (Yavapai → Mather → VC, пласка Rim Trail). Shuttle до/від Yaki Point
+- 11:30  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~30 хв, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
   > 🚌 Hermit Road shuttle (Red Route) від Village Route Transfer до Hopi Point (~15 хв). Квітень — shuttle only, авто заборонені
-- 12:30 🍽️ Обід (~1 год)
-- 13:30 🚗 Grand Canyon → Sedona (~2 год через Desert View Drive → Flagstaff → 89A)
-  > 🟡 Дорога через [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive з зупинками (Grandview Point, Desert View Watchtower). Якщо часу мало — їхати напряму через South Entrance → I-40 → Flagstaff (~1.5 год)
-- 15:30  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
+- 12:00 🍽️ Обід (~1 год)
+- 13:00 🚗 Grand Canyon → Kanab (~3 год через Desert View Drive → 89N → 89A)
+  > 🟡 Дорога через [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive з зупинками (Grandview Point, Desert View Watchtower). Якщо часу мало — їхати напряму через South Entrance → I-40 → Flagstaff → 89N (~3.5 год)
+  > 🔀 **Якщо їдете через Sedona** (+2.5 год): GC → Flagstaff → Sedona (~2 год) → Sedona ~1.5 год → Sedona → Kanab (~3 год через Flagstaff → 89N → 89A). Прибуття в Kanab ~20:00
+  -  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
   -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
-  > 🔀 **Якщо пропускаєте Sedona:** Grand Canyon → Kanab напряму (~3 год через Desert View → 89N → 89A). Прибуття ~16:30 — більше відпочинку
-- 17:00 🚗 Sedona → Kanab (~3 год через Flagstaff → 89N → 89A)
-- 20:00 🏨 [**Comfort Suites Kanab**](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) · ❌ Забронювати! (1 ніч, check-in 15:00)
+- 16:00 🏨 [**Comfort Suites Kanab**](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) · ❌ Забронювати! (1 ніч, check-in 15:00)
 
 ### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 08:00–20:00 · 🌅 18:55
 > 🌟 **Повний день у Zion!** Kanab → Zion лише ~1 год. Angels Landing lottery — подати **08.04**, результат о 18:00
