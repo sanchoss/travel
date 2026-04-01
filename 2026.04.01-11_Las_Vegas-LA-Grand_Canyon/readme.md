@@ -86,13 +86,13 @@
 - 14:50  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
 - 15:20 🚗 → Vasquez Rocks (~40 хв)
 - 16:00  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
-- 16:45 🚗 → Hollywood (~40 хв)
-- 17:25 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (заселення, check-in 15:00)
+- 16:45 🚗 → Lake Hollywood Park (~40 хв)
+- 17:25  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
+  > 🅿️ Безкоштовна вулична парковка на Canyon Lake Dr (~10 місць)
+- 17:40 🚗 → Готель (~10 хв)
+- 17:50 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (заселення, check-in 15:00)
 
 ### Day 4 — Неділя, 05.04 · Los Angeles · ⏰ 09:00–20:00 · 🌅 19:24
-
-> 🔀 **Варіант A (рекомендую):** Griffith Observatory + Mt Hollywood Trail + Hollywood Walk of Fame — класика LA, мінімум їзди
-> 🔀 **Варіант B:** [Santa Barbara](https://www.google.com/maps/search/Santa+Barbara+California) на цілий день (~1.5 год від LA) — пляж, іспанська архітектура, але 3 год на дорогу
 
 > 🅿️ **Паркування в LA:**
 > - **Griffith Observatory** — безкоштовний паркінг, але в неділю заповнюється до 10:00. Альтернатива: [парковка на Fern Dell Dr](https://www.google.com/maps/search/Fern+Dell+Dr+parking+Griffith+Park) (безкоштовно) + 20 хв пішки вгору, або [Greek Theatre lot](https://www.google.com/maps/search/Greek+Theatre+parking+Los+Angeles) + DASH shuttle (безкоштовний)
@@ -107,13 +107,18 @@
   - 🎬 [TCL Chinese Theatre](https://www.google.com/maps/search/TCL+Chinese+Theatre+Hollywood) — відбитки рук/ніг зірок
   - ⭐ [Michael Jackson star](https://www.google.com/maps/search/Michael+Jackson+star+Hollywood) — 6927 Hollywood Blvd
   - ⭐ Інші збережені: Frank Sinatra, The Beatles, Queen, Chuck Norris, Tom Cruise, Morgan Freeman, Arnold Schwarzenegger, Jackie Chan, The Rock, Snoop Dogg
-- 15:35 🚗 → Santa Monica (~40 хв)
+- 15:35 🚗 → Beverly Hills (~15 хв)
+  > 🅿️ Безкоштовно 2 год у структурі [Beverly Dr Parking](https://www.google.com/maps/search/Beverly+Dr+parking+structure+Beverly+Hills) (на Beverly Dr між Brighton Way та Dayton Way) або [S Santa Monica Blvd Parking](https://www.google.com/maps/search/S+Santa+Monica+Blvd+parking+Beverly+Hills)
+- 15:50  🟡 📍 [Beverly Hills / Rodeo Drive](https://www.google.com/maps/search/Rodeo+Drive+Beverly+Hills) (~30 хв) · 🕐 вулиця 24/7, магазини ~10:00–18:00
+  - 🎮 [270 N Rodeo Dr](https://www.google.com/maps/search/270+N+Rodeo+Dr+Beverly+Hills) — будівля з GTA V (Portola Dr / luxury shops)
+  - 📍 [Beverly Hills Sign](https://www.google.com/maps/search/Beverly+Hills+Sign+Beverly+Gardens+Park) — Beverly Gardens Park, фото біля знаку
+- 16:20 🚗 → Santa Monica (~20 хв)
   > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
-- 16:15  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1.5 год) · 🕐 24/7 (атракціони ~11:00–21:00)
+- 16:40  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1 год) · 🕐 24/7 (атракціони ~11:00–21:00)
   - 🎡 Pacific Park — оглядове колесо, американські гірки
   - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
-- 17:45 🚗 → Готель (~40 хв)
-- 18:25 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
+- 17:40 🚗 → Готель (~40 хв)
+- 18:20 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
 
 ### Day 5 — Понеділок, 06.04 · LA → Las Vegas · ⏰ 10:00–21:00 · 🌅 19:11
 
