@@ -1,5 +1,7 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
+[Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
+
 **01.04.2026 — 11.04.2026** (11 днів / 10 ночей)
 
 
