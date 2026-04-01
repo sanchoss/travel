@@ -235,6 +235,7 @@
   - 🟢 📍 [Bryce Point](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) — панорама всього амфітеатру
   - 🟡 📍 [Inspiration Point](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) — вид на Silent City
   > 🥾 Опціонально: [Navajo Loop Trail](https://www.google.com/maps/search/Navajo+Loop+Trail+Bryce+Canyon) від Sunset Point (~1 год, 1.4 км, спуск між худу) — якщо є час і сили
+  > 🌅 **Sunset option:** Sunset Point названий так не випадково — захід сонця (18:57) фарбує худу в червоно-помаранчевий! Залишитись до ~18:45, виїзд 18:50, прибуття LV ~23:10 замість 21:35 (+1.5 год). Дедлайн повернення авто 01:00 — часу вистачає. Позичити час: пропустити Walmart St. George (+30 хв)
 - 17:05 🚗 Bryce Canyon → St. George (~2 год 15 хв через UT-12W → US-89S → I-15S)
 - 19:20 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
 - 19:50 🚗 St. George → Las Vegas (~1 год 45 хв)
