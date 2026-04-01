@@ -40,19 +40,21 @@
 ### Day 1 — Четвер, 02.04 · Death Valley · ⏰ 07:00–20:00 · 🌅 19:17
 > 🎫 **America the Beautiful Pass** — вхід безкоштовний (Order #UPP538726)
 - 07:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
-- 07:00 🚗 Henderson → Dante's View (~2 год)
-- 09:00  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
-- 09:30 🚗 → Badwater Basin (~45 хв)
-- 10:15  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
-- 10:45 🚗 → Artist's Drive (~5 хв)
-- 10:50  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
-- 11:20 🚗 → Zabriskie Point (~20 хв)
-- 11:40  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
-- 12:00 🚗 → General Store (~10 хв)
-- 12:10  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни) · 🕐 24/7
-- 12:30 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
-- 12:45 🚗 Death Valley → Three Rivers (~4 год)
-- 16:45 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (заселення, check-in 16:00)
+- 07:00 🚗 Henderson → Walmart Pahrump (~45 хв)
+- 07:45 🛒 [Walmart Supercenter Pahrump](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJk6DFz4Y1w4ARcyFpwhc-kqE) (~20 хв, вода/снеки/лід) · 🕐 6:00–23:00
+- 08:05 🚗 Pahrump → Dante's View (~1.5 год)
+- 09:35  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
+- 10:05 🚗 → Badwater Basin (~45 хв)
+- 10:50  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
+- 11:20 🚗 → Artist's Drive (~5 хв)
+- 11:25  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
+- 11:55 🚗 → Zabriskie Point (~20 хв)
+- 12:15  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
+- 12:35 🚗 → General Store (~10 хв)
+- 12:45  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни) · 🕐 24/7
+- 13:05 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
+- 13:20 🚗 Death Valley → Three Rivers (~4 год)
+- 17:20 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (заселення, check-in 16:00)
 
 ### Day 2 — П'ятниця, 03.04 · Sequoia National Park · ⏰ 08:00–17:00 · 🌅 19:27
 > 🎫 **Sequoia Site Pass** — $35 (Order #0898115340, valid 02–08.04)
@@ -206,8 +208,10 @@
 - 13:30  🟢 📍 [Zion NP](https://www.google.com/maps/search/Zion+National+Park) (~4.5 год, scenic drive + Canyon Overlook Trail) · 🕐 парк 24/7
   > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
   - 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) — ❗ потребує permit (лотерея, подати 09.04)
-- 18:00 🚗 Zion → Las Vegas (~2.5 год)
-- 20:30 🚗 Повернути авто в аеропорту (до 01:00 11.04)
+- 18:00 🚗 Zion → St. George (~40 хв)
+- 18:40 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
+- 19:10 🚗 St. George → Las Vegas (~1.5 год)
+- 20:40 🚗 Повернути авто в аеропорту (до 01:00 11.04)
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
