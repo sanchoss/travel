@@ -145,7 +145,7 @@
   > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
   > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
 - 10:00 🚗 → Oatman (~1.5 год)
-- 11:30  🟡 📍 [Oatman](https://www.google.com/maps/search/Oatman+Arizona+Route+66) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
+- 11:30  🟡 📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
 - 12:15 🍽️ Обід в Oatman (~30 хв)
 - 12:45 🚗 → Seligman (~1.5 год)
 - 14:15  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
