@@ -160,30 +160,32 @@
 - 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
 - 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Mather Point (~15 хв)
 - 09:15  🟢 📍 [Mather Point / Visitor Center](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~1 год) · 🕐 Visitor Center 9:00–17:00
-- 10:15  🟢 📍 [Rim Trail / Bright Angel Trail](https://www.google.com/maps/search/Bright+Angel+Trail+Grand+Canyon) viewpoints (~2 год) · 🕐 24/7
-- 12:15 🍽️ Обід (~1 год)
-- 13:15  🟡 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive + зупинки (~3 год) · 🕐 24/7
-- 16:15 🚗 Повернення в Williams (~1.5 год)
-- 17:45 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
+- 10:15  🟢 📍 [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Grand+Canyon) (~30 хв, панорама каньйону + геологічний музей) · 🕐 24/7
+- 10:45  🟢 📍 [Rim Trail / Bright Angel Trail](https://www.google.com/maps/search/Bright+Angel+Trail+Grand+Canyon) viewpoints (~2 год) · 🕐 24/7
+- 12:45 🍽️ Обід (~1 год)
+- 13:45  🟡 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive + зупинки (~3 год) · 🕐 24/7
+- 16:45 🚗 Повернення в Williams (~1.5 год)
+- 18:15 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
 
-### Day 8 — Четвер, 09.04 · Sedona → Page · ⏰ 08:00–20:00 · 🌅 18:55
+### Day 8 — Четвер, 09.04 · Sedona → Page · ⏰ 08:00–18:00 · 🌅 18:55
 - 08:00 🏨 [Quality Inn Williams — Grand Canyon](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) (check-out 11:00)
+> 🔀 **Якщо їдете через Sedona** (+2 год): Williams → Sedona (~1 год) → Sedona ~2 год → Sedona → Page (~3.5 год). Прибуття в Page ~14:30. **Якщо пропускаєте Sedona:** Williams → Page (~4 год через Flagstaff→89N). Прибуття в Page ~12:00 — більше часу на Horseshoe Bend
 - 08:00 🚗 Williams → Sedona (~1 год через Flagstaff)
-- 09:00  🟡 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~2 год, червоні скелі, огляд) · 🕐 24/7
-  -  🟡 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
+- 09:00  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~2 год, червоні скелі, огляд) · 🕐 24/7
+  -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
 - 11:00 🚗 Sedona → Page (~3.5 год через Flagstaff)
 - 14:30 🍽️ Обід в Page (~30 хв)
-- 15:00 🏨 [**Quality Inn at Lake Powell — Page**](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ) · ❌ Забронювати! (check-in 15:00, залишити речі)
+- 15:00 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (check-in 15:00, залишити речі)
 - 15:30 🚗 → Horseshoe Bend (~5 хв)
 - 15:35  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1.5 год, парковка $10) · 🕐 до заходу сонця
 - 17:05 🚗 → Glen Canyon Dam (~10 хв)
 - 17:15  🔴 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~30 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
   - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
 - 17:45 🚗 → Готель (~10 хв)
-- 18:00 🏨 [Quality Inn at Lake Powell — Page](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ)
+- 18:00 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ)
 
 ### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Las Vegas · ⏰ 07:30–23:00 · 🌅 18:57
-- 07:30 🏨 [Quality Inn at Lake Powell — Page](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ) (check-out раніше)
+- 07:30 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) (check-out раніше)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
 - 09:00 **Sightseer's Tour — Upper Antelope Canyon** (9:00–10:40)
@@ -254,11 +256,11 @@
 - [Google Maps](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
 - [Choice Hotels](https://www.choicehotels.com/arizona/williams/quality-inn-hotels)
 
-### 6. Quality Inn at Lake Powell — Page
+### 6. Comfort Inn & Suites Page at Lake Powell
 - **Дати:** 09.04 (Thu) — 10.04 (Fri) · 1 ніч
-- **Адреса:** 287 N Lake Powell Blvd, Page, AZ 86040
-- [Google Maps](https://www.google.com/maps/search/Quality+Inn+at+Lake+Powell+Page+AZ)
-- [Choice Hotels](https://www.choicehotels.com/arizona/page/quality-inn-hotels)
+- **Адреса:** 600 Clubhouse Dr, Page, AZ 86040
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ)
+- [Choice Hotels](https://www.choicehotels.com/arizona/page/comfort-inn-hotels/az380)
 
 > ⚠️ Готелі 4–6 потрібно забронювати!
 
