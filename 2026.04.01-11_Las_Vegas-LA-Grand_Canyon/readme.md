@@ -16,11 +16,11 @@
 | 2 | **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | 08:00–16:00 | ✅ Є | Order #0898115340 · MASTERCARD ****6805 · Valid 02.04–08.04 | $35.00 | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
 | 3 | **Hoover Dam — Exhibits Only** | Day 6 | 07.04 | 09:00–15:45 | ✅ Є | Order #C75-HBC-GQLT · 3 Adult + 1 Junior · Пред'явити QR в Visitor Center | $60.00 | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
 | 4 | **Upper Antelope Canyon** | Day 9 | 10.04 | 09:00–10:40 | ✅ Є | Заброньовано! Booking #339689525, 4 квитки | $502.23 | — |
-| 5 | **Zion NP — Angels Landing Permit** | Day 9 | 10.04 | ~14:00–17:00 | ⚠️ Лотерея | Day-before lottery на recreation.gov (подати 09.04, результат о 18:00) | $6/особа | [recreation.gov](https://www.recreation.gov/permits/274880) |
+| 5 | **Zion NP — Angels Landing Permit** | Day 8 | 09.04 | ~11:00–16:00 | ⚠️ Лотерея | Day-before lottery на recreation.gov (подати 08.04, результат о 18:00) | $6/особа | [recreation.gov](https://www.recreation.gov/permits/274880) |
 | 6 | **Sphere — "The Wizard of Oz"** | Day 5 | 06.04 | 20:00 | ✅ Є | Order #60-18902/NEV · 4 квитки (Sec 405, Row 10, Seats 21–24) + Parking Lot B | $521.00 | [thesphere.com](https://www.thesphere.com/) |
-| 7 | **Zion NP — Site Pass** | Day 9 | 10.04 | — | ✅ Є | Order #0872378323 · Private Vehicle Pass · Valid 06–12.04. ⚠️ Завантажити PDF заздалегідь — немає зв'язку! | $35.00 | [recreation.gov](https://www.recreation.gov/) |
+| 7 | **Zion NP — Site Pass** | Day 8 | 09.04 | — | ✅ Є | Order #0872378323 · Private Vehicle Pass · Valid 06–12.04. ⚠️ Завантажити PDF заздалегідь — немає зв'язку! | $35.00 | [recreation.gov](https://www.recreation.gov/) |
 
-> **Не потребують бронювання:** Death Valley (Day 1, $30/авто або ABP), Griffith Observatory (Day 4, безкоштовно), Hollywood Walk of Fame (Day 4), Horseshoe Bend (Day 8, $10 паркінг на місці), Glen Canyon Dam (Day 8, безкоштовно), Grand Canyon (Day 7, $35/авто або ABP)
+> **Не потребують бронювання:** Death Valley (Day 1, $30/авто або ABP), Griffith Observatory (Day 4, безкоштовно), Hollywood Walk of Fame (Day 4), Horseshoe Bend (Day 9, $10 паркінг на місці), Glen Canyon Dam (Day 9, безкоштовно), Grand Canyon (Day 7, $35/авто або ABP)
 
 ---
 
@@ -153,38 +153,51 @@
 - 14:15  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
 - 14:45 🚗 → Williams (~45 хв)
 - 15:30  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
-- 16:00 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) · ❌ Забронювати! (2 ночі, check-in 15:00)
+- 16:00 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) · ❌ Забронювати! (1 ніч, check-in 15:00)
 
-### Day 7 — Середа, 08.04 · Grand Canyon · ⏰ 08:00–18:00 · 🌅 18:56
+### Day 7 — Середа, 08.04 · Grand Canyon → Sedona → Kanab · ⏰ 08:00–21:00 · 🌅 18:56
 - 08:00 🚗 Williams → South Entrance Station (~1 год)
 - 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
-- 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Mather Point (~15 хв)
-- 09:15  🟢 📍 [Mather Point / Visitor Center](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~1 год) · 🕐 Visitor Center 9:00–17:00
-- 10:15  🟢 📍 [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Grand+Canyon) (~30 хв, панорама каньйону + геологічний музей) · 🕐 24/7
-- 10:45  🟢 📍 [Rim Trail / Bright Angel Trail](https://www.google.com/maps/search/Bright+Angel+Trail+Grand+Canyon) viewpoints (~2 год) · 🕐 24/7
-- 12:45 🍽️ Обід (~1 год)
-- 13:45  🟡 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive + зупинки (~3 год) · 🕐 24/7
-- 16:45 🚗 Повернення в Williams (~1.5 год)
-- 18:15 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
-
-### Day 8 — Четвер, 09.04 · Sedona → Page · ⏰ 08:00–18:00 · 🌅 18:55
-- 08:00 🏨 [Quality Inn Williams — Grand Canyon](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) (check-out 11:00)
-> 🔀 **Якщо їдете через Sedona** (+2 год): Williams → Sedona (~1 год) → Sedona ~2 год → Sedona → Page (~3.5 год). Прибуття в Page ~14:30. **Якщо пропускаєте Sedona:** Williams → Page (~4 год через Flagstaff→89N). Прибуття в Page ~12:00 — більше часу на Horseshoe Bend
-- 08:00 🚗 Williams → Sedona (~1 год через Flagstaff)
-- 09:00  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~2 год, червоні скелі, огляд) · 🕐 24/7
+- 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Yavapai Viewpoint Rd (~15 хв)
+  > 🅿️ Парковка на [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Road+Grand+Canyon) — залишити авто тут, далі пішки по Rim Trail
+- 09:15  🟢 📍 [Yavapai Point & Geology Museum](https://www.google.com/maps/search/Yavapai+Geology+Museum+Grand+Canyon) (~30 хв, панорама каньйону + геологічний музей) · 🕐 24/7
+- 09:45  🟢 🥾 Rim Trail → [Mather Point](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~30 хв пішки, ~1.1 км) · 🕐 24/7
+  - 📍 [Grand Canyon Visitor Center](https://www.google.com/maps/search/Grand+Canyon+Visitor+Center) (~15 хв) · 🕐 9:00–17:00
+- 10:30  🟢 🥾 Rim Trail → [Yaki Point](https://www.google.com/maps/search/Yaki+Point+Grand+Canyon) (~45 хв пішки, ~2.5 км від Mather Point) · 🕐 24/7
+- 11:15  🟢 🥾 Повернення до Yavapai Viewpoint Rd (~45 хв пішки, ~3.5 км від Yaki Point)
+- 12:00  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~30 хв, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
+  > 🚌 Hermit Road shuttle (Red Route) від Village Route Transfer до Hopi Point (~15 хв). Квітень — shuttle only, авто заборонені
+- 12:30 🍽️ Обід (~1 год)
+- 13:30 🚗 Grand Canyon → Sedona (~2 год через Desert View Drive → Flagstaff → 89A)
+  > 🟡 Дорога через [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive з зупинками (Grandview Point, Desert View Watchtower). Якщо часу мало — їхати напряму через South Entrance → I-40 → Flagstaff (~1.5 год)
+- 15:30  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
   -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
-- 11:00 🚗 Sedona → Page (~3.5 год через Flagstaff)
-- 14:30 🍽️ Обід в Page (~30 хв)
-- 15:00 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (check-in 15:00, залишити речі)
-- 15:30 🚗 → Horseshoe Bend (~5 хв)
-- 15:35  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1.5 год, парковка $10) · 🕐 до заходу сонця
-- 17:05 🚗 → Glen Canyon Dam (~10 хв)
-- 17:15  🔴 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~30 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
-  - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
-- 17:45 🚗 → Готель (~10 хв)
-- 18:00 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ)
+  > 🔀 **Якщо пропускаєте Sedona:** Grand Canyon → Kanab напряму (~3 год через Desert View → 89N → 89A). Прибуття ~16:30 — більше відпочинку
+- 17:00 🚗 Sedona → Kanab (~3 год через Flagstaff → 89N → 89A)
+- 20:00 🏨 [**Comfort Suites Kanab**](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) · ❌ Забронювати! (1 ніч, check-in 15:00)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Las Vegas · ⏰ 07:30–23:00 · 🌅 18:57
+### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 08:00–20:00 · 🌅 18:55
+> 🌟 **Повний день у Zion!** Kanab → Zion лише ~1 год. Angels Landing lottery — подати **08.04**, результат о 18:00
+- 08:00 🏨 [Comfort Suites Kanab](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) (check-out 11:00)
+- 08:00 🚗 Kanab → Zion NP East Entrance (~1 год через Mt Carmel Hwy)
+- 09:00  🟢 📍 [Zion NP — East Entrance](https://www.google.com/maps/search/Zion+National+Park+East+Entrance) · 🕐 парк 24/7
+  > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
+- 09:15  🟢 🥾 [Canyon Overlook Trail](https://www.google.com/maps/search/Canyon+Overlook+Trail+Zion) (~1 год, ~1.6 км туди-назад, вид на Pine Creek Canyon) · 🕐 24/7
+  > 🅿️ Невелика парковка біля тунелю (East side) — приїхати рано!
+- 10:15 🚗 Проїзд через Zion-Mt Carmel Tunnel → Zion Canyon
+- 10:30 🅿️ Парковка у [Zion Canyon Visitor Center](https://www.google.com/maps/search/Zion+Canyon+Visitor+Center) або Springdale (shuttle stops)
+- 10:45 🚌 Zion Canyon Shuttle → зупинки:
+  - 🟢 📍 **The Grotto** → 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) (~4 год туди-назад) — ❗ потребує permit (лотерея, подати **08.04**)
+  - 🟢 📍 **Temple of Sinawava** → 🥾 [Riverside Walk / The Narrows](https://www.google.com/maps/search/The+Narrows+Zion) (~1.5–2 год, рівна стежка вздовж Virgin River)
+  - 🟡 📍 **Weeping Rock** → 🥾 [Weeping Rock Trail](https://www.google.com/maps/search/Weeping+Rock+Zion) (~30 хв)
+  - 🟡 📍 **Zion Lodge** → 🥾 [Emerald Pools Trail](https://www.google.com/maps/search/Emerald+Pools+Zion) (Lower ~1 год, Upper ~2.5 год)
+- 12:30 🍽️ Обід (Zion Lodge / Springdale) (~1 год)
+- 13:30 🚌 Продовження shuttle маршруту / додаткові trails (~4 год)
+- 17:30 🚌 Останній shuttle назад → парковка
+- 18:00 🚗 Zion → Page (~2.5 год через Mt Carmel → 89S)
+- 20:30 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (check-in 15:00)
+
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Las Vegas · ⏰ 07:30–20:00 · 🌅 18:57
 - 07:30 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) (check-out раніше)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
@@ -203,17 +216,16 @@
   - 🥾 Після каньйону — обов'язковий підйом по пагорбу 800м по піску зі сходами (~15 хв). Загалом 1200м ходьби
   - ❌ Пропустив тур = без повернення коштів (анулюється за 7 хв до старту)
 - 10:40 🚗 Повернення до офісу
-- 11:00 🍽️ Обід в Page (~30 хв)
-> 🔀 **Варіант A (рекомендую):** Page → Zion (~2 год) — **4.5 год в Zion** (13:30–18:00). Більше часу на shuttle + trails
-> 🔀 **Варіант B (через Bryce):** Page → [Bryce Canyon NP](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (~2 год) → Bryce (~1–1.5 год, Sunset/Bryce/Inspiration Points) → Zion (~1.5 год) — **2 год в Zion** (16:00–18:00), але побачите унікальні худу
-- 11:30 🚗 Page → Zion NP (~2 год)
-- 13:30  🟢 📍 [Zion NP](https://www.google.com/maps/search/Zion+National+Park) (~4.5 год, scenic drive + Canyon Overlook Trail) · 🕐 парк 24/7
-  > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
-  - 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) — ❗ потребує permit (лотерея, подати 09.04)
-- 18:00 🚗 Zion → St. George (~40 хв)
-- 18:40 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
-- 19:10 🚗 St. George → Las Vegas (~1.5 год)
-- 20:40 🚗 Повернути авто в аеропорту (до 01:00 11.04)
+- 11:00 🚗 → Horseshoe Bend (~5 хв)
+- 11:05  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1.5 год, парковка $10) · 🕐 до заходу сонця
+- 12:35 🚗 → Glen Canyon Dam (~10 хв)
+- 12:45  🟡 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~30 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
+  - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
+- 13:15 🍽️ Обід в Page (~30 хв)
+- 13:45 🚗 Page → St. George (~2.5 год через Kanab → I-15)
+- 16:15 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
+- 16:45 🚗 St. George → Las Vegas (~1.5 год)
+- 18:15 🚗 Повернути авто в аеропорту (до 01:00 11.04)
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
@@ -251,18 +263,24 @@
 - *(той самий готель що й Day 0–1)*
 
 ### 5. Quality Inn Williams — Grand Canyon
-- **Дати:** 07.04 (Tue) — 09.04 (Thu) · 2 ночі
+- **Дати:** 07.04 (Tue) — 08.04 (Wed) · 1 ніч
 - **Адреса:** 2000 W Route 66, Williams, AZ 86046
 - [Google Maps](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
 - [Choice Hotels](https://www.choicehotels.com/arizona/williams/quality-inn-hotels)
 
-### 6. Comfort Inn & Suites Page at Lake Powell
+### 6. Comfort Suites Kanab
+- **Дати:** 08.04 (Wed) — 09.04 (Thu) · 1 ніч
+- **Адреса:** 325 E 300 S, Kanab, UT 84741
+- [Google Maps](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah)
+- [Choice Hotels](https://www.choicehotels.com/utah/kanab/comfort-suites-hotels/ut189)
+
+### 7. Comfort Inn & Suites Page at Lake Powell
 - **Дати:** 09.04 (Thu) — 10.04 (Fri) · 1 ніч
 - **Адреса:** 600 Clubhouse Dr, Page, AZ 86040
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ)
 - [Choice Hotels](https://www.choicehotels.com/arizona/page/comfort-inn-hotels/az380)
 
-> ⚠️ Готелі 4–6 потрібно забронювати!
+> ⚠️ Готелі 4–7 потрібно забронювати!
 
 ---
 
