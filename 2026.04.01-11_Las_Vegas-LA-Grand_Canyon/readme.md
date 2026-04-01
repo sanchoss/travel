@@ -83,17 +83,17 @@
 - 11:00 🏨 [Comfort Inn & Suites Sequoia Kings Canyon](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (check-out 11:00)
 - 11:00 🚗 Three Rivers → Outlets at Tejon (~2 год)
 - 13:00  🟡 🛒️ [Outlets at Tejon](https://www.google.com/maps/search/Outlets+at+Tejon) (~1.5 год) · 🕐 10:00–21:00
-- 14:30 🚗 → Tejon Pass (~5 хв)
-- 14:35  🔴 📍 [Tejon Pass](https://www.google.com/maps/search/Tejon+Pass+California) (~10 хв, scenic viewpoint) · 🕐 24/7
-- 14:45 🚗 → Pyramid Lake (~15 хв)
-- 14:50  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
-- 15:20 🚗 → Vasquez Rocks (~55 хв)
-- 16:15  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
-- 17:00 🚗 → Lake Hollywood Park (~45 хв)
-- 17:45  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
+- 14:30 🚗 → Tejon Pass (~20 хв)
+- 14:50  🔴 📍 [Tejon Pass](https://www.google.com/maps/search/Tejon+Pass+California) (~10 хв, scenic viewpoint) · 🕐 24/7
+- 15:00 🚗 → Pyramid Lake (~15 хв)
+- 15:15  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
+- 15:45 🚗 → Vasquez Rocks (~55 хв)
+- 16:40  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
+- 17:25 🚗 → Lake Hollywood Park (~45 хв)
+- 18:10  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
   > 🅿️ Безкоштовна вулична парковка на Canyon Lake Dr (~10 місць)
-- 18:00 🚗 → Готель (~20 хв)
-- 18:20 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (ніч 1/2, check-in 15:00)
+- 18:25 🚗 → Готель (~20 хв)
+- 18:45 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (ніч 1/2, check-in 15:00)
 
 ### Day 4 — Неділя, 05.04 · Los Angeles · ⏰ 09:00–20:00 · 🌅 19:24
 
@@ -201,7 +201,7 @@
 - 18:00 🚗 Zion → Page (~2 год 15 хв через Mt Carmel → 89S)
 - 20:15 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (ніч 1/1, check-in 15:00)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–21:30 · 🌅 18:57
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–21:35 · 🌅 18:57
 - 07:30 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) (check-out раніше)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
