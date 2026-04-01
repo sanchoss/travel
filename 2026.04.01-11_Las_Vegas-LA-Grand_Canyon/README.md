@@ -92,6 +92,7 @@
 - 17:25 🚗 → Lake Hollywood Park (~45 хв)
 - 18:10  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
   > 🅿️ Безкоштовна вулична парковка на Canyon Lake Dr (~10 місць)
+  > 🌅 **Sunset option:** Hollywood Sign у золотому світлі — залишитись до ~19:10 (захід 19:23). Готель на ~45 хв пізніше. Позичити час: скоротити Vasquez Rocks або пропустити Pyramid Lake 🔴
 - 18:25 🚗 → Готель (~20 хв)
 - 18:45 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (ніч 1/2, check-in 15:00)
 
@@ -121,6 +122,7 @@
 - 16:40  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1 год) · 🕐 24/7 (атракціони ~11:00–21:00)
   - 🎡 Pacific Park — оглядове колесо, американські гірки
   - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
+  > 🌅 **Sunset option:** захід сонця над Тихим океаном (19:24) — одне з найкращих місць у LA! Залишитись до ~19:15, готель ~20:00. Позичити час: скоротити Beverly Hills (30 хв → 15 хв) або Walk of Fame (1 год → 40 хв)
 - 17:40 🚗 → Готель (~40 хв)
 - 18:20 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ (ніч 2/2)
 
@@ -199,6 +201,7 @@
 - 14:30 🚌 Продовження shuttle маршруту / додаткові trails (~3 год)
 - 17:30 🚌 Останній shuttle назад → парковка
 - 18:00 🚗 Zion → Page (~2 год 15 хв через Mt Carmel → 89S)
+  > 🌅 **Sunset option:** золота година в Zion Canyon (захід 18:55). Залишитись до 18:30 shuttle, виїзд ~19:00, прибуття Page ~21:15. Позичити час: скоротити Canyon Overlook Trail або один shuttle stop
 - 20:15 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (ніч 1/1, check-in 15:00)
 
 ### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–21:35 · 🌅 18:57
