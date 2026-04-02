@@ -39,6 +39,7 @@
 
 ### Day 1 — Четвер, 02.04 · Death Valley · ⏰ 07:00–19:00 · 🌅 19:17
 > 🎫 **America the Beautiful Pass** — вхід безкоштовний (Order #UPP538726)
+> 🧠 Назву «Долина Смерті» дали золотошукачі 1849 р., які ледве вибрались з неї живими. Один сказав: *«Goodbye, Death Valley»* — і назва прилипла. Тут зафіксовано абсолютний рекорд температури на Землі — **56.7 °C** (134 °F, 1913). У квітні ще комфортно (~30–35 °C). А ще тут одне з **найтемніших небес у США** (Gold Tier Dark Sky Park) — неозброєним оком видно Чумацький Шлях.
 - 07:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - 07:00 🚗 Henderson → Walmart Pahrump (~1 год 15 хв)
 - 08:15 🛒 [Walmart Supercenter Pahrump](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJk6DFz4Y1w4ARcyFpwhc-kqE) (~30 хв, вода/снеки/лід) · 🕐 6:00–23:00
@@ -46,14 +47,17 @@
 - 10:00  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
 - 10:30 🚗 → Badwater Basin (~50 хв)
 - 11:20  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
+  > 🧠 Найнижча точка Північної Америки: **−86 м** нижче рівня моря. Білі багна — це не сніг, а кристали солі.
 - 11:50 🚗 → Artist's Drive (~25 хв)
 - 12:15  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
+  > 🧠 Кольори створені різними мінералами: залізо → червоний/жовтий, слюда → зелений, марганець → фіолетовий, титан → рожевий.
 - 12:45 🚗 → Zabriskie Point (~20 хв)
 - 13:05  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
 - 13:25 🚗 → General Store (~10 хв)
 - 13:35 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
 - 13:50 🚗 → Mesquite Flat Sand Dunes (~25 хв)
 - 14:15  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни, на шляху до виїзду) · 🕐 24/7
+  > 🧠 На висохлому озері Racetrack Playa камені залишають сліди на глині — загадку розгадали лише у 2014 р.: їх зсувають тонкі листи льоду взимку.
 - 14:35 🚗 Death Valley → Three Rivers (~4 год 30 хв)
   > ⚠️ Маршрут через Trona/Ridgecrest — перевірити стан доріг заздалегідь (можливі перекриття на Garlock Rd, об'їзд +1 год)
 - 19:05 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (ніч 1/2, check-in 16:00)
@@ -65,10 +69,13 @@
 - 09:30  🔴 🛒 [Foothills Visitor Center](https://www.google.com/maps/search/Foothills+Visitor+Center+Sequoia) (~20 хв) · 🕐 8:00–17:00
 - 09:50 🚗 → General Sherman Tree (~45 хв, серпантин)
 - 10:35  🟢 🌲 [General Sherman Tree](https://www.google.com/maps/search/General+Sherman+Tree+Sequoia) (~45 хв) · 🕐 24/7
+  > 🧠 Найбільше дерево на планеті за об'ємом: **1 487 м³** (~10 блакитних китів). Вік ~2 200 років. Окружність стовбура біля основи **31.3 м**. Секвоям **потрібен вогонь**: шишки розкриваються лише під час пожежі. Кора до 60 см захищає від вогню.
 - 11:20 🚗 → Tunnel Log (~15 хв)
 - 11:35  🟡 🌲 [Tunnel Log](https://www.google.com/maps/search/Tunnel+Log+Sequoia+National+Park) (~20 хв) · 🕐 24/7
+  > 🧠 Повалене дерево 1937 р. — замість того, щоб прибрати, прорізали тунель для автомобілів. Лежить там і досі!
 - 11:55 🚗 → Moro Rock (~10 хв)
 - 12:05  🟢 🥾 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7
+  > 🧠 350 гранітних сходинок, вирізаних у скелі у 1930-х. Перепад висоти 91 м. Звідти видно Great Western Divide.
 - 13:05 🍽️ Обід / перекус
 - 13:30 🚗 → Crescent Meadow (~10 хв від Moro Rock)
 - 13:40  🟡 🌲 [Crescent Meadow](https://www.google.com/maps/search/Crescent+Meadow+Sequoia+National+Park) (~30 хв, рівна тропа серед секвой та луків) · 🕐 24/7
@@ -90,8 +97,10 @@
 - 15:15  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
 - 15:45 🚗 → Vasquez Rocks (~55 хв)
 - 16:40  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
+  > 🧠 Улюблена локація Голлівуду: тут знімали «Зоряний шлях» (планета Вулкан), «Флінтстоунів», «Мир Дикого Заходу». Скелі нахилені ~50° через розлом Сан-Андреас.
 - 17:25 🚗 → Lake Hollywood Park (~45 хв)
 - 18:10  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
+  > 🧠 **Hollywood Sign** — спочатку (1923) написано «HOLLYWOODLAND» як реклама житлового комплексу. Букви 15 м, 4 000 лампочок. «LAND» прибрали у 1949 р.
   > 🅿️ Безкоштовна вулична парковка на Canyon Lake Dr (~10 місць)
   > 🌅 **Sunset option:** Hollywood Sign у золотому світлі — залишитись до ~19:10 (захід 19:23). Готель на ~45 хв пізніше. Позичити час: скоротити Vasquez Rocks або пропустити Pyramid Lake 🔴
 - 18:25 🚗 → Готель (~20 хв)
@@ -107,10 +116,13 @@
   > ⚠️ **Griffith Observatory відкривається о 12:00 в неділю!** Спочатку хайк, потім обсерваторія
 - 10:50  🟡 🪴 [Mt Hollywood Trail](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~1.5 год, ~5 км туди-назад) · 🕐 до заходу
 - 12:20  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~1 год) · 🕐 Нд 12:00–22:00
+  > 🧠 Подарував місту Ґріффіт Дж. Ґріффіт — побудував обсерваторію, щоб кожна людина могла безкоштовно подивитись у телескоп. І досі вхід безкоштовний!
 - 13:20 🍽️ Обід (~1 год)
 - 14:20 🚗 → Hollywood Blvd (~15 хв)
 - 14:35  🟢 📍 [Hollywood Walk of Fame / Elvis Presley's Star](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~1 год) · 🕐 24/7
+  > 🧠 Понад 2 700 зірок. Перша — Джоан Вудворд (1960). Зірки НЕ безкоштовні: номінант платить ~$75 000 за церемонію.
   - 🎬 [TCL Chinese Theatre](https://www.google.com/maps/search/TCL+Chinese+Theatre+Hollywood) — відбитки рук/ніг зірок
+    > 🧠 Традиція почалась випадково: актриса Норма Толмадж наступила у мокрий цемент у 1927 р.
   - ⭐ [Michael Jackson star](https://www.google.com/maps/search/Michael+Jackson+star+Hollywood) — 6927 Hollywood Blvd
   - ⭐ Інші збережені: Frank Sinatra, The Beatles, Queen, Chuck Norris, Tom Cruise, Morgan Freeman, Arnold Schwarzenegger, Jackie Chan, The Rock, Snoop Dogg
 - 15:35 🚗 → Beverly Hills (~15 хв)
@@ -122,6 +134,7 @@
   > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
 - 16:40  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1 год) · 🕐 24/7 (атракціони ~11:00–21:00)
   - 🎡 Pacific Park — оглядове колесо, американські гірки
+    > 🧠 Єдиний парк атракціонів на Західному узбережжі прямо на океанському пірсі. Оглядове колесо живиться від сонячних панелей.
   - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
   > 🌅 **Sunset option:** захід сонця над Тихим океаном (19:24) — одне з найкращих місць у LA! Залишитись до ~19:15, готель ~20:00. Позичити час: скоротити Beverly Hills (30 хв → 15 хв) або Walk of Fame (1 год → 40 хв)
 - 17:40 🚗 → Готель (~40 хв)
@@ -133,12 +146,15 @@
 - 10:00 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (check-out 12:00)
 - 10:00 🚗 Лос-Анджелес → Лас-Вегас (~4.5 год)
 - 14:00  🔴 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~15 хв, кольорові кам'яні тотеми в пустелі, прямо біля I-15) · 🕐 24/7
+  > 🧠 Інсталяція швейцарського художника Уго Рондіноне (2016). Мала бути тимчасовою на 2 роки, але настільки полюбилась, що продовжують щоразу. Висота стовпів до 10 м.
 - 14:30 🍽️ Обід в Лас-Вегасі (~1 год)
 - 15:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ (ніч 1/1, check-in 15:00, залишити речі)
 - 16:00 🚗 → Strip (~15 хв)
 - 16:15  🟢 📍 [Las Vegas Strip / Grand Prix Plaza](https://www.google.com/maps/search/Las+Vegas+Strip+Grand+Prix+Plaza) (~3 год, прогулянка) · 🕐 24/7
+  > 🧠 Strip технічно не в місті Лас-Вегас — він на некорпорованій території округу Кларк.
 - 19:15 🚗 → Sphere Parking Lot B (~10 хв)
 - 19:30 📍 [Sphere](https://www.google.com/maps/search/Sphere+Las+Vegas) — прибуття / вхід
+  > 🧠 Найбільша сферична споруда у світі: 112 м × 157 м. Зовнішня LED-поверхня **54 000 м²** — найбільший екран на планеті. Всередині 16K × 16K (у 100 разів чіткіше за HD).
   > 🎫 Order #60-18902/NEV · Sec 405, Row 10, Seats 21–24 · Upper Gallery · Mobile tickets · 🅿️ Parking Lot B включено
   > ⚠️ **Двері відкриваються о 19:15** (за 45 хв до шоу). Запізнення — не впускають! Імерсивний досвід: гаптика крісел, спецефекти, туман, вітер, запахи, гучні звуки, спалахи світла. Квитки non-refundable.
 - 20:00 🎬 **"The Wizard of Oz" at Sphere** (~1.5 год)
@@ -149,13 +165,16 @@
 - 08:30 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - 08:30 🚗 Henderson → Hoover Dam (~30 хв)
 - 09:00  🟢 📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~1.5 год) · 🕐 9:00–15:45 · 🅿️ $10 гараж
+  > 🧠 Побудована за 5 років (1931–1936) під час Великої депресії. У бетоні **вбудовані холодильні труби** — без них він охолоджувався б 125 років. Бетону вистачило б на автомагістраль від Сан-Франциско до Нью-Йорка (~4 800 км). На дамбі є годинник із двома часовими поясами — Nevada та Arizona по різних боках.
   > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
   > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
 - 10:30 🚗 → Oatman (~2 год)
 - 12:30  🟡 📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
+  > 🧠 Місто-привид з дикими віслюками на вулицях — нащадки тих, яких залишили золотодобувачі на початку 1900-х. Можна годувати морквою ($1 пакетик у крамничках).
 - 13:15 🍽️ Обід в Oatman (~30 хв)
 - 13:45 🚗 → Seligman (~2 год)
 - 15:45  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
+  > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
 - 16:15 🚗 → Williams (~45 хв)
 - 17:00  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
 - 17:30 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) · ❌ Забронювати! (ніч 1/1, check-in 15:00)
@@ -163,6 +182,7 @@
 ### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
 - 08:00 🚗 Williams → South Entrance Station (~1 год)
 - 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
+  > 🧠 **Grand Canyon** — 446 км завдовжки, до 29 км завширшки, 1 600 м завглибшки. Ріка Колорадо вирізала його за ~5–6 млн років. Скелі на дні — **1.8 млрд років** (майже половина віку Землі). Кожен шар — окрема геологічна ера. Тут живе **каліфорнійський кондор** — у 1987 р. залишалось лише 22 птахи, зараз ~500. Різниця температур між верхом і дном — до **15–20 °C**.
 - 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Yavapai Viewpoint Rd (~15 хв)
   > 🅿️ Парковка на [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Road+Grand+Canyon) — залишити авто тут, далі пішки по Rim Trail
 - 09:15  🟢 📍 [Yavapai Point & Geology Museum](https://www.google.com/maps/search/Yavapai+Geology+Museum+Grand+Canyon) (~30 хв, панорама каньйону + геологічний музей) · 🕐 24/7
@@ -192,10 +212,13 @@
 - 09:55  🟢 🥾 [Canyon Overlook Trail](https://www.google.com/maps/search/Canyon+Overlook+Trail+Zion) (~1 год, ~1.6 км туди-назад, вид на Pine Creek Canyon) · 🕐 24/7
   > 🅿️ Невелика парковка біля тунелю (East side) — приїхати рано!
 - 10:55 🚗 Проїзд через Zion-Mt Carmel Tunnel → Zion Canyon
+  > 🧠 **Zion-Mt Carmel Tunnel** (1930) — 1.8 км, прорубаний вручну у скелі. Великі авто їдуть посередині, зустрічний рух зупиняють. Червоні та білі скелі Zion — це древній пісок Сахари: 150–200 млн років тому тут була гігантська пустеля, пісок спресувався у пісковик Navajo.
 - 11:10 🅿️ Парковка у [Zion Canyon Visitor Center](https://www.google.com/maps/search/Zion+Canyon+Visitor+Center) або Springdale (shuttle stops)
 - 11:25 🚌 Zion Canyon Shuttle → зупинки:
   - 🟢 📍 **The Grotto** → 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) (~4 год туди-назад) — ❗ потребує permit (лотерея, подати **08.04**)
+    > 🧠 Назву дав методистський пастор: «тільки ангели можуть приземлитись на цю вершину». Фінальний відрізок — вузький хребет із ланцюгами та прірвою ~450 м вниз.
   - 🟢 📍 **Temple of Sinawava** → 🥾 [Riverside Walk / The Narrows](https://www.google.com/maps/search/The+Narrows+Zion) (~1.5–2 год, рівна стежка вздовж Virgin River)
+    > 🧠 **The Narrows** — стіни сягають **300 м**, а відстань між ними — лише кілька метрів. Ви йдете прямо по руслу ріки.
   - 🟡 📍 **Weeping Rock** → 🥾 [Weeping Rock Trail](https://www.google.com/maps/search/Weeping+Rock+Zion) (~30 хв)
   - 🟡 📍 **Zion Lodge** → 🥾 [Emerald Pools Trail](https://www.google.com/maps/search/Emerald+Pools+Zion) (Lower ~1 год, Upper ~2.5 год)
 - 13:30 🍽️ Обід (Zion Lodge / Springdale) (~1 год)
@@ -210,6 +233,7 @@
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
 - 09:00 **Sightseer's Tour — Upper Antelope Canyon** (9:00–10:40)
+  > 🧠 Промені світла згори найкраще видно з кінця березня по жовтень, близько полудня. Навахо називають його *Tsé bighánílíní* — «місце, де вода тече крізь скелі». У 1997 р. раптова повінь у Lower Antelope Canyon забрала 11 життів — відтоді тільки з гідом.
   - **Booking #339689525** · 4 квитки · **$502.23**
   - **Час:** 9:00 AM — 10:40 AM (тривалість 100 хв)
   - **Прибути до 8:30 AM** (check-in за 30 хв до відправлення)
@@ -226,12 +250,14 @@
 - 10:40 🚗 Повернення до офісу
 - 11:00 🚗 → Horseshoe Bend (~5 хв)
 - 11:05  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1 год, парковка $10) · 🕐 до заходу сонця
+  > 🧠 Ріка Колорадо робить поворот на **270°**. Падіння з обриву до води — **300 м**. До 2018 р. тут не було ні огорожі, ні паркінгу — тільки ґрунтова стежка.
 - 12:05 🚗 → Glen Canyon Dam (~10 хв)
 - 12:15  🟡 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~20 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
   - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
 - 12:35 🍽️ Обід в Page (~30 хв)
 - 13:05 🚗 Page → Bryce Canyon (~2.5 год через US-89N → UT-12E)
 - 15:35  🟢 📍 [Bryce Canyon National Park](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (~1.5 год) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
+  > 🧠 Насправді **не каньйон**, а серія природних амфітеатрів. «Худу» (кам'яні стовпи) формуються морозним вивітрюванням (~200 циклів замерзання/рік). **Найчистіше повітря** серед усіх нацпарків США — видимість до **320 км**. Одне з найтемніших небес для спостереження зірок.
   - 🟢 📍 [Sunset Point](https://www.google.com/maps/search/Sunset+Point+Bryce+Canyon) — найкращий вид на амфітеатр худу
   - 🟢 📍 [Bryce Point](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) — панорама всього амфітеатру
   - 🟡 📍 [Inspiration Point](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) — вид на Silent City
