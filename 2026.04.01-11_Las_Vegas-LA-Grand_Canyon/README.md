@@ -33,6 +33,7 @@
 - 21:09 ✈️ Приліт LAS
 - 21:30 🚌 Rental Car shuttle → Turo Lot (~30 хв)
 - 22:00 🚗 Отримання авто, огляд, фото (~30 хв)
+  > 📋 **Pick-up стан:** 083,927 mi · Oil Life 40% · 70°F · Honda CR-V
 - 22:30 🚗 → Henderson (~15 хв)
 - 22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #26234509 (ніч 1/1, check-in 15:00)
 
@@ -40,22 +41,22 @@
 > 🎫 **America the Beautiful Pass** — вхід безкоштовний (Order #UPP538726)
 - 07:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - 07:00 🚗 Henderson → Walmart Pahrump (~1 год 15 хв)
-- 08:15 🛒 [Walmart Supercenter Pahrump](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJk6DFz4Y1w4ARcyFpwhc-kqE) (~20 хв, вода/снеки/лід) · 🕐 6:00–23:00
-- 08:35 🚗 Pahrump → Dante's View (~1 год 15 хв)
-- 09:50  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
-- 10:20 🚗 → Badwater Basin (~50 хв)
-- 11:10  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
-- 11:40 🚗 → Artist's Drive (~25 хв)
-- 12:05  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
-- 12:35 🚗 → Zabriskie Point (~20 хв)
-- 12:55  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
-- 13:15 🚗 → General Store (~10 хв)
-- 13:25 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
-- 13:40 🚗 → Mesquite Flat Sand Dunes (~25 хв)
-- 14:05  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни, на шляху до виїзду) · 🕐 24/7
-- 14:25 🚗 Death Valley → Three Rivers (~4 год 30 хв)
+- 08:15 🛒 [Walmart Supercenter Pahrump](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJk6DFz4Y1w4ARcyFpwhc-kqE) (~30 хв, вода/снеки/лід) · 🕐 6:00–23:00
+- 08:45 🚗 Pahrump → Dante's View (~1 год 15 хв)
+- 10:00  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
+- 10:30 🚗 → Badwater Basin (~50 хв)
+- 11:20  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
+- 11:50 🚗 → Artist's Drive (~25 хв)
+- 12:15  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
+- 12:45 🚗 → Zabriskie Point (~20 хв)
+- 13:05  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
+- 13:25 🚗 → General Store (~10 хв)
+- 13:35 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
+- 13:50 🚗 → Mesquite Flat Sand Dunes (~25 хв)
+- 14:15  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни, на шляху до виїзду) · 🕐 24/7
+- 14:35 🚗 Death Valley → Three Rivers (~4 год 30 хв)
   > ⚠️ Маршрут через Trona/Ridgecrest — перевірити стан доріг заздалегідь (можливі перекриття на Garlock Rd, об'їзд +1 год)
-- 18:55 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (ніч 1/2, check-in 16:00)
+- 19:05 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (ніч 1/2, check-in 16:00)
 
 ### Day 2 — П'ятниця, 03.04 · Sequoia National Park · ⏰ 09:00–18:00 · 🌅 19:27
 > 🎫 **Sequoia Site Pass** — $35 (Order #0898115340, valid 02–08.04)
