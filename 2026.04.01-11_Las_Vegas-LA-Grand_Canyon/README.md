@@ -106,7 +106,7 @@
 - 11:35  🟡 🌲 [Tunnel Log](https://www.google.com/maps/search/Tunnel+Log+Sequoia+National+Park) (~20 хв) · 🕐 24/7 *(факт: об'єднано з Moro Rock)*
   > 🧠 Повалене дерево 1937 р. — замість того, щоб прибрати, прорізали тунель для автомобілів. Лежить там і досі!
 - 11:55 🚗 → Moro Rock (~10 хв)
-- 12:05  🟢 🪴 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7 *(факт: 13:20–14:07, 47 хв + повтор на захід 17:54–18:03)*
+- 12:05  🟢 🪴 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7 *(факт: 13:20–14:07, 47 хв)*
   > 🧠 350 гранітних сходинок, вирізаних у скелі у 1930-х. Перепад висоти 91 м. Звідти видно Great Western Divide.
 - 13:05 🍽️ Обід / перекус
 - 13:30 🚗 → Crescent Meadow (~10 хв від Moro Rock)
@@ -116,7 +116,7 @@
 - 14:15  🔴 🪴 [Big Trees Trail](https://www.google.com/maps/search/Big+Trees+Trail+Sequoia+National+Park) (~1 год, ~2 км рівна петля навколо Round Meadow) · 🕐 24/7 *(факт: 15:00–15:29, 29 хв)*
   > 🅿️ Парковка біля [Giant Forest Museum](https://www.google.com/maps/search/Giant+Forest+Museum+Sequoia) — безкоштовна з Site Pass
 - 15:15 🚗 Вільний час / прогулянка (~45 хв) *(факт: 15:34–17:03, Sherman parking)*
-- 16:00 🚗 Повернення в готель (~1 год) *(факт: повтор Moro Rock 17:54–18:03 на захід сонця! 🌅)*
+- 16:00 🚗 Повернення в готель (~1 год) *(факт: 17:54–18:03 серпантин вниз)*
 - 17:00 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ (ніч 2/2) *(факт: ~19:27, +2.5 год)*
 
 > ✅ **Факт Day 2 (03.04):**
@@ -131,17 +131,16 @@
 > | 14:35–14:59 | 🌲 Crescent Meadow | ~24 хв |
 > | 15:00–15:29 | 🪴 Big Trees Trail | ~29 хв |
 > | 15:34–17:03 | 📍 Sherman parking / вільний час | ~89 хв |
-> | 17:54–18:03 | 🪴 Moro Rock (повтор — захід сонця! 🌅) | ~9 хв |
+> | 17:54–18:03 | 🚗 Серпантин вниз (фото на зїзді) | ~9 хв |
 > | ~19:27 | 🏨 Повернення в готель | — |
 >
 > ❌ **Пропущено:** Foothills Visitor Center (замінено на більше часу в парку)
-> ➕ **Додано:** Congress Trail + повтор Moro Rock на заході сонця
+> ➕ **Додано:** Congress Trail
 > 📏 **Пробіг:** ~50 mi (80 km). Одометр: 084,487 mi
 >
 > 💡 **Рекомендації:**
 > - Серпантин Готель → Sherman: закладати **1.5 год** (план мав 1 год)
 > - General Sherman + Congress Trail — варто об'єднати (1.5 год загалом)
-> - **Moro Rock на заході сонця** — чудовий бонус, варто планувати!
 > - Big Trees Trail — 30 хв достатньо (план мав 1 год)
 > - Foothills VC — можна пропустити
 
