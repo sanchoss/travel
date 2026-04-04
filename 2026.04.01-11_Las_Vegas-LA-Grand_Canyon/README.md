@@ -1,6 +1,8 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-[Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
+> 📝 **Оновлено:** 03.04.2026 22:56 PT (local time) / 04.04.2026 01:56 (ET)
+
+[Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing) · [Фото альбом](https://photos.app.goo.gl/UxjW9VrcSRuBVbuH9)
 
 **01.04.2026 — 11.04.2026** (11 днів / 10 ночей)
 
@@ -29,63 +31,119 @@
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
 
-### Day 0 — Середа, 01.04 · ⏰ 21:09–23:00 · 🌅 19:07
-- 21:09 ✈️ Приліт LAS
+### Day 0 — Середа, 01.04 · ⏰ 21:09–23:00 · 🌅 19:07 · 🚗 ~15 mi
+- 21:09 ✈️ Приліт LAS *(факт: ~21:21)*
 - 21:30 🚌 Rental Car shuttle → Turo Lot (~30 хв)
-- 22:00 🚗 Отримання авто, огляд, фото (~30 хв)
+- 22:00 🚗 Отримання авто, огляд, фото (~30 хв) *(факт: ~22:15)*
   > 📋 **Pick-up стан:** 083,927 mi · Oil Life 40% · 70°F · Honda CR-V
 - 22:30 🚗 → Henderson (~15 хв)
 - 22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #26234509 (ніч 1/1, check-in 15:00)
 
-### Day 1 — Четвер, 02.04 · Death Valley · ⏰ 07:00–19:00 · 🌅 19:17
+> ✅ **Факт Day 0:** Приліт ~21:21 (+12 хв), авто ~22:15 (+15 хв). Одометр: 083,927 mi. Все за планом, ~15 хв запізнення.
+
+### Day 1 — Четвер, 02.04 · Death Valley · ⏰ 07:00–19:00 · 🌅 19:17 · 🚗 ~545 mi
 > 🎫 **America the Beautiful Pass** — вхід безкоштовний (Order #UPP538726)
 > 🧠 Назву «Долина Смерті» дали золотошукачі 1849 р., які ледве вибрались з неї живими. Один сказав: *«Goodbye, Death Valley»* — і назва прилипла. Тут зафіксовано абсолютний рекорд температури на Землі — **56.7 °C** (134 °F, 1913). У квітні ще комфортно (~30–35 °C). А ще тут одне з **найтемніших небес у США** (Gold Tier Dark Sky Park) — неозброєним оком видно Чумацький Шлях.
-- 07:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
-- 07:00 🚗 Henderson → Walmart Pahrump (~1 год 15 хв)
+- 07:00 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00) *(факт: 07:11)*
+- 07:00 🚗 Henderson → Walmart (~1 год 15 хв) *(факт: зупинка в NW Vegas area)*
 - 08:15 🛒 [Walmart Supercenter Pahrump](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJk6DFz4Y1w4ARcyFpwhc-kqE) (~30 хв, вода/снеки/лід) · 🕐 6:00–23:00
 - 08:45 🚗 Pahrump → Dante's View (~1 год 15 хв)
-- 10:00  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7
+- 10:00  🟢 📍 [Dante's View](https://www.google.com/maps/search/Dante's+View+Death+Valley) (~30 хв) · 🕐 24/7 *(факт: 13:42–14:27, 45 хв)*
 - 10:30 🚗 → Badwater Basin (~50 хв)
-- 11:20  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7
+- 11:20  🟢 📍 [Badwater Basin](https://www.google.com/maps/search/Badwater+Basin+Death+Valley) (~30 хв) · 🕐 24/7 *(факт: 15:59–16:26, 27 хв)*
   > 🧠 Найнижча точка Північної Америки: **−86 м** нижче рівня моря. Білі багна — це не сніг, а кристали солі.
 - 11:50 🚗 → Artist's Drive (~25 хв)
-- 12:15  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7
+- 12:15  🟡 📍 [Artist's Drive / Artist's Palette](https://www.google.com/maps/search/Artist's+Drive+Death+Valley) (~30 хв, кольорові мінерали в скелях) · 🕐 24/7 *(факт: 13:09–13:16, ~7 хв)*
   > 🧠 Кольори створені різними мінералами: залізо → червоний/жовтий, слюда → зелений, марганець → фіолетовий, титан → рожевий.
 - 12:45 🚗 → Zabriskie Point (~20 хв)
-- 13:05  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7
+- 13:05  🟡 📍 [Zabriskie Point](https://www.google.com/maps/search/Zabriskie+Point+Death+Valley) (~20 хв) · 🕐 24/7 *(факт: 15:12–15:25, 13 хв)*
 - 13:25 🚗 → General Store (~10 хв)
-- 13:35 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00
+- 13:35 🛡 [General Store, Death Valley](https://www.google.com/maps/search/Furnace+Creek+General+Store+Death+Valley) (~15 хв) · 🕐 7:00–21:00 *(факт: ~17:02, quick stop)*
 - 13:50 🚗 → Mesquite Flat Sand Dunes (~25 хв)
-- 14:15  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни, на шляху до виїзду) · 🕐 24/7
+- 14:15  🔴 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~20 хв, піщані дюни, на шляху до виїзду) · 🕐 24/7 *(факт: 17:47–17:59, 12 хв)*
   > 🧠 На висохлому озері Racetrack Playa камені залишають сліди на глині — загадку розгадали лише у 2014 р.: їх зсувають тонкі листи льоду взимку.
-- 14:35 🚗 Death Valley → Three Rivers (~4 год 30 хв)
+- 14:35 🚗 Death Valley → Three Rivers (~4 год 30 хв) *(факт: виїзд ~18:00, через Bakersfield)*
   > ⚠️ Маршрут через Trona/Ridgecrest — перевірити стан доріг заздалегідь (можливі перекриття на Garlock Rd, об'їзд +1 год)
-- 19:05 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (ніч 1/2, check-in 16:00)
+  > ✅ **Факт:** поїхали через Bakersfield (довше, але швидше). Заправка Circle K Bakersfield 22:03, $56.99. Прибуття ~23:00
+- 19:05 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ Conf #26236486 (ніч 1/2, check-in 16:00) *(факт: ~23:00)*
 
-### Day 2 — П'ятниця, 03.04 · Sequoia National Park · ⏰ 09:00–18:00 · 🌅 19:27
+> ✅ **Факт Day 1 (02.04):**
+>
+> | Час | Місце | Тривалість |
+> |-----|-------|------------|
+> | 07:11 | 🏨 Henderson checkout | — |
+> | ~10:04 | 🛒 Зупинка NW Las Vegas (магазин) | — |
+> | ~12:32 | 🚗 В'їзд у Death Valley | — |
+> | 13:09–13:16 | 📍 Artist's Drive | ~7 хв |
+> | 13:42–14:27 | 📍 Dante's View | ~45 хв |
+> | 15:12–15:25 | 📍 Zabriskie Point | ~13 хв |
+> | 15:59–16:26 | 📍 Badwater Basin | ~27 хв |
+> | ~17:02 | 🛡 General Store | quick stop |
+> | 17:47–17:59 | 📍 Sand Dunes | ~12 хв |
+> | ~18:00 | 🚗 Виїзд DV через Panamint | — |
+> | 22:03 | ⛽ Заправка Bakersfield | $56.99 |
+> | ~23:00 | 🏨 Прибуття Three Rivers | — |
+>
+> ⏱ **Порядок:** Artist's → Dante's → Zabriskie → Badwater → Store → Dunes (план: Dante's → Badwater → Artist's → Zabriskie)
+> ❌ **Пропущено:** нічого — все відвідали!
+> 📏 **Пробіг:** ~545 mi (877 km)
+>
+> 💡 **Рекомендації:**
+> - Henderson → DV з зупинкою зайняв ~5.5 год — план мав 1:45. Реалістично: 3–3.5 год
+> - Маршрут через Bakersfield замість Trona — правильне рішення (дорога краща, бензин)
+> - На Death Valley закладати мінімум 5 год на зупинки (факт: 13:09–17:59 = 5 год)
+> - Dante's View варто 45+ хв, Zabriskie Point — 15 хв достатньо
+
+### Day 2 — П'ятниця, 03.04 · Sequoia National Park · ⏰ 09:00–18:00 · 🌅 19:27 · 🚗 ~50 mi
 > 🎫 **Sequoia Site Pass** — $35 (Order #0898115340, valid 02–08.04)
-- 09:00 🚗 Готель → Ash Mountain Entrance (~15 хв)
-- 09:15 📍 [Sequoia NP — Ash Mountain Entrance](https://www.google.com/maps/search/Sequoia+National+Park+Ash+Mountain+Entrance) (~15 хв) · 🕐 парк 24/7
-- 09:30  🔴 🛒 [Foothills Visitor Center](https://www.google.com/maps/search/Foothills+Visitor+Center+Sequoia) (~20 хв) · 🕐 8:00–17:00
-- 09:50 🚗 → General Sherman Tree (~45 хв, серпантин)
-- 10:35  🟢 🌲 [General Sherman Tree](https://www.google.com/maps/search/General+Sherman+Tree+Sequoia) (~45 хв) · 🕐 24/7
+- 09:00 🚗 Готель → Ash Mountain Entrance (~15 хв) *(факт: виїзд ~10:15)*
+- 09:15 📍 [Sequoia NP — Ash Mountain Entrance](https://www.google.com/maps/search/Sequoia+National+Park+Ash+Mountain+Entrance) (~15 хв) · 🕐 парк 24/7 *(факт: ~10:30)*
+- 09:30  🔴 🛒 [Foothills Visitor Center](https://www.google.com/maps/search/Foothills+Visitor+Center+Sequoia) (~20 хв) · 🕐 8:00–17:00 *(факт: ~10:30–10:58, зупинка біля входу)*
+- 09:50 🚗 → General Sherman Tree (~45 хв, серпантин) *(факт: ~1.5 год від готелю!)*
+- 10:35  🟢 🌲 [General Sherman Tree](https://www.google.com/maps/search/General+Sherman+Tree+Sequoia) (~45 хв) · 🕐 24/7 *(факт: 11:45–13:05, 80 хв з Congress Trail)*
   > 🧠 Найбільше дерево на планеті за об'ємом: **1 487 м³** (~10 блакитних китів). Вік ~2 200 років. Окружність стовбура біля основи **31.3 м**. Секвоям **потрібен вогонь**: шишки розкриваються лише під час пожежі. Кора до 60 см захищає від вогню.
 - 11:20 🚗 → Tunnel Log (~15 хв)
-- 11:35  🟡 🌲 [Tunnel Log](https://www.google.com/maps/search/Tunnel+Log+Sequoia+National+Park) (~20 хв) · 🕐 24/7
+- 11:35  🟡 🌲 [Tunnel Log](https://www.google.com/maps/search/Tunnel+Log+Sequoia+National+Park) (~20 хв) · 🕐 24/7 *(факт: об'єднано з Moro Rock)*
   > 🧠 Повалене дерево 1937 р. — замість того, щоб прибрати, прорізали тунель для автомобілів. Лежить там і досі!
 - 11:55 🚗 → Moro Rock (~10 хв)
-- 12:05  🟢 🥾 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7
+- 12:05  🟢 🪴 [Moro Rock Trail](https://www.google.com/maps/search/Moro+Rock+Sequoia+National+Park) (~1 год) · 🕐 24/7 *(факт: 13:20–14:07, 47 хв + повтор на захід 17:54–18:03)*
   > 🧠 350 гранітних сходинок, вирізаних у скелі у 1930-х. Перепад висоти 91 м. Звідти видно Great Western Divide.
 - 13:05 🍽️ Обід / перекус
 - 13:30 🚗 → Crescent Meadow (~10 хв від Moro Rock)
-- 13:40  🟡 🌲 [Crescent Meadow](https://www.google.com/maps/search/Crescent+Meadow+Sequoia+National+Park) (~30 хв, рівна тропа серед секвой та луків) · 🕐 24/7
+- 13:40  🟡 🌲 [Crescent Meadow](https://www.google.com/maps/search/Crescent+Meadow+Sequoia+National+Park) (~30 хв, рівна тропа серед секвой та луків) · 🕐 24/7 *(факт: 14:35–14:59, 24 хв)*
   > 🅿️ Парковка в кінці Crescent Meadow Rd — безкоштовна з Site Pass
 - 14:10 🚗 → Big Trees Trail (~5 хв)
-- 14:15  🔴 🥾 [Big Trees Trail](https://www.google.com/maps/search/Big+Trees+Trail+Sequoia+National+Park) (~1 год, ~2 км рівна петля навколо Round Meadow) · 🕐 24/7
+- 14:15  🔴 🪴 [Big Trees Trail](https://www.google.com/maps/search/Big+Trees+Trail+Sequoia+National+Park) (~1 год, ~2 км рівна петля навколо Round Meadow) · 🕐 24/7 *(факт: 15:00–15:29, 29 хв)*
   > 🅿️ Парковка біля [Giant Forest Museum](https://www.google.com/maps/search/Giant+Forest+Museum+Sequoia) — безкоштовна з Site Pass
-- 15:15 🚗 Вільний час / прогулянка (~45 хв)
-- 16:00 🚗 Повернення в готель (~1 год)
-- 17:00 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ (ніч 2/2)
+- 15:15 🚗 Вільний час / прогулянка (~45 хв) *(факт: 15:34–17:03, Sherman parking)*
+- 16:00 🚗 Повернення в готель (~1 год) *(факт: повтор Moro Rock 17:54–18:03 на захід сонця! 🌅)*
+- 17:00 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · ✅ (ніч 2/2) *(факт: ~19:27, +2.5 год)*
+
+> ✅ **Факт Day 2 (03.04):**
+>
+> | Час | Місце | Тривалість |
+> |-----|-------|------------|
+> | ~10:15 | 🚗 Виїзд з готелю | — |
+> | ~10:30–10:58 | 📍 Ash Mountain Entrance | ~28 хв |
+> | 11:07 | 🚗 Generals Highway (серпантин) | — |
+> | 11:45–13:05 | 🌲 General Sherman + Congress Trail | ~80 хв |
+> | 13:20–14:07 | 🪴 Moro Rock / Tunnel Log | ~47 хв |
+> | 14:35–14:59 | 🌲 Crescent Meadow | ~24 хв |
+> | 15:00–15:29 | 🪴 Big Trees Trail | ~29 хв |
+> | 15:34–17:03 | 📍 Sherman parking / вільний час | ~89 хв |
+> | 17:54–18:03 | 🪴 Moro Rock (повтор — захід сонця! 🌅) | ~9 хв |
+> | ~19:27 | 🏨 Повернення в готель | — |
+>
+> ❌ **Пропущено:** Foothills Visitor Center (замінено на більше часу в парку)
+> ➕ **Додано:** Congress Trail + повтор Moro Rock на заході сонця
+> 📏 **Пробіг:** ~50 mi (80 km). Одометр: 084,487 mi
+>
+> 💡 **Рекомендації:**
+> - Серпантин Готель → Sherman: закладати **1.5 год** (план мав 1 год)
+> - General Sherman + Congress Trail — варто об'єднати (1.5 год загалом)
+> - **Moro Rock на заході сонця** — чудовий бонус, варто планувати!
+> - Big Trees Trail — 30 хв достатньо (план мав 1 год)
+> - Foothills VC — можна пропустити
 
 ### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · ⏰ 11:00–19:00 · 🌅 19:23
 - 11:00 🏨 [Comfort Inn & Suites Sequoia Kings Canyon](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (check-out 11:00)
@@ -105,6 +163,9 @@
   > 🌅 **Sunset option:** Hollywood Sign у золотому світлі — залишитись до ~19:10 (захід 19:23). Готель на ~45 хв пізніше. Позичити час: скоротити Vasquez Rocks або пропустити Pyramid Lake 🔴
 - 18:25 🚗 → Готель (~20 хв)
 - 18:45 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (ніч 1/2, check-in 15:00)
+- 19:15 🚗 → JONS Marketplace (~10 хв)
+- 19:25  🟡 🇺🇦 🛒 [JONS International Marketplace](https://www.google.com/maps/search/JONS+International+Marketplace+5315+Santa+Monica+Blvd+Los+Angeles) (~30 хв, український магазин — продукти/снеки на дорогу) · 🕐 7:00–22:00
+  > 📍 5315 Santa Monica Blvd, Los Angeles · Міжнародний супермаркет з великим вибором продуктів, випічки та делікатесів · ⭐ 4.3
 
 ### Day 4 — Неділя, 05.04 · Los Angeles · ⏰ 09:00–20:00 · 🌅 19:24
 
@@ -133,6 +194,7 @@
 - 16:20 🚗 → Santa Monica (~20 хв)
   > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
 - 16:40  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1 год) · 🕐 24/7 (атракціони ~11:00–21:00)
+  - 🇺🇦 [Ukraina Deli](https://www.google.com/maps/search/Ukraina+Deli+1207+Wilshire+Blvd+Santa+Monica) — 1207 Wilshire Blvd (~10 хв від пірса, український делікатес) · 🕐 10:00–? · ⭐ 3.7
   - 🎡 Pacific Park — оглядове колесо, американські гірки
     > 🧠 Єдиний парк атракціонів на Західному узбережжі прямо на океанському пірсі. Оглядове колесо живиться від сонячних панелей.
   - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
@@ -177,9 +239,10 @@
   > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
 - 16:15 🚗 → Williams (~45 хв)
 - 17:00  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
-- 17:30 🏨 [**Quality Inn Williams — Grand Canyon**](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ) · ❌ Забронювати! (ніч 1/1, check-in 15:00)
+- 17:30 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
 
 ### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
+- 08:00 🏨 [Comfort Inn Near Grand Canyon](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) (check-out 11:00)
 - 08:00 🚗 Williams → South Entrance Station (~1 год)
 - 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
   > 🧠 **Grand Canyon** — 446 км завдовжки, до 29 км завширшки, 1 600 м завглибшки. Ріка Колорадо вирізала його за ~5–6 млн років. Скелі на дні — **1.8 млрд років** (майже половина віку Землі). Кожен шар — окрема геологічна ера. Тут живе **каліфорнійський кондор** — у 1987 р. залишалось лише 22 птахи, зараз ~500. Різниця температур між верхом і дном — до **15–20 °C**.
@@ -201,11 +264,11 @@
   > 🔀 **Якщо їдете через Sedona** (+2.5 год): GC → Flagstaff → Sedona (~2 год) → Sedona ~1.5 год → Sedona → Kanab (~3 год через Flagstaff → 89N → 89A). Прибуття в Kanab ~20:00
   -  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
   -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
-- 17:00 🏨 [**Comfort Suites Kanab**](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) · ❌ Забронювати! (ніч 1/1, check-in 15:00)
+- 17:00 🏨 [**Comfort Suites Kanab National Park Area**](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · ✅ Conf #28615939 (ніч 1/1, check-in 15:00)
 
 ### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 09:00–21:15 · 🌅 18:55
 > 🌟 **Повний день у Zion!** Kanab → Zion лише ~40 хв. Angels Landing lottery — подати **08.04**, результат о 18:00
-- 09:00 🏨 [Comfort Suites Kanab](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah) (check-out 11:00)
+- 09:00 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (check-out 11:00)
 - 09:00 🚗 Kanab → Zion NP East Entrance (~40 хв через Mt Carmel Hwy)
 - 09:40  🟢 📍 [Zion NP — East Entrance](https://www.google.com/maps/search/Zion+National+Park+East+Entrance) · 🕐 парк 24/7
   > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
@@ -226,10 +289,10 @@
 - 17:30 🚌 Останній shuttle назад → парковка
 - 18:00 🚗 Zion → Page (~2 год 15 хв через Mt Carmel → 89S)
   > 🌅 **Sunset option:** золота година в Zion Canyon (захід 18:55). Залишитись до 18:30 shuttle, виїзд ~19:00, прибуття Page ~21:15. Позичити час: скоротити Canyon Overlook Trail або один shuttle stop
-- 20:15 🏨 [**Comfort Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) · ❌ Забронювати! (ніч 1/1, check-in 15:00)
+- 20:15 🏨 [**Sleep Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · ✅ Conf #28617852 (ніч 1/1, check-in 15:00)
 
 ### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–21:35 · 🌅 18:57
-- 07:30 🏨 [Comfort Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ) (check-out раніше)
+- 07:30 🏨 [Sleep Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) (check-out 11:00)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
 - 09:00 **Sightseer's Tour — Upper Antelope Canyon** (9:00–10:40)
@@ -278,7 +341,9 @@
 ### 1. Comfort Inn & Suites Henderson — Las Vegas
 - **Дати:** 01.04 (Wed) 15:00 — 02.04 (Thu) 12:00 · 1 ніч
 - **Confirmation #:** 26234509
-- **Адреса:** 401 N Gibson Rd, Henderson, NV 89011
+- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
+- **Оплата:** 🎁 Reward Night — 15,000 pts
+- **Адреса:** 475 Marks Street, Henderson, NV 89014
 - **Телефон:** +1 (702) 387-6500
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 - [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
@@ -286,7 +351,9 @@
 ### 2. Comfort Inn & Suites Sequoia Kings Canyon
 - **Дати:** 02.04 (Thu) 16:00 — 04.04 (Sat) 11:00 · 2 ночі
 - **Confirmation #:** 26236486
-- **Адреса:** 40820 Sierra Dr, Three Rivers, CA 93271
+- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
+- **Оплата:** 12,000 pts + $323.00 (VISA ****7434)
+- **Адреса:** 40820 Sierra Drive, Three Rivers, CA 93271
 - **Телефон:** +1 (559) 566-0232
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers)
 - [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/caa26)
@@ -294,7 +361,9 @@
 ### 3. Comfort Inn Los Angeles near Hollywood
 - **Дати:** 04.04 (Sat) 15:00 — 06.04 (Mon) 12:00 · 2 ночі
 - **Confirmation #:** 26247802
-- **Адреса:** 1823 N Highland Ave, Los Angeles, CA 90028
+- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
+- **Оплата:** $404.31 ($207.25 + $147.40 + $49.66 tax)
+- **Адреса:** 2717 West Sunset Blvd., Los Angeles, CA 90026
 - **Телефон:** +1 (213) 413-8222
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
 - [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca785)
@@ -309,25 +378,37 @@
 - [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 - [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
 
-### 5. Quality Inn Williams — Grand Canyon
-- **Дати:** 07.04 (Tue) — 08.04 (Wed) · 1 ніч
-- **Адреса:** 2000 W Route 66, Williams, AZ 86046
-- [Google Maps](https://www.google.com/maps/search/Quality+Inn+Williams+Grand+Canyon+AZ)
-- [Choice Hotels](https://www.choicehotels.com/arizona/williams/quality-inn-hotels)
+### 5. Comfort Inn Near Grand Canyon
+- **Дати:** 07.04 (Tue) 15:00 — 08.04 (Wed) 11:00 · 1 ніч
+- **Confirmation #:** 28612966
+- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
+- **Оплата:** 🎁 Reward Night — 15,000 pts
+- **Адреса:** 911 W US Route 66, Williams, AZ 86046
+- **Телефон:** +1 (928) 635-4045
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ)
+- [Choice Hotels](https://www.choicehotels.com/arizona/williams/comfort-inn-hotels/az327)
 
-### 6. Comfort Suites Kanab
-- **Дати:** 08.04 (Wed) — 09.04 (Thu) · 1 ніч
-- **Адреса:** 325 E 300 S, Kanab, UT 84741
-- [Google Maps](https://www.google.com/maps/search/Comfort+Suites+Kanab+Utah)
+### 6. Comfort Suites Kanab National Park Area
+- **Дати:** 08.04 (Wed) 15:00 — 09.04 (Thu) 11:00 · 1 ніч
+- **Confirmation #:** 28615939
+- **Кімната:** 2 Double Beds, Suite + Sofa Bed, No Smoking · 4 occupants
+- **Оплата:** $178.98 ($155.95 + $23.03 tax)
+- **Адреса:** 150 West Center Street, Kanab, UT 84741
+- **Телефон:** +1 (435) 513-3684
+- [Google Maps](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area)
 - [Choice Hotels](https://www.choicehotels.com/utah/kanab/comfort-suites-hotels/ut189)
 
-### 7. Comfort Inn & Suites Page at Lake Powell
-- **Дати:** 09.04 (Thu) — 10.04 (Fri) · 1 ніч
-- **Адреса:** 600 Clubhouse Dr, Page, AZ 86040
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Page+at+Lake+Powell+AZ)
-- [Choice Hotels](https://www.choicehotels.com/arizona/page/comfort-inn-hotels/az380)
+### 7. Sleep Inn & Suites Page at Lake Powell
+- **Дати:** 09.04 (Thu) 15:00 — 10.04 (Fri) 11:00 · 1 ніч
+- **Confirmation #:** 28617852
+- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
+- **Оплата:** $182.31 ($155.95 + $26.36 tax)
+- **Адреса:** 673 Scenic View Road, Page, AZ 86040
+- **Телефон:** +1 (928) 645-2020
+- [Google Maps](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell)
+- [Choice Hotels](https://www.choicehotels.com/arizona/page/sleep-inn-hotels)
 
-> ⚠️ Готелі 4–7 потрібно забронювати!
+> ✅ Всі готелі заброньовані!
 
 ---
 
@@ -524,6 +605,25 @@
 - 🧹 Повернути чистим + заправленим
 - 🚗 На авто є OEM-трекінг (Honda Connected Services)
 - ⚠️ Штрафи за забруднення: **$150** (бруд зовні, салон, куріння, сильне забруднення)
+
+### 🚗 Пробіг та заправки
+
+| День | Дата | Одометр | За день | Маршрут |
+|------|------|---------|--------|--------|
+| Pick-up | 01.04 22:15 | 083,927 mi | — | Turo Lot LAS |
+| Day 0 | 01.04 | — | ~15 mi (24 km) | LAS → Henderson |
+| Day 1 | 02.04 10:07 | Trip A: 32.9 mi | ~545 mi (877 km) | Henderson → Death Valley → Bakersfield → Three Rivers |
+| Day 2 | 03.04 10:12 | 084,487 mi | ~50 mi (80 km) | Hotel → Sequoia NP → Hotel |
+| Day 3 | 04.04 | — | | Three Rivers → LA |
+| Day 4 | 05.04 | — | | LA (city driving) |
+| Day 5 | 06.04 | — | | LA → Las Vegas |
+| Day 6 | 07.04 | — | | Henderson → Hoover Dam → Route 66 → Williams |
+| Day 7 | 08.04 | — | | Williams → Grand Canyon → Kanab |
+| Day 8 | 09.04 | — | | Kanab → Zion → Page |
+| Day 9 | 10.04 | — | | Page → Bryce Canyon → St. George → LAS |
+| Return | 10.04 ~21:35 | — | — | Turo Lot LAS |
+
+> ⛽ **Заправка #1:** Circle K, 220 S Union Ave, Bakersfield CA 93307 · 02.04 22:03 · 10.555 gal × $5.399 = **$56.99** · VISA ****0360
 
 ### Забір та повернення авто (Harry Reid International Airport)
 
