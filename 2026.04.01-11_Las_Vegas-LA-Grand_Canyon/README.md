@@ -148,7 +148,7 @@
 - 14:00  🔴 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~15 хв, кольорові кам'яні тотеми в пустелі, прямо біля I-15) · 🕐 24/7
   > 🧠 Інсталяція швейцарського художника Уго Рондіноне (2016). Мала бути тимчасовою на 2 роки, але настільки полюбилась, що продовжують щоразу. Висота стовпів до 10 м.
 - 14:30 🍽️ Обід в Лас-Вегасі (~1 год)
-- 15:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ (ніч 1/1, check-in 15:00, залишити речі)
+- 15:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #28608843 (ніч 1/1, check-in 15:00, залишити речі)
 - 16:00 🚗 → Strip (~15 хв)
 - 16:15  🟢 📍 [Las Vegas Strip / Grand Prix Plaza](https://www.google.com/maps/search/Las+Vegas+Strip+Grand+Prix+Plaza) (~3 год, прогулянка) · 🕐 24/7
   > 🧠 Strip технічно не в місті Лас-Вегас — він на некорпорованій території округу Кларк.
@@ -300,8 +300,14 @@
 - [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca785)
 
 ### 4. Comfort Inn & Suites Henderson — Las Vegas (повторно)
-- **Дати:** 06.04 (Mon) — 07.04 (Tue) · 1 ніч
-- *(той самий готель що й Day 0–1)*
+- **Дати:** 06.04 (Mon) 15:00 — 07.04 (Tue) 12:00 · 1 ніч
+- **Confirmation #:** 28608843
+- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
+- **Оплата:** 🎁 Reward Night — 15,000 pts
+- **Адреса:** 475 Marks Street, Henderson, NV 89014
+- **Телефон:** +1 (702) 387-6500
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
+- [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
 
 ### 5. Quality Inn Williams — Grand Canyon
 - **Дати:** 07.04 (Tue) — 08.04 (Wed) · 1 ніч
