@@ -144,33 +144,50 @@
 > - Big Trees Trail — 30 хв достатньо (план мав 1 год)
 > - Foothills VC — можна пропустити
 
-### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · ⏰ 11:00–19:00 · 🌅 19:23
-- 11:00 🏨 [Comfort Inn & Suites Sequoia Kings Canyon](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (check-out 11:00)
-- 11:00 🚗 Three Rivers → Outlets at Tejon (~2 год)
-- 13:00  🟡 🛒️ [Outlets at Tejon](https://www.google.com/maps/search/Outlets+at+Tejon) (~1.5 год) · 🕐 10:00–21:00
-- 14:30 🚗 → Tejon Pass (~20 хв)
-- 14:50  🔴 📍 [Tejon Pass](https://www.google.com/maps/search/Tejon+Pass+California) (~10 хв, scenic viewpoint) · 🕐 24/7
-- 15:00 🚗 → Pyramid Lake (~15 хв)
-- 15:15  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
-- 15:45 🚗 → Vasquez Rocks (~55 хв)
-- 16:40  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
+### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · ⏰ 10:00–20:50 · 🌅 19:23
+- 10:00 🏨 [Comfort Inn & Suites Sequoia Kings Canyon](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (check-out 11:00, виїзд раніше)
+- 10:00 🚗 Three Rivers → Outlets at Tejon (~2 год)
+- 12:00  🟡 🛒️ [Outlets at Tejon](https://www.google.com/maps/search/Outlets+at+Tejon) (~1.5 год) · 🕐 10:00–20:00
+- 13:30 🚗 → Tejon Pass (~20 хв)
+- 13:50  🔴 📍 [Tejon Pass](https://www.google.com/maps/search/Tejon+Pass+California) (~10 хв, scenic viewpoint) · 🕐 24/7
+- 14:00 🚗 → Pyramid Lake (~15 хв)
+- 14:15  🔴 📍 [Pyramid Lake Recreation Area](https://www.google.com/maps/search/Pyramid+Lake+Recreation+Area+California) (~30 хв) · 🕐 6:00–20:00
+- 14:45 🚗 → Vasquez Rocks (~55 хв)
+- 15:40  🟡 📍 [Vasquez Rocks Natural Area](https://www.google.com/maps/search/Vasquez+Rocks+Natural+Area) (~45 хв) · 🕐 до заходу сонця
   > 🧠 Улюблена локація Голлівуду: тут знімали «Зоряний шлях» (планета Вулкан), «Флінтстоунів», «Мир Дикого Заходу». Скелі нахилені ~50° через розлом Сан-Андреас.
-- 17:25 🚗 → Lake Hollywood Park (~45 хв)
-- 18:10  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
+- 16:25 🚗 → Lake Hollywood Park (~45 хв)
+- 17:10  🟡 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~15 хв, фото Hollywood Sign зблизька) · 🕐 6:00–22:00
   > 🧠 **Hollywood Sign** — спочатку (1923) написано «HOLLYWOODLAND» як реклама житлового комплексу. Букви 15 м, 4 000 лампочок. «LAND» прибрали у 1949 р.
   > 🅿️ Безкоштовна вулична парковка на Canyon Lake Dr (~10 місць)
-  > 🌅 **Sunset option:** Hollywood Sign у золотому світлі — залишитись до ~19:10 (захід 19:23). Готель на ~45 хв пізніше. Позичити час: скоротити Vasquez Rocks або пропустити Pyramid Lake 🔴
-- 18:25 🚗 → Готель (~20 хв)
-- 18:45 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (ніч 1/2, check-in 15:00)
-- 19:15 🚗 → JONS Marketplace (~10 хв)
-- 19:25  🟡 🇺🇦 🛒 [JONS International Marketplace](https://www.google.com/maps/search/JONS+International+Marketplace+5315+Santa+Monica+Blvd+Los+Angeles) (~30 хв, український магазин — продукти/снеки на дорогу) · 🕐 7:00–22:00
+- 17:25 🚗 → Готель (~20 хв)
+- 17:45 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ Conf #26247802 (ніч 1/2, check-in 15:00)
+- 18:00 🚗 → Grandma's Deli Babushka (~5 хв)
+- 18:05  🟡 🇺🇦 [Grandma's Deli Babushka](https://www.google.com/maps/search/Grandma's+Deli+Babushka+7300+Sunset+Blvd+Los+Angeles) (~15 хв, укр/рус делікатеси — паска, сир, ковбаси, вареники) · ⭐ 4.1
+  > 📍 7300 Sunset Blvd #M, Hollywood · Прямо на Sunset Blvd, 5 хв від Walk of Fame
+  > ⚠️ Перевірити години роботи — орієнтовно до 19:00–20:00
+- 18:20 🚗 → Hollywood Blvd (~5 хв)
+- 18:25  🟢 📍 [Hollywood Walk of Fame / Elvis Presley's Star](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~45 хв) · 🕐 24/7
+  > 🧠 Понад 2 700 зірок. Перша — Джоан Вудворд (1960). Зірки НЕ безкоштовні: номінант платить ~$75 000 за церемонію.
+  - 🎬 [TCL Chinese Theatre](https://www.google.com/maps/search/TCL+Chinese+Theatre+Hollywood) — відбитки рук/ніг зірок
+    > 🧠 Традиція почалась випадково: актриса Норма Толмадж наступила у мокрий цемент у 1927 р.
+  - ⭐ [Michael Jackson star](https://www.google.com/maps/search/Michael+Jackson+star+Hollywood) — 6927 Hollywood Blvd
+  - ⭐ Інші збережені: Frank Sinatra, The Beatles, Queen, Chuck Norris, Tom Cruise, Morgan Freeman, Arnold Schwarzenegger, Jackie Chan, The Rock, Snoop Dogg
+- 19:10 🚗 → Beverly Hills (~15 хв)
+  > 🅿️ Ввечері безкоштовна вулична парковка скрізь
+- 19:25  🟡 📍 [Beverly Hills / Rodeo Drive](https://www.google.com/maps/search/Rodeo+Drive+Beverly+Hills) (~30 хв) · 🕐 вулиця 24/7
+  - 🎮 [270 N Rodeo Dr](https://www.google.com/maps/search/270+N+Rodeo+Dr+Beverly+Hills) — будівля з GTA V (Portola Dr / luxury shops)
+  - 📍 [Beverly Hills Sign](https://www.google.com/maps/search/Beverly+Hills+Sign+Beverly+Gardens+Park) — Beverly Gardens Park, фото біля знаку
+- 19:55 🚗 → JONS Marketplace (~15 хв)
+- 20:10  🟡 🇺🇦 🛒 [JONS International Marketplace](https://www.google.com/maps/search/JONS+International+Marketplace+5315+Santa+Monica+Blvd+Los+Angeles) (~30 хв, продукти/снеки на дорогу) · 🕐 7:00–22:00
   > 📍 5315 Santa Monica Blvd, Los Angeles · Міжнародний супермаркет з великим вибором продуктів, випічки та делікатесів · ⭐ 4.3
+- 20:40 🚗 → Готель (~10 хв)
+- ~20:50 🏨 Готель
 
 ### Day 4 — Неділя, 05.04 · Los Angeles · ⏰ 09:00–20:00 · 🌅 19:24
 
 > 🅿️ **Паркування в LA:**
 > - **Griffith Observatory** — безкоштовний паркінг, але в неділю заповнюється до 10:00. Альтернатива: [парковка на Fern Dell Dr](https://www.google.com/maps/search/Fern+Dell+Dr+parking+Griffith+Park) (безкоштовно) + 20 хв пішки вгору, або [Greek Theatre lot](https://www.google.com/maps/search/Greek+Theatre+parking+Los+Angeles) + DASH shuttle (безкоштовний)
-> - **Hollywood Walk of Fame** — безкоштовно на бічних вулицях на північ від Franklin Ave (~10 хв пішки). [Парковка біля Franklin & Highland](https://www.google.com/maps/search/Franklin+Ave+Highland+Ave+Los+Angeles+parking). Платні структури на Hollywood Blvd — $5–15
+> - **Santa Monica Pier** — структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
 - 09:00 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~1.5 год, літургія)
 - 10:30 🚗 → Griffith Observatory (~20 хв)
   > ⚠️ **Griffith Observatory відкривається о 12:00 в неділю!** Спочатку хайк, потім обсерваторія
@@ -178,28 +195,15 @@
 - 12:20  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~1 год) · 🕐 Нд 12:00–22:00
   > 🧠 Подарував місту Ґріффіт Дж. Ґріффіт — побудував обсерваторію, щоб кожна людина могла безкоштовно подивитись у телескоп. І досі вхід безкоштовний!
 - 13:20 🍽️ Обід (~1 год)
-- 14:20 🚗 → Hollywood Blvd (~15 хв)
-- 14:35  🟢 📍 [Hollywood Walk of Fame / Elvis Presley's Star](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~1 год) · 🕐 24/7
-  > 🧠 Понад 2 700 зірок. Перша — Джоан Вудворд (1960). Зірки НЕ безкоштовні: номінант платить ~$75 000 за церемонію.
-  - 🎬 [TCL Chinese Theatre](https://www.google.com/maps/search/TCL+Chinese+Theatre+Hollywood) — відбитки рук/ніг зірок
-    > 🧠 Традиція почалась випадково: актриса Норма Толмадж наступила у мокрий цемент у 1927 р.
-  - ⭐ [Michael Jackson star](https://www.google.com/maps/search/Michael+Jackson+star+Hollywood) — 6927 Hollywood Blvd
-  - ⭐ Інші збережені: Frank Sinatra, The Beatles, Queen, Chuck Norris, Tom Cruise, Morgan Freeman, Arnold Schwarzenegger, Jackie Chan, The Rock, Snoop Dogg
-- 15:35 🚗 → Beverly Hills (~15 хв)
-  > 🅿️ Безкоштовно 2 год у структурі [Beverly Dr Parking](https://www.google.com/maps/search/Beverly+Dr+parking+structure+Beverly+Hills) (на Beverly Dr між Brighton Way та Dayton Way) або [S Santa Monica Blvd Parking](https://www.google.com/maps/search/S+Santa+Monica+Blvd+parking+Beverly+Hills)
-- 15:50  🟡 📍 [Beverly Hills / Rodeo Drive](https://www.google.com/maps/search/Rodeo+Drive+Beverly+Hills) (~30 хв) · 🕐 вулиця 24/7, магазини ~10:00–18:00
-  - 🎮 [270 N Rodeo Dr](https://www.google.com/maps/search/270+N+Rodeo+Dr+Beverly+Hills) — будівля з GTA V (Portola Dr / luxury shops)
-  - 📍 [Beverly Hills Sign](https://www.google.com/maps/search/Beverly+Hills+Sign+Beverly+Gardens+Park) — Beverly Gardens Park, фото біля знаку
-- 16:20 🚗 → Santa Monica (~20 хв)
+- 14:20 🚗 → Santa Monica (~30 хв)
   > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
-- 16:40  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~1 год) · 🕐 24/7 (атракціони ~11:00–21:00)
-  - 🇺🇦 [Ukraina Deli](https://www.google.com/maps/search/Ukraina+Deli+1207+Wilshire+Blvd+Santa+Monica) — 1207 Wilshire Blvd (~10 хв від пірса, український делікатес) · 🕐 10:00–? · ⭐ 3.7
-  - 🎡 Pacific Park — оглядове колесо, американські гірки
+- 14:50  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~4 год, до заходу сонця) · 🕐 24/7 (атракціони ~11:00–21:00)
+  -  Pacific Park — оглядове колесо, американські гірки
     > 🧠 Єдиний парк атракціонів на Західному узбережжі прямо на океанському пірсі. Оглядове колесо живиться від сонячних панелей.
   - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
-  > 🌅 **Sunset option:** захід сонця над Тихим океаном (19:24) — одне з найкращих місць у LA! Залишитись до ~19:15, готель ~20:00. Позичити час: скоротити Beverly Hills (30 хв → 15 хв) або Walk of Fame (1 год → 40 хв)
-- 17:40 🚗 → Готель (~40 хв)
-- 18:20 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ (ніч 2/2)
+  > 🌅 **Sunset:** захід сонця над Тихим океаном (19:24) — одне з найкращих місць у LA! Тепер є час спокійно дочекатись 🧡
+- ~19:30 🚗 → Готель (~40 хв)
+- ~20:10 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ (ніч 2/2)
 
 ### Day 5 — Понеділок, 06.04 · LA → Las Vegas · ⏰ 10:00–21:00 · 🌅 19:11
 
