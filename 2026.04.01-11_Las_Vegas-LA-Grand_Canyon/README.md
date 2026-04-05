@@ -1,6 +1,6 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-> 📝 **Оновлено:** 04.04.2026 22:00 PT (local time)
+> 📝 **Оновлено:** 05.04.2026 PT (local time)
 
 [Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing) · [Фото альбом](https://photos.app.goo.gl/UxjW9VrcSRuBVbuH9)
 
@@ -42,16 +42,16 @@
 - 11:35 🍽️ Обід (~1 год)
 - 12:35 🚗 → Santa Monica (~30 хв)
   > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
-- 13:05  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~4 год) · 🕐 24/7 (атракціони ~11:00–21:00)
+- 13:05  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~3 год) · 🕐 24/7 (атракціони ~11:00–21:00)
   -  Pacific Park — оглядове колесо, американські гірки
     > 🧠 Єдиний парк атракціонів на Західному узбережжі прямо на океанському пірсі. Оглядове колесо живиться від сонячних панелей.
   - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
-- 17:05 🚗 → Griffith Observatory (~40 хв)
+- 16:05 🚗 → Griffith Observatory (~40 хв)
   > 🅿️ Безкоштовний паркінг. Альтернатива: [Fern Dell Dr](https://www.google.com/maps/search/Fern+Dell+Dr+parking+Griffith+Park) (безкоштовно) + 20 хв пішки вгору
-- 17:45  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~45 хв, огляд виставок) · 🕐 **Нд 10:00–22:00**
+- 16:45  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~45 хв, огляд виставок) · 🕐 **Нд 10:00–22:00**
   > 🧠 Подарував місту Ґріффіт Дж. Ґріффіт — побудував обсерваторію, щоб кожна людина могла безкоштовно подивитись у телескоп. І досі вхід безкоштовний!
-- 18:30  🟢 🪴 [**Mt Hollywood Trail — Sunset Hike 🌅**](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~1.5 год, ~5 км туди-назад)
-  > 🌅 **SUNSET TRAIL!** Старт від обсерваторії. Найвища доступна точка Griffith Park (509 м). Панорамний 360° вид: Pacific Ocean, downtown LA, Hollywood Sign. Золота година ~18:55, захід сонця **19:24**. На вершині відкритий луг — ідеальне місце для заходу!
+- 17:30  🟢 🪴 [**Mt Hollywood Trail — Sunset Hike 🌅**](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~2 год, ~5 км туди-назад)
+  > 🌅 **SUNSET TRAIL!** Старт від обсерваторії → вершина ~18:15. Найвища доступна точка Griffith Park (509 м). Панорамний 360° вид: Pacific Ocean, downtown LA, Hollywood Sign. Золота година ~18:55, захід сонця **19:24**. ~1 год на вершині до заходу — ідеальне місце!
   > 💡 Підйом ~45 хв, пологий і зручний трейл. Взяти воду і куртку (на вершині вітряно після заходу). Ліхтарик/телефон на спуск після заходу
 - ~19:30 🏔️ Спуск назад до обсерваторії (~30 хв)
 - ~20:00  🟡 📍 [Griffith Observatory — нічний огляд](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~30 хв) · 🕐 до 22:00
@@ -196,14 +196,14 @@
 
 ## 📋 Пройдені дні (архів)
 
-### Day 0 — Середа, 01.04 · Приліт · 🚗 ~15 mi
+### Day 0 — Середа, 01.04 · Приліт · 🚗 ~15 mi · Одометр: 083,927 mi
 - ~21:21 ✈️ Приліт LAS
 - ~21:50 🚌 Rental Car shuttle → Turo Lot (~30 хв)
 - ~22:15 🚗 Отримання авто, огляд, фото
   > 📋 **Pick-up стан:** 083,927 mi · Oil Life 40% · 70°F · Honda CR-V
 - ~22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 
-### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi
+### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km)
 > 🧠 Назву «Долина Смерті» дали золотошукачі 1849 р., які ледве вибрались з неї живими. Один сказав: *«Goodbye, Death Valley»* — і назва прилипла. Тут зафіксовано абсолютний рекорд температури на Землі — **56.7 °C** (134 °F, 1913). А ще тут одне з **найтемніших небес у США** (Gold Tier Dark Sky Park) — неозброєним оком видно Чумацький Шлях.
 - 07:11 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (checkout)
 - ~10:04 🛒 Зупинка NW Las Vegas (магазин)
@@ -222,7 +222,6 @@
 - ~23:00 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (ніч 1/2)
 
 > ⏱ **Порядок:** Artist's → Dante's → Zabriskie → Badwater → Store → Dunes
-> 📏 **Пробіг:** ~545 mi (877 km)
 >
 > 💡 **Рекомендації:**
 > - Henderson → DV з зупинкою зайняв ~5.5 год. Реалістично: 3–3.5 год
@@ -230,7 +229,7 @@
 > - На Death Valley закладати мінімум 5 год на зупинки
 > - Dante's View варто 45+ хв, Zabriskie Point — 15 хв достатньо
 
-### Day 2 — П'ятниця, 03.04 · Sequoia National Park · 🚗 ~50 mi
+### Day 2 — П'ятниця, 03.04 · Sequoia National Park · 🚗 ~50 mi (80 km) · Одометр: 084,487 mi
 - ~10:15 🚗 Виїзд з готелю
 - ~10:30–10:58 📍 [Sequoia NP — Ash Mountain Entrance](https://www.google.com/maps/search/Sequoia+National+Park+Ash+Mountain+Entrance) (~28 хв)
 - 11:07 🚗 Generals Highway (серпантин, ~40 хв)
@@ -245,15 +244,13 @@
 - 17:54 🚗 Серпантин вниз
 - ~19:27 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (ніч 2/2)
 
-> ➕ **Додано:** Congress Trail
-> 📏 **Пробіг:** ~50 mi (80 km). Одометр: 084,487 mi
 >
 > 💡 **Рекомендації:**
 > - Серпантин Готель → Sherman: закладати **1.5 год**
 > - General Sherman + Congress Trail — варто об'єднати (1.5 год загалом)
 > - Big Trees Trail — 30 хв достатньо
 
-### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi
+### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · Одометр: 084,741 mi
 - ~09:56 🚗 Виїзд з Three Rivers
 - ~12:48 🚗 Дорога (Castaic area)
 - 14:02–14:22 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~20 хв, фото Hollywood Sign)
@@ -270,7 +267,6 @@
 
 > ➡️ **Перенесено на Day 4:** Griffith Observatory, Mt Hollywood Trail
 > ➕ **Додано з Day 4:** Lake Hollywood Park
-> 📏 **Пробіг:** ~254 mi (409 km). Одометр: 084,741 mi
 >
 > 💡 **Рекомендації:**
 > - Three Rivers → LA: ~4 год (план мав 3.5 год)
