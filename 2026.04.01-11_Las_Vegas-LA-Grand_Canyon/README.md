@@ -253,7 +253,7 @@
 > - Walk of Fame потребує 2+ год
 > - Lake Hollywood Park — 20 хв достатньо
 
-### Day 4 — Неділя, 05.04 · Los Angeles · 🌅 19:24
+### Day 4 — Неділя, 05.04 · Los Angeles · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
 - 09:05 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
 - 09:46–11:50 ⛪ [Великодня Літургія 🐣](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~2 год) · о. Ігор
 - 12:30 🏨 Повернення в готель
