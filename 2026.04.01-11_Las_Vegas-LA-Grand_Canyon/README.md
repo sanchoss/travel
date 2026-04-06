@@ -1,8 +1,8 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-> 📝 **Оновлено:** 05.04.2026 PT (local time)
+> 📝 **Оновлено:** 05.04.2026 23:31 PDT · Los Angeles, CA
 
-[Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing) · [Фото альбом](https://photos.app.goo.gl/UxjW9VrcSRuBVbuH9)
+[Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
 
 **01.04.2026 — 11.04.2026** (11 днів / 10 ночей)
 
@@ -30,34 +30,6 @@
 > ⏰ **Часові пояси:** Nevada та California — PDT (UTC-7 у квітні). Arizona — MST (UTC-7 завжди, без переведення годинників). Тобто час однаковий, але в AZ сонце сідає раніше (~18:55 vs ~19:15+ в CA/NV).
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
-
-### Day 4 — Неділя, 05.04 · Los Angeles · ⏰ 09:00–21:00 · 🌅 19:24
-- 09:00 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~1.5 год, **Великодня Літургія** 🐣)
-  > 📍 5765 W 8th St, Los Angeles, CA 90036 · о. Ігор, о. Роман
-- 10:30 🚗 → Beverly Hills (~20 хв)
-  > 🅿️ Безкоштовна вулична парковка в неділю
-- 10:50  🟡 📍 [Beverly Hills / Rodeo Drive](https://www.google.com/maps/search/Rodeo+Drive+Beverly+Hills) (~45 хв) · 🕐 вулиця 24/7
-  - 🎮 [270 N Rodeo Dr](https://www.google.com/maps/search/270+N+Rodeo+Dr+Beverly+Hills) — будівля з GTA V (Portola Dr / luxury shops)
-  - 📍 [Beverly Hills Sign](https://www.google.com/maps/search/Beverly+Hills+Sign+Beverly+Gardens+Park) — Beverly Gardens Park, фото біля знаку
-- 11:35 🍽️ Обід (~1 год)
-- 12:35 🚗 → Santa Monica (~30 хв)
-  > 🅿️ Структура [1550 PCH](https://www.google.com/maps/search/1550+Pacific+Coast+Highway+parking+Santa+Monica) — $5–15/день. Безкоштовно на бічних вулицях з обмеженням 2 год
-- 13:05  🟡 📍 [Santa Monica Pier](https://www.google.com/maps/search/Santa+Monica+Pier) (~3 год) · 🕐 24/7 (атракціони ~11:00–21:00)
-  -  Pacific Park — оглядове колесо, американські гірки
-    > 🧠 Єдиний парк атракціонів на Західному узбережжі прямо на океанському пірсі. Оглядове колесо живиться від сонячних панелей.
-  - 🏖️ Santa Monica Beach / пішки до Venice Beach (~15 хв)
-- 16:05 🚗 → Griffith Observatory (~40 хв)
-  > 🅿️ Безкоштовний паркінг. Альтернатива: [Fern Dell Dr](https://www.google.com/maps/search/Fern+Dell+Dr+parking+Griffith+Park) (безкоштовно) + 20 хв пішки вгору
-- 16:45  🟢 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~45 хв, огляд виставок) · 🕐 **Нд 10:00–22:00**
-  > 🧠 Подарував місту Ґріффіт Дж. Ґріффіт — побудував обсерваторію, щоб кожна людина могла безкоштовно подивитись у телескоп. І досі вхід безкоштовний!
-- 17:30  🟢 🪴 [**Mt Hollywood Trail — Sunset Hike 🌅**](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~2 год, ~5 км туди-назад)
-  > 🌅 **SUNSET TRAIL!** Старт від обсерваторії → вершина ~18:15. Найвища доступна точка Griffith Park (509 м). Панорамний 360° вид: Pacific Ocean, downtown LA, Hollywood Sign. Золота година ~18:55, захід сонця **19:24**. ~1 год на вершині до заходу — ідеальне місце!
-  > 💡 Підйом ~45 хв, пологий і зручний трейл. Взяти воду і куртку (на вершині вітряно після заходу). Ліхтарик/телефон на спуск після заходу
-- ~19:30 🏔️ Спуск назад до обсерваторії (~30 хв)
-- ~20:00  🟡 📍 [Griffith Observatory — нічний огляд](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~30 хв) · 🕐 до 22:00
-  > 🌃 Нічний вид на мільйони вогнів LA! Безкоштовний телескоп Zeiss (якщо ясна ніч). Зовсім інша атмосфера ніж вдень
-- ~20:30 🚗 → Готель (~15 хв)
-- ~20:45 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · ✅ (ніч 2/2)
 
 ### Day 5 — Понеділок, 06.04 · LA → Las Vegas · ⏰ 10:00–21:00 · 🌅 19:11
 
@@ -96,6 +68,7 @@
   > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
 - 16:15 🚗 → Williams (~45 хв)
 - 17:00  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
+  > 🧠 Останнє місто на Route 66, яке обійшли автострадою I-40 (1984). Мешканці судились роками — але програли. Тепер живуть з ностальгійного туризму.
 - 17:30 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
 
 ### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
@@ -114,13 +87,16 @@
 - 11:20  🥾 Пішки Visitor Center → Yavapai Viewpoint Rd (~10 хв, ~0.7 км) → забрати авто
   > 📊 **Загалом хайк:** ~2.5 км пішки (Yavapai → Mather → VC, пласка Rim Trail). Shuttle до/від Yaki Point
 - 11:30  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~1 год з shuttle, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
+  > 🧠 Одне з небагатьох місць South Rim, де **видно ріку Колорадо** на дні. Панорама ~160 км каньйону.
   > 🚌 Hermit Road shuttle (Red Route) від Village Route Transfer до Hopi Point (~15 хв в один бік). Квітень — shuttle only, авто заборонені. Закласти ~1 год (очікування + їзда туди-назад + огляд)
 - 12:30 🍽️ Обід (~1 год)
 - 13:30 🚗 Grand Canyon → Kanab (~3.5 год через Desert View Drive → 89N → 89A)
   > 🟡 Дорога через [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive з зупинками (Grandview Point, Desert View Watchtower). Якщо часу мало — їхати напряму через South Entrance → I-40 → Flagstaff → 89N (~3.5 год)
   > 🔀 **Якщо їдете через Sedona** (+2.5 год): GC → Flagstaff → Sedona (~2 год) → Sedona ~1.5 год → Sedona → Kanab (~3 год через Flagstaff → 89N → 89A). Прибуття в Kanab ~20:00
   -  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
+    > 🧠 Червоний колір — оксид заліза (іржа у камені). Неонові знаки **заборонені законом**. Навіть McDonald's тут має бірюзові арки замість жовтих — єдиний у світі!
   -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
+    > 🧠 Спроєктована ученицею Ф. Л. Райта. Вбудована прямо у 75-метрову червону скелю. Побудована за 18 місяців (1956).
 - 17:00 🏨 [**Comfort Suites Kanab National Park Area**](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · ✅ Conf #28615939 (ніч 1/1, check-in 15:00)
 
 ### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 09:00–21:15 · 🌅 18:55
@@ -130,6 +106,7 @@
 - 09:40  🟢 📍 [Zion NP — East Entrance](https://www.google.com/maps/search/Zion+National+Park+East+Entrance) · 🕐 парк 24/7
   > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
 - 09:55  🟢 🥾 [Canyon Overlook Trail](https://www.google.com/maps/search/Canyon+Overlook+Trail+Zion) (~1 год, ~1.6 км туди-назад, вид на Pine Creek Canyon) · 🕐 24/7
+  > 🧠 З оглядового видно Great Arch of Zion — одну з найбільших вільностоячих арок у світі (висота ~85 м).
   > 🅿️ Невелика парковка біля тунелю (East side) — приїхати рано!
 - 10:55 🚗 Проїзд через Zion-Mt Carmel Tunnel → Zion Canyon
   > 🧠 **Zion-Mt Carmel Tunnel** (1930) — 1.8 км, прорубаний вручну у скелі. Великі авто їдуть посередині, зустрічний рух зупиняють. Червоні та білі скелі Zion — це древній пісок Сахари: 150–200 млн років тому тут була гігантська пустеля, пісок спресувався у пісковик Navajo.
@@ -140,6 +117,7 @@
   - 🟢 📍 **Temple of Sinawava** → 🥾 [Riverside Walk / The Narrows](https://www.google.com/maps/search/The+Narrows+Zion) (~1.5–2 год, рівна стежка вздовж Virgin River)
     > 🧠 **The Narrows** — стіни сягають **300 м**, а відстань між ними — лише кілька метрів. Ви йдете прямо по руслу ріки.
   - 🟡 📍 **Weeping Rock** → 🥾 [Weeping Rock Trail](https://www.google.com/maps/search/Weeping+Rock+Zion) (~30 хв)
+    > 🧠 Вода, що крапає зі скелі, впала дощем **~1 200 років тому** — стільки часу їй потрібно, щоб просочитись крізь пісковик Navajo.
   - 🟡 📍 **Zion Lodge** → 🥾 [Emerald Pools Trail](https://www.google.com/maps/search/Emerald+Pools+Zion) (Lower ~1 год, Upper ~2.5 год)
 - 13:30 🍽️ Обід (Zion Lodge / Springdale) (~1 год)
 - 14:30 🚌 Продовження shuttle маршруту / додаткові trails (~3 год)
@@ -173,6 +151,7 @@
   > 🧠 Ріка Колорадо робить поворот на **270°**. Падіння з обриву до води — **300 м**. До 2018 р. тут не було ні огорожі, ні паркінгу — тільки ґрунтова стежка.
 - 12:05 🚗 → Glen Canyon Dam (~10 хв)
 - 12:15  🟡 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~20 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
+  > 🧠 Озеро Пауелл за нею заповнювалось **17 років**. Його берегова лінія (3 136 км) — довша за все тихоокеанське узбережжя США.
   - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
 - 12:35 🍽️ Обід в Page (~30 хв)
 - 13:05 🚗 Page → Bryce Canyon (~2.5 год через US-89N → UT-12E)
@@ -182,6 +161,7 @@
   - 🟢 📍 [Bryce Point](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) — панорама всього амфітеатру
   - 🟡 📍 [Inspiration Point](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) — вид на Silent City
   > 🥾 Опціонально: [Navajo Loop Trail](https://www.google.com/maps/search/Navajo+Loop+Trail+Bryce+Canyon) від Sunset Point (~1 год, 1.4 км, спуск між худу) — якщо є час і сили
+  > 🧠 Секція «Wall Street» — щілина шириною кілька метрів, де ростуть дугласові ялини, які майже ніколи не бачать прямого сонця.
   > 🌅 **Sunset option:** Sunset Point названий так не випадково — захід сонця (18:57) фарбує худу в червоно-помаранчевий! Залишитись до ~18:45, виїзд 18:50, прибуття LV ~23:10 замість 21:35 (+1.5 год). Дедлайн повернення авто 01:00 — часу вистачає. Позичити час: пропустити Walmart St. George (+30 хв)
 - 17:05 🚗 Bryce Canyon → St. George (~2 год 15 хв через UT-12W → US-89S → I-15S)
 - 19:20 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
@@ -196,14 +176,14 @@
 
 ## 📋 Пройдені дні (архів)
 
-### Day 0 — Середа, 01.04 · Приліт · 🚗 ~15 mi · Одометр: 083,927 mi
+### Day 0 — Середа, 01.04 · Приліт · 🚗 ~15 mi · Одометр: 083,927 mi · [📸 Фото](https://photos.app.goo.gl/z8QeNPZafdPsRj6j8)
 - ~21:21 ✈️ Приліт LAS
 - ~21:50 🚌 Rental Car shuttle → Turo Lot (~30 хв)
 - ~22:15 🚗 Отримання авто, огляд, фото
   > 📋 **Pick-up стан:** 083,927 mi · Oil Life 40% · 70°F · Honda CR-V
 - ~22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 
-### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km)
+### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km) · [📸 Фото](https://photos.app.goo.gl/xoTnMnHoADVK45JRA)
 > 🧠 Назву «Долина Смерті» дали золотошукачі 1849 р., які ледве вибрались з неї живими. Один сказав: *«Goodbye, Death Valley»* — і назва прилипла. Тут зафіксовано абсолютний рекорд температури на Землі — **56.7 °C** (134 °F, 1913). А ще тут одне з **найтемніших небес у США** (Gold Tier Dark Sky Park) — неозброєним оком видно Чумацький Шлях.
 - 07:11 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (checkout)
 - ~10:04 🛒 Зупинка NW Las Vegas (магазин)
@@ -250,14 +230,14 @@
 > - General Sherman + Congress Trail — варто об'єднати (1.5 год загалом)
 > - Big Trees Trail — 30 хв достатньо
 
-### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · Одометр: 084,741 mi
+### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · Одометр: 084,741 mi · [📸 Фото](https://photos.app.goo.gl/Tk5Gbwmwrnkqtmih6)
 - ~09:56 🚗 Виїзд з Three Rivers
 - ~12:48 🚗 Дорога (Castaic area)
 - 14:02–14:22 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~20 хв, фото Hollywood Sign)
   > 🧠 **Hollywood Sign** — спочатку (1923) написано «HOLLYWOODLAND» як реклама житлового комплексу. Букви 15 м, 4 000 лампочок. «LAND» прибрали у 1949 р.
 - 14:55–15:24 🛒 [JONS International Marketplace](https://www.google.com/maps/search/JONS+International+Marketplace+5315+Santa+Monica+Blvd+Los+Angeles) (~29 хв, $48.16)
   > 📍 5315 Santa Monica Blvd, Los Angeles
-- 15:59–16:03 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) — **Плащаниця** (перед Великоднем). Говорили з о. Ігорем. По телефону з о. Романом
+- 15:59–16:03 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) — **Плащаниця** (перед Великоднем). Говорили з о. Ігорем
   > 📍 5765 W 8th St, Los Angeles, CA 90036
 - 17:45–19:36 📍 [Hollywood Walk of Fame](https://www.google.com/maps/search/Elvis+Presley+Star+Hollywood+Walk+of+Fame) (~111 хв)
   > 🧠 Понад 2 700 зірок. Зірки НЕ безкоштовні: номінант платить ~$75 000 за церемонію.
@@ -272,6 +252,35 @@
 > - Three Rivers → LA: ~4 год (план мав 3.5 год)
 > - Walk of Fame потребує 2+ год
 > - Lake Hollywood Park — 20 хв достатньо
+
+### Day 4 — Неділя, 05.04 · Los Angeles · 🌅 19:24
+- 09:05 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
+- 09:46–11:50 ⛪ [Великодня Літургія 🐣](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~2 год) · о. Ігор
+- 12:30 🏨 Повернення в готель
+- 14:07–15:04 📍 [Beverly Hills / Rodeo Drive](https://www.google.com/maps/search/Rodeo+Drive+Beverly+Hills) (~57 хв)
+  > 🧠 До 1920-х тут росли боби на ґрунтовій дорозі. Зараз оренда ~$1 000/кв.фут/рік. McDonald's у Beverly Hills — єдиний у світі без жовтих арок (бірюзові, бо місто заборонило).
+- 15:46–16:55 📍 [Santa Monica Pier + Beach](https://www.google.com/maps/search/Santa+Monica+Pier) (~69 хв)
+  > 🧠 Єдиний парк атракціонів на Західному узбережжі прямо на океанському пірсі. Оглядове колесо живиться від сонячних панелей.
+- 17:49 🚗 → Griffith Observatory (~50 хв від Santa Monica)
+- 18:08–18:28 📍 [Griffith Observatory](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~20 хв)
+  > 🧠 Подарував місту Ґріффіт Дж. Ґріффіт — побудував обсерваторію, щоб кожна людина могла безкоштовно подивитись у телескоп. І досі вхід безкоштовний!
+- 18:37–19:49 🪴 [**Mt Hollywood Trail — Sunset Hike 🌅**](https://www.google.com/maps/search/Mt+Hollywood+Trail) (~72 хв)
+  > 🧠 Griffith Park (1 700 га) — один з найбільших міських парків у США з дикою природою. Знаменита пума P-22 прожила тут 10 років серед 4-мільйонного мегаполіса.
+  - 18:37–18:53 🥾 Підйом (~16 хв)
+  - 18:55–19:49 🏔️ Вершина Mt Hollywood (509 м) · 🌅 Захід сонця **19:24** · (~54 хв на вершині)
+- 20:06–20:11 📍 [Griffith Observatory — нічний огляд](https://www.google.com/maps/search/Griffith+Observatory+Los+Angeles) (~5 хв)
+  > 🧠 Через телескоп Zeiss подивилось **7+ млн людей** — абсолютний рекорд серед усіх телескопів Землі.
+- ~20:30 🏨 [**Comfort Inn Los Angeles near Hollywood**](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (ніч 2/2)
+
+> ⏱ **Порядок:** Церква → Готель → Beverly Hills → Santa Monica → Griffith → Mt Hollywood → Night Griffith
+>
+> 💡 **Рекомендації:**
+> - Великодня Літургія зайняла 2 год — зсунуло весь розклад на ~2.5 год
+> - Beverly Hills — 1 год достатньо (магазини зачинені в неділю)
+> - Santa Monica → Griffith: ~50 хв (план мав 40 хв)
+> - Mt Hollywood: підйом лише 16 хв (план мав 45 хв) — легкий трейл!
+> - На вершині 54 хв — ідеально для заходу сонця
+> - Griffith Observatory вночі — 5 хв достатньо для фото, виставки вже бачили
 
 
 ---
