@@ -1,6 +1,6 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-> 📝 **Оновлено:** 05.04.2026 23:31 PDT · Los Angeles, CA
+> 📝 **Оновлено:** 06.04.2026 · Las Vegas, NV
 
 [Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
 
@@ -31,45 +31,29 @@
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
 
-### Day 5 — Понеділок, 06.04 · LA → Las Vegas · ⏰ 10:00–21:00 · 🌅 19:11
-
-> 🅿️ **Паркування на Strip:** безкоштовно на вулицях Henderson ввечері. Для Strip — [Treasure Island](https://www.google.com/maps/search/Treasure+Island+Las+Vegas+parking) має безкоштовний self-parking. Інші казино: безкоштовно перші 1–3 год
-- 10:00 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (check-out 12:00)
-- 10:00 🚗 Лос-Анджелес → Лас-Вегас (~4.5 год)
-- 14:00  🔴 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~15 хв, кольорові кам'яні тотеми в пустелі, прямо біля I-15) · 🕐 24/7
-  > 🧠 Інсталяція швейцарського художника Уго Рондіноне (2016). Мала бути тимчасовою на 2 роки, але настільки полюбилась, що продовжують щоразу. Висота стовпів до 10 м.
-- 14:30 🍽️ Обід в Лас-Вегасі (~1 год)
-- 15:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #28608843 (ніч 1/1, check-in 15:00, залишити речі)
-- 16:00 🚗 → Strip (~15 хв)
-- 16:15  🟢 📍 [Las Vegas Strip / Grand Prix Plaza](https://www.google.com/maps/search/Las+Vegas+Strip+Grand+Prix+Plaza) (~3 год, прогулянка) · 🕐 24/7
-  > 🧠 Strip технічно не в місті Лас-Вегас — він на некорпорованій території округу Кларк.
-- 19:15 🚗 → Sphere Parking Lot B (~10 хв)
-- 19:30 📍 [Sphere](https://www.google.com/maps/search/Sphere+Las+Vegas) — прибуття / вхід
-  > 🧠 Найбільша сферична споруда у світі: 112 м × 157 м. Зовнішня LED-поверхня **54 000 м²** — найбільший екран на планеті. Всередині 16K × 16K (у 100 разів чіткіше за HD).
-  > 🎫 Order #60-18902/NEV · Sec 405, Row 10, Seats 21–24 · Upper Gallery · Mobile tickets · 🅿️ Parking Lot B включено
-  > ⚠️ **Двері відкриваються о 19:15** (за 45 хв до шоу). Запізнення — не впускають! Імерсивний досвід: гаптика крісел, спецефекти, туман, вітер, запахи, гучні звуки, спалахи світла. Квитки non-refundable.
-- 20:00 🎬 **"The Wizard of Oz" at Sphere** (~1.5 год)
-- ~21:30 🚗 → Henderson (~20 хв)
-- ~21:50 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
-
 ### Day 6 — Вівторок, 07.04 · Route 66 → Williams · ⏰ 08:30–17:30 · 🌅 18:53
 - 08:30 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
-- 08:30 🚗 Henderson → Hoover Dam (~30 хв)
-- 09:00  🟢 📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~1.5 год) · 🕐 9:00–15:45 · 🅿️ $10 гараж
+- 08:30 🚗 Henderson → Grand Prix Plaza (~15 хв)
+- ~09:00 🟡 📍 [Grand Prix Plaza / Las Vegas Strip Circuit](https://www.google.com/maps/search/Grand+Prix+Plaza+Las+Vegas+F1) (~45 хв) · 🕐 10:00–22:00 (Tue)
+  > 🧠 **Las Vegas Strip Circuit** — вуличний трек Ф1 довжиною **6.2 км**, 17 поворотів, 50 кіл на гонку. F1 купила ділянку під піт-лейн за **$240 млн** — це постійна споруда з падоком. Траса огинає Sphere, а потім **1.9 км повний газ** по Las Vegas Blvd повз Venetian, Flamingo, Bellagio та Caesars Palace. Макс. швидкість — **358 км/год** (Цунода, 2025). Рекорд кола — Ферстаппен **1:33.365** (2025). Перша гонка — 18.11.2023, нічна.
+  > 🏎️ **Grand Prix Plaza** (відкрита з травня 2025) — 39 акрів, 3 атракціони: **F1® X** ($79, інтерактивна 4D-виставка з легендарними болідами та артефактами, дизайн власного боліда), **F1® DRIVE** ($37, картинг на частині справжнього треку з DRS та LED-кермом), **F1® HUB** (безкоштовно — F1 Store, симулятори $26.50, ресторан Fuel & Fork). Магазин спроєктований як гараж F1.
+  > ⚠️ Атракціони відкриваються о 10:00. До відкриття можна оглянути зовні Pit Building та трек. F1 Store та Fuel & Fork — без квитка.
+- ~09:45 🚗 → Hoover Dam (~30 хв)
+- 10:15  🟢 📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~1.5 год) · 🕐 9:00–15:45 · 🅿️ $10 гараж
   > 🧠 Побудована за 5 років (1931–1936) під час Великої депресії. У бетоні **вбудовані холодильні труби** — без них він охолоджувався б 125 років. Бетону вистачило б на автомагістраль від Сан-Франциско до Нью-Йорка (~4 800 км). На дамбі є годинник із двома часовими поясами — Nevada та Arizona по різних боках.
   > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
   > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
-- 10:30 🚗 → Oatman (~2 год)
-- 12:30  🟡 📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
+- 11:45 🚗 → Oatman (~2 год)
+- 13:45  🟡 📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
   > 🧠 Місто-привид з дикими віслюками на вулицях — нащадки тих, яких залишили золотодобувачі на початку 1900-х. Можна годувати морквою ($1 пакетик у крамничках).
-- 13:15 🍽️ Обід в Oatman (~30 хв)
-- 13:45 🚗 → Seligman (~2 год)
-- 15:45  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
+- 14:30 🍽️ Обід в Oatman (~30 хв)
+- 15:00 🚗 → Seligman (~2 год)
+- 17:00  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
   > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
-- 16:15 🚗 → Williams (~45 хв)
-- 17:00  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
+- 17:30 🚗 → Williams (~45 хв)
+- 18:15  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
   > 🧠 Останнє місто на Route 66, яке обійшли автострадою I-40 (1984). Мешканці судились роками — але програли. Тепер живуть з ностальгійного туризму.
-- 17:30 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
+- 18:45 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
 
 ### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
 - 08:00 🏨 [Comfort Inn Near Grand Canyon](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) (check-out 11:00)
@@ -253,7 +237,7 @@
 > - Walk of Fame потребує 2+ год
 > - Lake Hollywood Park — 20 хв достатньо
 
-### Day 4 — Неділя, 05.04 · Los Angeles · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
+### Day 4 — Неділя, 05.04 · Los Angeles · 🚗 ~76 mi (122 km) · Одометр: 084,817 mi · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
 - 09:05 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
 - 09:46–11:50 ⛪ [Великодня Літургія 🐣](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~2 год) · о. Ігор
 - 12:30 🏨 Повернення в готель
@@ -281,6 +265,40 @@
 > - Mt Hollywood: підйом лише 16 хв (план мав 45 хв) — легкий трейл!
 > - На вершині 54 хв — ідеально для заходу сонця
 > - Griffith Observatory вночі — 5 хв достатньо для фото, виставки вже бачили
+
+### Day 5 — Понеділок, 06.04 · LA → Las Vegas · 🚗 ~270 mi · 🌅 19:11
+- ~09:19 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
+- ~09:20 🚗 Лос-Анджелес → Лас-Вегас (~4 год)
+- 13:25–13:36 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~11 хв)
+  > 🧠 Інсталяція швейцарського художника Уго Рондіноне (2016). Мала бути тимчасовою на 2 роки, але настільки полюбилась, що продовжують щоразу. Висота стовпів до 10 м.
+- ~14:00 🍽️ Обід в Лас-Вегасі
+- 15:59–19:10 📍 [Las Vegas Strip](https://www.google.com/maps/search/Las+Vegas+Strip) (~3 год 10 хв, прогулянка)
+  > 🧠 Strip технічно не в місті Лас-Вегас — він на некорпорованій території округу Кларк.
+  - 15:59 Grand Prix Circuit area → на північ
+  - 16:35–17:14 Venetian / TI / Mirage (північ Strip)
+  - 17:17–17:40 На південь: Paris → Bellagio → Cosmopolitan
+  - 17:55–18:09 Aria → NY-NY → MGM Grand
+  - 18:13–18:49 Tropicana → Luxor → Welcome to Las Vegas Sign area
+  - 18:52–19:10 Назад на північ до MGM
+- ~19:15 🚗 → Sphere Parking Lot B
+- 19:31–21:21 📍 [Sphere](https://www.google.com/maps/search/Sphere+Las+Vegas)
+  > 🧠 Найбільша сферична споруда у світі: 112 м × 157 м. Зовнішня LED-поверхня **54 000 м²** — найбільший екран на планеті. Всередині 16K × 16K (у 100 разів чіткіше за HD).
+  > 🎫 Order #60-18902/NEV · Sec 405, Row 10, Seats 21–24 · Upper Gallery · Mobile tickets · 🅿️ Parking Lot B включено
+  - 19:31 прибуття / вхід
+  - 20:00 🎬 **"The Wizard of Oz" at Sphere** (~1.5 год)
+  - ~21:21 вихід
+- 21:37–22:19 📍 [Las Vegas Strip — нічна прогулянка](https://www.google.com/maps/search/Las+Vegas+Strip) (~42 хв)
+  - Від Sphere на південь через Venetian → Paris → Planet Hollywood
+- ~22:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #28608843 (ніч 1/1)
+
+> ⏱ **Порядок:** LA → Seven Magic Mountains → Обід → Strip walk (S→N→S to Welcome Sign) → Sphere → Strip Night → Hotel
+>
+> 💡 **Рекомендації:**
+> - LA → Seven Magic Mountains: ~4 год (виїхали о 09:19, прибули 13:25)
+> - Seven Magic Mountains — 11 хв достатньо
+> - Strip walk: 3+ год, дійшли до Welcome to Las Vegas Sign
+> - Sphere: прибули за 30 хв до шоу — ідеально
+> - Бонус: нічна прогулянка по Strip після Sphere (~42 хв)
 
 
 ---
