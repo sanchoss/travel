@@ -1,6 +1,6 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-> 📝 **Оновлено:** 06.04.2026 · Las Vegas, NV
+> 📝 **Оновлено:** 07.04.2026 · Williams, AZ
 
 [Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
 
@@ -30,31 +30,6 @@
 > ⏰ **Часові пояси:** Nevada та California — PDT (UTC-7 у квітні). Arizona — MST (UTC-7 завжди, без переведення годинників). Тобто час однаковий, але в AZ сонце сідає раніше (~18:55 vs ~19:15+ в CA/NV).
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
-
-### Day 6 — Вівторок, 07.04 · Route 66 → Williams · ⏰ 08:30–17:30 · 🌅 18:53
-- 08:30 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
-- 08:30 🚗 Henderson → Grand Prix Plaza (~15 хв)
-- ~09:00 🟡 📍 [Grand Prix Plaza / Las Vegas Strip Circuit](https://www.google.com/maps/search/Grand+Prix+Plaza+Las+Vegas+F1) (~45 хв) · 🕐 10:00–22:00 (Tue)
-  > 🧠 **Las Vegas Strip Circuit** — вуличний трек Ф1 довжиною **6.2 км**, 17 поворотів, 50 кіл на гонку. F1 купила ділянку під піт-лейн за **$240 млн** — це постійна споруда з падоком. Траса огинає Sphere, а потім **1.9 км повний газ** по Las Vegas Blvd повз Venetian, Flamingo, Bellagio та Caesars Palace. Макс. швидкість — **358 км/год** (Цунода, 2025). Рекорд кола — Ферстаппен **1:33.365** (2025). Перша гонка — 18.11.2023, нічна.
-  > 🏎️ **Grand Prix Plaza** (відкрита з травня 2025) — 39 акрів, 3 атракціони: **F1® X** ($79, інтерактивна 4D-виставка з легендарними болідами та артефактами, дизайн власного боліда), **F1® DRIVE** ($37, картинг на частині справжнього треку з DRS та LED-кермом), **F1® HUB** (безкоштовно — F1 Store, симулятори $26.50, ресторан Fuel & Fork). Магазин спроєктований як гараж F1.
-  > ⚠️ Атракціони відкриваються о 10:00. До відкриття можна оглянути зовні Pit Building та трек. F1 Store та Fuel & Fork — без квитка.
-  > 🅿️ **Безкоштовна парковка:** [Casino Royale](https://www.google.com/maps/search/Casino+Royale+Las+Vegas) (3411 Las Vegas Blvd S) — free self-parking гараж, вхід з Linq Lane (позаду, між LINQ та Venetian), ~5 хв пішки до GPP. Альтернатива: [Treasure Island](https://www.google.com/maps/search/Treasure+Island+Las+Vegas+parking) — free self-parking, вхід з Spring Mountain Rd (~12 хв пішки).
-- ~09:45 🚗 → Hoover Dam (~30 хв)
-- 10:15  🟢 📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~1.5 год) · 🕐 9:00–15:45 · 🅿️ $10 гараж
-  > 🧠 Побудована за 5 років (1931–1936) під час Великої депресії. У бетоні **вбудовані холодильні труби** — без них він охолоджувався б 125 років. Бетону вистачило б на автомагістраль від Сан-Франциско до Нью-Йорка (~4 800 км). На дамбі є годинник із двома часовими поясами — Nevada та Arizona по різних боках.
-  > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
-  > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
-- 11:45 🚗 → Oatman (~2 год)
-- 13:45  🟡 📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~45 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
-  > 🧠 Місто-привид з дикими віслюками на вулицях — нащадки тих, яких залишили золотодобувачі на початку 1900-х. Можна годувати морквою ($1 пакетик у крамничках).
-- 14:30 🍽️ Обід в Oatman (~30 хв)
-- 15:00 🚗 → Seligman (~2 год)
-- 17:00  🔴 📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–18:00
-  > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
-- 17:30 🚗 → Williams (~45 хв)
-- 18:15  🔴 📍 [Williams](https://www.google.com/maps/search/Williams+Arizona+Route+66) (~30 хв, Route 66) · 🕐 магазини ~9:00–21:00
-  > 🧠 Останнє місто на Route 66, яке обійшли автострадою I-40 (1984). Мешканці судились роками — але програли. Тепер живуть з ностальгійного туризму.
-- 18:45 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
 
 ### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
 - 08:00 🏨 [Comfort Inn Near Grand Canyon](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) (check-out 11:00)
@@ -161,14 +136,14 @@
 
 ## 📋 Пройдені дні (архів)
 
-### Day 0 — Середа, 01.04 · Приліт · 🚗 ~15 mi · Одометр: 083,927 mi · [📸 Фото](https://photos.app.goo.gl/z8QeNPZafdPsRj6j8)
+### Day 0 — Середа, 01.04 · Приліт · 🚗 ~15 mi (24 km) · 🚶 25,718 steps · Одометр: 083,927 mi · ⏰ 21:21–22:45 · [📸 Фото](https://photos.app.goo.gl/z8QeNPZafdPsRj6j8)
 - ~21:21 ✈️ Приліт LAS
 - ~21:50 🚌 Rental Car shuttle → Turo Lot (~30 хв)
 - ~22:15 🚗 Отримання авто, огляд, фото
   > 📋 **Pick-up стан:** 083,927 mi · Oil Life 40% · 70°F · Honda CR-V
 - ~22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 
-### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km) · [📸 Фото](https://photos.app.goo.gl/xoTnMnHoADVK45JRA)
+### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km) · 🚶 16,359 steps · 4.2 km / ⛰️ 90 m · Одометр: 084,437 mi · ⏰ 07:11–23:00 · [📸 Фото](https://photos.app.goo.gl/xoTnMnHoADVK45JRA)
 > 🧠 Назву «Долина Смерті» дали золотошукачі 1849 р., які ледве вибрались з неї живими. Один сказав: *«Goodbye, Death Valley»* — і назва прилипла. Тут зафіксовано абсолютний рекорд температури на Землі — **56.7 °C** (134 °F, 1913). А ще тут одне з **найтемніших небес у США** (Gold Tier Dark Sky Park) — неозброєним оком видно Чумацький Шлях.
 - 07:11 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (checkout)
 - ~10:04 🛒 Зупинка NW Las Vegas (магазин)
@@ -194,7 +169,7 @@
 > - На Death Valley закладати мінімум 5 год на зупинки
 > - Dante's View варто 45+ хв, Zabriskie Point — 15 хв достатньо
 
-### Day 2 — П'ятниця, 03.04 · Sequoia National Park · 🚗 ~50 mi (80 km) · Одометр: 084,487 mi
+### Day 2 — П'ятниця, 03.04 · Sequoia National Park · 🚗 ~50 mi (80 km) · 🚶 25,290 steps · 11.9 km / ⛰️ 396 m · Одометр: 084,487 mi · ⏰ 10:15–19:27 · [📸 Фото](https://photos.app.goo.gl/Swf9wfHbNz9sPYCy7)
 - ~10:15 🚗 Виїзд з готелю
 - ~10:30–10:58 📍 [Sequoia NP — Ash Mountain Entrance](https://www.google.com/maps/search/Sequoia+National+Park+Ash+Mountain+Entrance) (~28 хв)
 - 11:07 🚗 Generals Highway (серпантин, ~40 хв)
@@ -215,7 +190,7 @@
 > - General Sherman + Congress Trail — варто об'єднати (1.5 год загалом)
 > - Big Trees Trail — 30 хв достатньо
 
-### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · Одометр: 084,741 mi · [📸 Фото](https://photos.app.goo.gl/Tk5Gbwmwrnkqtmih6)
+### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · 🚶 17,959 steps · 8.4 km / ⛰️ 74 m · Одометр: 084,741 mi · ⏰ 09:56–21:00 · [📸 Фото](https://photos.app.goo.gl/Tk5Gbwmwrnkqtmih6)
 - ~09:56 🚗 Виїзд з Three Rivers
 - ~12:48 🚗 Дорога (Castaic area)
 - 14:02–14:22 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~20 хв, фото Hollywood Sign)
@@ -238,7 +213,7 @@
 > - Walk of Fame потребує 2+ год
 > - Lake Hollywood Park — 20 хв достатньо
 
-### Day 4 — Неділя, 05.04 · Los Angeles · 🚗 ~76 mi (122 km) · Одометр: 084,817 mi · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
+### Day 4 — Неділя, 05.04 · Los Angeles · 🚗 ~76 mi (122 km) · 🚶 17,950 steps · 12.0 km / ⛰️ 212 m · Одометр: 084,817 mi · ⏰ 09:05–20:30 · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
 - 09:05 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
 - 09:46–11:50 ⛪ [Великодня Літургія 🐣](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~2 год) · о. Ігор
 - 12:30 🏨 Повернення в готель
@@ -267,7 +242,7 @@
 > - На вершині 54 хв — ідеально для заходу сонця
 > - Griffith Observatory вночі — 5 хв достатньо для фото, виставки вже бачили
 
-### Day 5 — Понеділок, 06.04 · LA → Las Vegas · 🚗 ~270 mi · 🌅 19:11
+### Day 5 — Понеділок, 06.04 · LA → Las Vegas · 🚗 ~270 mi (435 km) · 🚶 25,021 steps · 19.3 km / ⛰️ 271 m · Одометр: 085,087 mi · ⏰ 09:19–22:30 · 🌅 19:11 · [📸 Фото](https://photos.app.goo.gl/gK6Y9TSvRnZxw6R7A)
 - ~09:19 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
 - ~09:20 🚗 Лос-Анджелес → Лас-Вегас (~4 год)
 - 13:25–13:36 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~11 хв)
@@ -301,81 +276,78 @@
 > - Sphere: прибули за 30 хв до шоу — ідеально
 > - Бонус: нічна прогулянка по Strip після Sphere (~42 хв)
 
+### Day 6 — Вівторок, 07.04 · Route 66 → Williams · � ~280 mi (451 km) · �🚶 8,918 steps · 6.2 km / ⛰️ 119 m · ⏰ 10:30–21:22 · 🌅 18:53 · [📸 Фото](https://photos.app.goo.gl/j16CfoqqRRjakSAM8)
+- ~10:30 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
+- ~10:30 🚗 Henderson → Grand Prix Plaza (~15 хв)
+- 10:59–11:22 📍 [Grand Prix Plaza / Las Vegas Strip Circuit](https://www.google.com/maps/search/Grand+Prix+Plaza+Las+Vegas+F1) (~23 хв) · 🕐 10:00–22:00 (Tue)
+  > 🧠 **Las Vegas Strip Circuit** — вуличний трек Ф1 довжиною **6.2 км**, 17 поворотів, 50 кіл на гонку. F1 купила ділянку під піт-лейн за **$240 млн** — це постійна споруда з падоком. Траса огинає Sphere, а потім **1.9 км повний газ** по Las Vegas Blvd повз Venetian, Flamingo, Bellagio та Caesars Palace. Макс. швидкість — **358 км/год** (Цунода, 2025). Рекорд кола — Ферстаппен **1:33.365** (2025). Перша гонка — 18.11.2023, нічна.
+  > 🏎️ **Grand Prix Plaza** (відкрита з травня 2025) — 39 акрів, 3 атракціони: **F1® X** ($79, інтерактивна 4D-виставка з легендарними болідами та артефактами, дизайн власного боліда), **F1® DRIVE** ($37, картинг на частині справжнього треку з DRS та LED-кермом), **F1® HUB** (безкоштовно — F1 Store, симулятори $26.50, ресторан Fuel & Fork). Магазин спроєктований як гараж F1.
+  > ⚠️ Атракціони відкриваються о 10:00. До відкриття можна оглянути зовні Pit Building та трек. F1 Store та Fuel & Fork — без квитка.
+  > 🅿️ **Безкоштовна парковка:** [Casino Royale](https://www.google.com/maps/search/Casino+Royale+Las+Vegas) (3411 Las Vegas Blvd S) — free self-parking гараж, вхід з Linq Lane (позаду, між LINQ та Venetian), ~5 хв пішки до GPP. Альтернатива: [Treasure Island](https://www.google.com/maps/search/Treasure+Island+Las+Vegas+parking) — free self-parking, вхід з Spring Mountain Rd (~12 хв пішки).
+- ~11:30 🚗 → Hoover Dam (~45 хв)
+- 13:15–14:46  📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~91 хв) · 🕐 9:00–15:45 · 🅿️ $10 гараж
+  > 🧠 Побудована за 5 років (1931–1936) під час Великої депресії. У бетоні **вбудовані холодильні труби** — без них він охолоджувався б 125 років. Бетону вистачило б на автомагістраль від Сан-Франциско до Нью-Йорка (~4 800 км). На дамбі є годинник із двома часовими поясами — Nevada та Arizona по різних боках.
+  > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
+  > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
+- ~15:00 🚗 → Oatman (~1.5 год)
+- 16:30–17:25  📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~55 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
+  > 🧠 Місто-привид з дикими віслюками на вулицях — нащадки тих, яких залишили золотодобувачі на початку 1900-х. Можна годувати морквою ($1 пакетик у крамничках).
+- ~17:30 🚗 → Seligman (~2 год)
+- 19:41–19:50  📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~9 хв, Route 66) · 🕐 магазини ~9:00–18:00
+  > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
+- ~20:00 🚗 → Williams (~1 год 15 хв)
+- 21:18 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
+
+> ⏱ **Порядок:** Grand Prix Plaza → Hoover Dam → Oatman → Seligman → Williams
+>
+> 💡 **Рекомендації:**
+> - Виїхали пізно (~10:30 замість 08:30) — зсунуло весь розклад на ~2 год
+> - Grand Prix Plaza — 23 хв (огляд зовні, ще не відкрились атракціони)
+> - Hoover Dam — ~91 хв (план мав 1.5 год) — ідеально
+> - Oatman — 55 хв (план мав 45 хв) — дуже атмосферне місце
+> - Seligman — лише 9 хв (план мав 30 хв) — приїхали після закриття магазинів
+> - Williams — пропустили огляд (приїхали о 21:18). Час не вистачило
+> - Прибуття в готель на 2.5 год пізніше запланованого
+
 
 ---
 
 ## Готелі
 
 ### 1. Comfort Inn & Suites Henderson — Las Vegas
-- **Дати:** 01.04 (Wed) 15:00 — 02.04 (Thu) 12:00 · 1 ніч
-- **Confirmation #:** 26234509
-- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
-- **Оплата:** 🎁 Reward Night — 15,000 pts
-- **Адреса:** 475 Marks Street, Henderson, NV 89014
-- **Телефон:** +1 (702) 387-6500
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
-- [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
+- 01.04 (Wed) — 02.04 (Thu) · 1 ніч · Conf #26234509 · 🎁 15,000 pts
+- 2 Queen Beds · 475 Marks Street, Henderson, NV 89014 · +1 (702) 387-6500
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
 
 ### 2. Comfort Inn & Suites Sequoia Kings Canyon
-- **Дати:** 02.04 (Thu) 16:00 — 04.04 (Sat) 11:00 · 2 ночі
-- **Confirmation #:** 26236486
-- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
-- **Оплата:** 12,000 pts + $323.00 (VISA ****7434)
-- **Адреса:** 40820 Sierra Drive, Three Rivers, CA 93271
-- **Телефон:** +1 (559) 566-0232
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers)
-- [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/caa26)
+- 02.04 (Thu) — 04.04 (Sat) · 2 ночі · Conf #26236486 · 12,000 pts + $323.00 (VISA ****7434)
+- 2 Queen Beds · 40820 Sierra Drive, Three Rivers, CA 93271 · +1 (559) 566-0232
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/caa26)
 
 ### 3. Comfort Inn Los Angeles near Hollywood
-- **Дати:** 04.04 (Sat) 15:00 — 06.04 (Mon) 12:00 · 2 ночі
-- **Confirmation #:** 26247802
-- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
-- **Оплата:** $404.31 ($207.25 + $147.40 + $49.66 tax)
-- **Паркінг:** $24.00 ($12/ніч × 2 ночі, гараж)
-- **Адреса:** 2717 West Sunset Blvd., Los Angeles, CA 90026
-- **Телефон:** +1 (213) 413-8222
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood)
-- [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca785)
+- 04.04 (Sat) — 06.04 (Mon) · 2 ночі · Conf #26247802 · $404.31 + паркінг $24.00
+- 2 Queen Beds · 2717 West Sunset Blvd., Los Angeles, CA 90026 · +1 (213) 413-8222
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca785)
 
 ### 4. Comfort Inn & Suites Henderson — Las Vegas (повторно)
-- **Дати:** 06.04 (Mon) 15:00 — 07.04 (Tue) 12:00 · 1 ніч
-- **Confirmation #:** 28608843
-- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
-- **Оплата:** 🎁 Reward Night — 15,000 pts
-- **Адреса:** 475 Marks Street, Henderson, NV 89014
-- **Телефон:** +1 (702) 387-6500
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
-- [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
+- 06.04 (Mon) — 07.04 (Tue) · 1 ніч · Conf #28608843 · 🎁 15,000 pts
+- 2 Queen Beds · 475 Marks Street, Henderson, NV 89014 · +1 (702) 387-6500
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
 
 ### 5. Comfort Inn Near Grand Canyon
-- **Дати:** 07.04 (Tue) 15:00 — 08.04 (Wed) 11:00 · 1 ніч
-- **Confirmation #:** 28612966
-- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
-- **Оплата:** 🎁 Reward Night — 15,000 pts
-- **Адреса:** 911 W US Route 66, Williams, AZ 86046
-- **Телефон:** +1 (928) 635-4045
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ)
-- [Choice Hotels](https://www.choicehotels.com/arizona/williams/comfort-inn-hotels/az327)
+- 07.04 (Tue) — 08.04 (Wed) · 1 ніч · Conf #28612966 · 🎁 15,000 pts
+- 2 Queen Beds · 911 W US Route 66, Williams, AZ 86046 · +1 (928) 635-4045
+- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · [Choice Hotels](https://www.choicehotels.com/arizona/williams/comfort-inn-hotels/az327)
 
 ### 6. Comfort Suites Kanab National Park Area
-- **Дати:** 08.04 (Wed) 15:00 — 09.04 (Thu) 11:00 · 1 ніч
-- **Confirmation #:** 28615939
-- **Кімната:** 2 Double Beds, Suite + Sofa Bed, No Smoking · 4 occupants
-- **Оплата:** $178.98 ($155.95 + $23.03 tax)
-- **Адреса:** 150 West Center Street, Kanab, UT 84741
-- **Телефон:** +1 (435) 513-3684
-- [Google Maps](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area)
-- [Choice Hotels](https://www.choicehotels.com/utah/kanab/comfort-suites-hotels/ut189)
+- 08.04 (Wed) — 09.04 (Thu) · 1 ніч · Conf #28615939 · $178.98
+- 2 Double Beds + Sofa Bed · 150 West Center Street, Kanab, UT 84741 · +1 (435) 513-3684
+- [Google Maps](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · [Choice Hotels](https://www.choicehotels.com/utah/kanab/comfort-suites-hotels/ut189)
 
 ### 7. Sleep Inn & Suites Page at Lake Powell
-- **Дати:** 09.04 (Thu) 15:00 — 10.04 (Fri) 11:00 · 1 ніч
-- **Confirmation #:** 28617852
-- **Кімната:** 2 Queen Beds, No Smoking · 4 occupants
-- **Оплата:** $182.31 ($155.95 + $26.36 tax)
-- **Адреса:** 673 Scenic View Road, Page, AZ 86040
-- **Телефон:** +1 (928) 645-2020
-- [Google Maps](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell)
-- [Choice Hotels](https://www.choicehotels.com/arizona/page/sleep-inn-hotels)
+- 09.04 (Thu) — 10.04 (Fri) · 1 ніч · Conf #28617852 · $182.31
+- 2 Queen Beds · 673 Scenic View Road, Page, AZ 86040 · +1 (928) 645-2020
+- [Google Maps](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · [Choice Hotels](https://www.choicehotels.com/arizona/page/sleep-inn-hotels)
 
 > ✅ Всі готелі заброньовані!
 
