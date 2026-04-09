@@ -31,19 +31,25 @@
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
 
-### Day 8 — Четвер, 09.04 · Zion National Park · 🚗 ~180 mi (290 km) · ⏰ 09:00–21:15 · 🌅 18:55
+### Day 8 — Четвер, 09.04 · Zion National Park · 🚗 ~180 mi (290 km) · ⏰ 10:00–20:15 · 🌅 18:55
 > 🌟 **Повний день у Zion!** Kanab → Zion лише ~40 хв. Angels Landing lottery — подати **08.04**, результат о 18:00
-- 09:00 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (check-out 11:00)
-- 09:00 🚗 Kanab → Zion NP East Entrance (~40 хв через Mt Carmel Hwy)
-- 09:40  🟢 📍 [Zion NP — East Entrance](https://www.google.com/maps/search/Zion+National+Park+East+Entrance) · 🕐 парк 24/7
+- 10:00 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (check-out 11:00)
+- 10:00 🚗 Kanab → Zion NP East Entrance (~40 хв через Mt Carmel Hwy)
+- 10:40  🟢 📍 [Zion NP — East Entrance](https://www.google.com/maps/search/Zion+National+Park+East+Entrance) · 🕐 парк 24/7
   > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass · ⚠️ Завантажити PDF заздалегідь, немає зв'язку!
-- 09:55  🟢 🥾 [Canyon Overlook Trail](https://www.google.com/maps/search/Canyon+Overlook+Trail+Zion) (~1 год, ~1.6 км туди-назад, вид на Pine Creek Canyon) · 🕐 24/7
+- 10:45  🟡 📍 [Checkerboard Mesa View Area](https://www.google.com/maps/search/Checkerboard+Mesa+View+Area+Zion) (~10 хв, фото) · 🕐 24/7
+  > 🧠 Унікальний шаховий візерунок на пісковику Navajo — горизонтальні лінії від шарів осадових порід, вертикальні — від ерозії замерзання/відтавання.
+- 10:55  🟢 🥾 [Canyon Overlook Trail](https://www.google.com/maps/search/Canyon+Overlook+Trail+Zion) (~1 год, ~1.6 км туди-назад, вид на Pine Creek Canyon) · 🕐 24/7
   > 🧠 З оглядового видно Great Arch of Zion — одну з найбільших вільностоячих арок у світі (висота ~85 м).
   > 🅿️ Невелика парковка біля тунелю (East side) — приїхати рано!
-- 10:55 🚗 Проїзд через Zion-Mt Carmel Tunnel → Zion Canyon
+- 11:55 🚗 Проїзд через Zion-Mt Carmel Tunnel → Zion Canyon
   > 🧠 **Zion-Mt Carmel Tunnel** (1930) — 1.8 км, прорубаний вручну у скелі. Великі авто їдуть посередині, зустрічний рух зупиняють. Червоні та білі скелі Zion — це древній пісок Сахари: 150–200 млн років тому тут була гігантська пустеля, пісок спресувався у пісковик Navajo.
-- 11:10 🅿️ Парковка у [Zion Canyon Visitor Center](https://www.google.com/maps/search/Zion+Canyon+Visitor+Center) або Springdale (shuttle stops)
-- 11:25 🚌 Zion Canyon Shuttle → зупинки:
+- 12:10 🟡 📍 [Canyon Junction Bridge](https://www.google.com/maps/search/Canyon+Junction+Bridge+Zion) (~10 хв, фото) · 🕐 24/7
+  > 🧠 Пішохідний міст на перехресті Mt Carmel Hwy та Zion Canyon Scenic Drive — панорамний вид на The Watchman та Towers of the Virgin.
+- 12:20 🟡 📍 [Zion Scenic Drive Viewpoint](https://www.google.com/maps/search/Zion+Scenic+Drive+Viewpoint+Zion) (~5 хв, фото)
+- 12:25 🅿️ Парковка у [Zion Canyon Visitor Center](https://www.google.com/maps/search/Zion+Canyon+Visitor+Center) або Springdale (shuttle stops)
+- 12:30 🟡 🛒 [Zion National Park Forever Project Store](https://www.google.com/maps/search/Zion+National+Park+Forever+Project+Store+Springdale) (~15 хв, сувеніри/книги) · 🕐 8:00–19:00
+- 12:45 🚌 Zion Canyon Shuttle → зупинки:
   - 🟢 📍 **The Grotto** → 🪴 [Angels Landing](https://www.google.com/maps/search/Angels+Landing+Zion) (~4 год туди-назад) — ❗ потребує permit (лотерея, подати **08.04**)
     > 🧠 Назву дав методистський пастор: «тільки ангели можуть приземлитись на цю вершину». Фінальний відрізок — вузький хребет із ланцюгами та прірвою ~450 м вниз.
   - 🟢 📍 **Temple of Sinawava** → 🥾 [Riverside Walk / The Narrows](https://www.google.com/maps/search/The+Narrows+Zion) (~1.5–2 год, рівна стежка вздовж Virgin River)
@@ -51,11 +57,11 @@
   - 🟡 📍 **Weeping Rock** → 🥾 [Weeping Rock Trail](https://www.google.com/maps/search/Weeping+Rock+Zion) (~30 хв)
     > 🧠 Вода, що крапає зі скелі, впала дощем **~1 200 років тому** — стільки часу їй потрібно, щоб просочитись крізь пісковик Navajo.
   - 🟡 📍 **Zion Lodge** → 🥾 [Emerald Pools Trail](https://www.google.com/maps/search/Emerald+Pools+Zion) (Lower ~1 год, Upper ~2.5 год)
-- 13:30 🍽️ Обід (Zion Lodge / Springdale) (~1 год)
-- 14:30 🚌 Продовження shuttle маршруту / додаткові trails (~3 год)
+- 14:30 🍽️ Обід (Zion Lodge / Springdale) (~1 год)
+- 15:30 🚌 Продовження shuttle маршруту / додаткові trails (~2 год)
 - 17:30 🚌 Останній shuttle назад → парковка
 - 18:00 🚗 Zion → Page (~2 год 15 хв через Mt Carmel → 89S)
-  > 🌅 **Sunset option:** золота година в Zion Canyon (захід 18:55). Залишитись до 18:30 shuttle, виїзд ~19:00, прибуття Page ~21:15. Позичити час: скоротити Canyon Overlook Trail або один shuttle stop
+  > 🌅 **Sunset option:** золота година в Zion Canyon (захід 18:55). Залишитись до 18:30 shuttle, виїзд ~19:00, прибуття Page ~21:15
 - 20:15 🏨 [**Sleep Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · ✅ Conf #28617852 (ніч 1/1, check-in 15:00)
 
 ### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~400 mi (644 km) · ⏰ 07:30–20:00 · 🌅 18:57
