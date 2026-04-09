@@ -31,7 +31,7 @@
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
 
-### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 09:00–21:15 · 🌅 18:55
+### Day 8 — Четвер, 09.04 · Zion National Park · 🚗 ~180 mi (290 km) · ⏰ 09:00–21:15 · 🌅 18:55
 > 🌟 **Повний день у Zion!** Kanab → Zion лише ~40 хв. Angels Landing lottery — подати **08.04**, результат о 18:00
 - 09:00 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (check-out 11:00)
 - 09:00 🚗 Kanab → Zion NP East Entrance (~40 хв через Mt Carmel Hwy)
@@ -58,7 +58,7 @@
   > 🌅 **Sunset option:** золота година в Zion Canyon (захід 18:55). Залишитись до 18:30 shuttle, виїзд ~19:00, прибуття Page ~21:15. Позичити час: скоротити Canyon Overlook Trail або один shuttle stop
 - 20:15 🏨 [**Sleep Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · ✅ Conf #28617852 (ніч 1/1, check-in 15:00)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–20:00 · 🌅 18:57
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~400 mi (644 km) · ⏰ 07:30–20:00 · 🌅 18:57
 - 07:30 🏨 [Sleep Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) (check-out 11:00)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
