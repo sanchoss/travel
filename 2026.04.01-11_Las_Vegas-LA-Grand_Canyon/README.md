@@ -1,6 +1,6 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-> 📝 **Оновлено:** 07.04.2026 · Williams, AZ
+> 📝 **Оновлено:** 08.04.2026 · Kanab, UT
 
 [Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
 
@@ -21,7 +21,7 @@
 | 6 | **Sphere — "The Wizard of Oz"** | Day 5 | 06.04 | 20:00 | ✅ Є | Order #60-18902/NEV · 4 квитки (Sec 405, Row 10, Seats 21–24) + Parking Lot B | $521.00 | [thesphere.com](https://www.thesphere.com/) |
 | 7 | **Zion NP — Site Pass** | Day 8 | 09.04 | — | ✅ Є | Order #0872378323 · Private Vehicle Pass · Valid 06–12.04. ⚠️ Завантажити PDF заздалегідь — немає зв'язку! | $35.00 | [recreation.gov](https://www.recreation.gov/) |
 
-> **Не потребують бронювання:** Death Valley (Day 1, $30/авто або ABP), Griffith Observatory (Day 4, безкоштовно), Hollywood Walk of Fame (Day 4), Horseshoe Bend (Day 9, $10 паркінг на місці), Glen Canyon Dam (Day 9, безкоштовно), Grand Canyon (Day 7, $35/авто або ABP)
+> **Не потребують бронювання:** Death Valley (Day 1, $30/авто або ABP), Griffith Observatory (Day 4, безкоштовно), Hollywood Walk of Fame (Day 4), Horseshoe Bend (Day 7, ✅ $10 паркінг на місці), Glen Canyon Dam (Day 7, ✅ безкоштовно), Grand Canyon (Day 7, $35/авто або ABP)
 
 ---
 
@@ -30,34 +30,6 @@
 > ⏰ **Часові пояси:** Nevada та California — PDT (UTC-7 у квітні). Arizona — MST (UTC-7 завжди, без переведення годинників). Тобто час однаковий, але в AZ сонце сідає раніше (~18:55 vs ~19:15+ в CA/NV).
 
 > 🟢 **Обов'язково** — пропускати не варто · 🟡 **Бажано** — якщо вистачає часу · 🔴 **Можна пропустити** — якщо спізнюєтесь або втомились
-
-### Day 7 — Середа, 08.04 · Grand Canyon → Kanab · ⏰ 08:00–17:00 · 🌅 18:56
-- 08:00 🏨 [Comfort Inn Near Grand Canyon](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) (check-out 11:00)
-- 08:00 🚗 Williams → South Entrance Station (~1 год)
-- 09:00 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
-  > 🧠 **Grand Canyon** — 446 км завдовжки, до 29 км завширшки, 1 600 м завглибшки. Ріка Колорадо вирізала його за ~5–6 млн років. Скелі на дні — **1.8 млрд років** (майже половина віку Землі). Кожен шар — окрема геологічна ера. Тут живе **каліфорнійський кондор** — у 1987 р. залишалось лише 22 птахи, зараз ~500. Різниця температур між верхом і дном — до **15–20 °C**.
-- 09:00 📍 [South Entrance Station](https://www.google.com/maps/search/Grand+Canyon+South+Entrance+Station) → Yavapai Viewpoint Rd (~15 хв)
-  > 🅿️ Парковка на [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Road+Grand+Canyon) — залишити авто тут, далі пішки по Rim Trail
-- 09:15  🟢 📍 [Yavapai Point & Geology Museum](https://www.google.com/maps/search/Yavapai+Geology+Museum+Grand+Canyon) (~30 хв, панорама каньйону + геологічний музей) · 🕐 24/7
-- 09:45  🟢 🥾 Rim Trail → [Mather Point](https://www.google.com/maps/search/Mather+Point+Grand+Canyon) (~20 хв пішки, ~1.1 км, рівна асфальтована стежка) · 🕐 24/7
-  - 📍 [Grand Canyon Visitor Center](https://www.google.com/maps/search/Grand+Canyon+Visitor+Center) (~15 хв) · 🕐 9:00–17:00
-- 10:20  🟢 🚌 Kaibab Shuttle (Orange Route) від Visitor Center → [Yaki Point](https://www.google.com/maps/search/Yaki+Point+Grand+Canyon) (~10 хв, shuttle only — авто заборонені) · 🕐 24/7
-  > 📍 Yaki Point — чудовий вид на Phantom Ranch та Inner Canyon. Тут же початок South Kaibab Trail
-- 10:50  🟢 🥾 Yaki Point (~20 хв огляд) → 🚌 shuttle назад до Visitor Center (~10 хв)
-- 11:20  🥾 Пішки Visitor Center → Yavapai Viewpoint Rd (~10 хв, ~0.7 км) → забрати авто
-  > 📊 **Загалом хайк:** ~2.5 км пішки (Yavapai → Mather → VC, пласка Rim Trail). Shuttle до/від Yaki Point
-- 11:30  🟡 📍 [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) (~1 год з shuttle, один з найкращих оглядових — широка панорама на захід) · 🕐 24/7
-  > 🧠 Одне з небагатьох місць South Rim, де **видно ріку Колорадо** на дні. Панорама ~160 км каньйону.
-  > 🚌 Hermit Road shuttle (Red Route) від Village Route Transfer до Hopi Point (~15 хв в один бік). Квітень — shuttle only, авто заборонені. Закласти ~1 год (очікування + їзда туди-назад + огляд)
-- 12:30 🍽️ Обід (~1 год)
-- 13:30 🚗 Grand Canyon → Kanab (~3.5 год через Desert View Drive → 89N → 89A)
-  > 🟡 Дорога через [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) — scenic drive з зупинками (Grandview Point, Desert View Watchtower). Якщо часу мало — їхати напряму через South Entrance → I-40 → Flagstaff → 89N (~3.5 год)
-  > 🔀 **Якщо їдете через Sedona** (+2.5 год): GC → Flagstaff → Sedona (~2 год) → Sedona ~1.5 год → Sedona → Kanab (~3 год через Flagstaff → 89N → 89A). Прибуття в Kanab ~20:00
-  -  🔴 📍 [Sedona](https://www.google.com/maps/search/Sedona+Arizona) (~1.5 год, червоні скелі, огляд) · 🕐 24/7
-    > 🧠 Червоний колір — оксид заліза (іржа у камені). Неонові знаки **заборонені законом**. Навіть McDonald's тут має бірюзові арки замість жовтих — єдиний у світі!
-  -  🔴 ⛪ [Chapel of the Holy Cross](https://www.google.com/maps/search/Chapel+of+the+Holy+Cross+Sedona) (~15 хв, каплиця вбудована в червону скелю) · 🕐 9:00–17:00
-    > 🧠 Спроєктована ученицею Ф. Л. Райта. Вбудована прямо у 75-метрову червону скелю. Побудована за 18 місяців (1956).
-- 17:00 🏨 [**Comfort Suites Kanab National Park Area**](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · ✅ Conf #28615939 (ніч 1/1, check-in 15:00)
 
 ### Day 8 — Четвер, 09.04 · Zion National Park · ⏰ 09:00–21:15 · 🌅 18:55
 > 🌟 **Повний день у Zion!** Kanab → Zion лише ~40 хв. Angels Landing lottery — подати **08.04**, результат о 18:00
@@ -86,7 +58,7 @@
   > 🌅 **Sunset option:** золота година в Zion Canyon (захід 18:55). Залишитись до 18:30 shuttle, виїзд ~19:00, прибуття Page ~21:15. Позичити час: скоротити Canyon Overlook Trail або один shuttle stop
 - 20:15 🏨 [**Sleep Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · ✅ Conf #28617852 (ніч 1/1, check-in 15:00)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–21:35 · 🌅 18:57
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · ⏰ 07:30–20:00 · 🌅 18:57
 - 07:30 🏨 [Sleep Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) (check-out 11:00)
 - 07:45 🚗 → Antelope Canyon Tours Office (~5 хв)
 - 08:00 🎫 Check-in Antelope Canyon Tours
@@ -106,27 +78,21 @@
   - 🥾 Після каньйону — обов'язковий підйом по пагорбу 800м по піску зі сходами (~15 хв). Загалом 1200м ходьби
   - ❌ Пропустив тур = без повернення коштів (анулюється за 7 хв до старту)
 - 10:40 🚗 Повернення до офісу
-- 11:00 🚗 → Horseshoe Bend (~5 хв)
-- 11:05  🟢 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~1 год, парковка $10) · 🕐 до заходу сонця
-  > 🧠 Ріка Колорадо робить поворот на **270°**. Падіння з обриву до води — **300 м**. До 2018 р. тут не було ні огорожі, ні паркінгу — тільки ґрунтова стежка.
-- 12:05 🚗 → Glen Canyon Dam (~10 хв)
-- 12:15  🟡 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~20 хв) · 🕐 Visitor Center 9:00–17:00, дамба 24/7
-  > 🧠 Озеро Пауелл за нею заповнювалось **17 років**. Його берегова лінія (3 136 км) — довша за все тихоокеанське узбережжя США.
-  - 📍 [Glen Canyon Dam Overlook](https://www.google.com/maps/search/Glen+Canyon+Dam+Overlook) — оглядовий майданчик (поруч)
-- 12:35 🍽️ Обід в Page (~30 хв)
-- 13:05 🚗 Page → Bryce Canyon (~2.5 год через US-89N → UT-12E)
-- 15:35  🟢 📍 [Bryce Canyon National Park](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (~1.5 год) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
+  > ✅ Horseshoe Bend та Glen Canyon Dam — зроблено Day 7 (08.04)
+- 11:00 🍽️ Обід в Page (~30 хв)
+- 11:30 🚗 Page → Bryce Canyon (~2.5 год через US-89N → UT-12E)
+- 14:00  🟢 📍 [Bryce Canyon National Park](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (~1.5 год) · 🎫 America the Beautiful Pass · 🕐 парк 24/7
   > 🧠 Насправді **не каньйон**, а серія природних амфітеатрів. «Худу» (кам'яні стовпи) формуються морозним вивітрюванням (~200 циклів замерзання/рік). **Найчистіше повітря** серед усіх нацпарків США — видимість до **320 км**. Одне з найтемніших небес для спостереження зірок.
   - 🟢 📍 [Sunset Point](https://www.google.com/maps/search/Sunset+Point+Bryce+Canyon) — найкращий вид на амфітеатр худу
   - 🟢 📍 [Bryce Point](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) — панорама всього амфітеатру
   - 🟡 📍 [Inspiration Point](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) — вид на Silent City
   > 🥾 Опціонально: [Navajo Loop Trail](https://www.google.com/maps/search/Navajo+Loop+Trail+Bryce+Canyon) від Sunset Point (~1 год, 1.4 км, спуск між худу) — якщо є час і сили
   > 🧠 Секція «Wall Street» — щілина шириною кілька метрів, де ростуть дугласові ялини, які майже ніколи не бачать прямого сонця.
-  > 🌅 **Sunset option:** Sunset Point названий так не випадково — захід сонця (18:57) фарбує худу в червоно-помаранчевий! Залишитись до ~18:45, виїзд 18:50, прибуття LV ~23:10 замість 21:35 (+1.5 год). Дедлайн повернення авто 01:00 — часу вистачає. Позичити час: пропустити Walmart St. George (+30 хв)
-- 17:05 🚗 Bryce Canyon → St. George (~2 год 15 хв через UT-12W → US-89S → I-15S)
-- 19:20 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
-- 19:50 🚗 St. George → Las Vegas (~1 год 45 хв)
-- 21:35 🚗 Повернути авто в аеропорту (до 01:00 11.04)
+  > 🌅 **Sunset option:** Sunset Point названий так не випадково — захід сонця (18:57) фарбує худу в червоно-помаранчевий! Залишитись до ~18:45, виїзд 18:50, прибуття LV ~23:10 замість 20:00 (+3 год). Дедлайн повернення авто 01:00 — часу вистачає. Позичити час: пропустити Walmart St. George (+30 хв)
+- 15:30 🚗 Bryce Canyon → St. George (~2 год 15 хв через UT-12W → US-89S → I-15S)
+- 17:45 🛒 [Walmart Supercenter St. George](https://www.google.com/maps/place/Walmart+Supercenter/data=!4m2!3m1!19sChIJP4h2N0Eus4ARc66QpGCdlnE) (~30 хв, сувеніри/перекус) · 🕐 6:00–23:00
+- 18:15 🚗 St. George → Las Vegas (~1 год 45 хв)
+- 20:00 🚗 Повернути авто в аеропорту (до 01:00 11.04)
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
@@ -276,7 +242,7 @@
 > - Sphere: прибули за 30 хв до шоу — ідеально
 > - Бонус: нічна прогулянка по Strip після Sphere (~42 хв)
 
-### Day 6 — Вівторок, 07.04 · Route 66 → Williams · � ~280 mi (451 km) · �🚶 8,918 steps · 6.2 km / ⛰️ 119 m · ⏰ 10:30–21:22 · 🌅 18:53 · [📸 Фото](https://photos.app.goo.gl/j16CfoqqRRjakSAM8)
+### Day 6 — Вівторок, 07.04 · Route 66 → Williams · 🚗 ~280 mi (451 km) · 🚶 8,918 steps · 6.2 km / ⛰️ 119 m · Одометр: 085,416 mi · ⏰ 10:30–21:22 · 🌅 18:53 · [📸 Фото](https://photos.app.goo.gl/j16CfoqqRRjakSAM8)
 - ~10:30 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - ~10:30 🚗 Henderson → Grand Prix Plaza (~15 хв)
 - 10:59–11:22 📍 [Grand Prix Plaza / Las Vegas Strip Circuit](https://www.google.com/maps/search/Grand+Prix+Plaza+Las+Vegas+F1) (~23 хв) · 🕐 10:00–22:00 (Tue)
@@ -308,6 +274,41 @@
 > - Seligman — лише 9 хв (план мав 30 хв) — приїхали після закриття магазинів
 > - Williams — пропустили огляд (приїхали о 21:18). Час не вистачило
 > - Прибуття в готель на 2.5 год пізніше запланованого
+
+### Day 7 — Середа, 08.04 · Grand Canyon → Horseshoe Bend → Kanab · 🚗 ~283 mi (455 km) · 🚶 12,858 steps · 10.3 km / ⛰️ 190 m · Одометр: 085,699 mi · ⏰ 10:15–21:07 · 🌅 18:56
+> 📸 [Фото](https://photos.app.goo.gl/y7DhHXApMxAD8XdB9)
+
+> 🧠 **Grand Canyon** — 446 км завдовжки, до 29 км завширшки, 1 600 м завглибшки. Ріка Колорадо вирізала його за ~5–6 млн років. Скелі на дні — **1.8 млрд років** (майже половина віку Землі). Кожен шар — окрема геологічна ера. Тут живе **каліфорнійський кондор** — у 1987 р. залишалось лише 22 птахи, зараз ~500. Різниця температур між верхом і дном — до **15–20 °C**.
+- ~10:15 🏨 [Comfort Inn Near Grand Canyon](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) (виїзд)
+- ~10:15 🚗 Williams → South Entrance Station (~1 год)
+- ~11:15 📍 [Grand Canyon National Park — South Rim](https://www.google.com/maps/search/Grand+Canyon+South+Rim) · 🎫 America the Beautiful Pass
+  > 🅿️ Парковка на [Yavapai Viewpoint Rd](https://www.google.com/maps/search/Yavapai+Point+Road+Grand+Canyon)
+- 11:38–13:18 🥾 [Rim Trail](https://www.google.com/maps/search/Rim+Trail+Grand+Canyon): Yavapai Point → Mather Point & назад (~3.76 km, ⛰️ 65 m, 1 год 40 хв)
+  > 🧠 Одне з небагатьох місць South Rim, де **видно ріку Колорадо** на дні. Панорама ~160 км каньйону.
+- 13:52–14:35 🥾 Grand Canyon — продовження (~1.61 km, ⛰️ 33 m, 43 хв)
+- ~14:40 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) (scenic drive на схід)
+- 15:04–15:18 📍 [Desert View Watchtower](https://www.google.com/maps/search/Desert+View+Watchtower+Grand+Canyon) (~14 хв)
+- ~15:52 📍 Cameron (по дорозі)
+- ~16:00 🚗 US-89 на північ → Page
+- 17:26–18:25 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~59 хв, 2.30 km, ⛰️ 43 m) · 🅿️ $10
+  > 🧠 Ріка Колорадо робить поворот на **270°**. Падіння з обриву до води — **300 м**. До 2018 р. тут не було ні огорожі, ні паркінгу — тільки ґрунтова стежка.
+- 18:50–19:00 📍 [Glen Canyon Dam](https://www.google.com/maps/search/Glen+Canyon+Dam+Page+Arizona) (~10 хв)
+  > 🧠 Озеро Пауелл за нею заповнювалось **17 років**. Його берегова лінія (3 136 км) — довша за все тихоокеанське узбережжя США.
+- ~19:00 🍽️ Page
+- ~20:16 🚗 Page → Kanab (~50 хв)
+- ~21:07 🏨 [**Comfort Suites Kanab National Park Area**](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · ✅ Conf #28615939 (ніч 1/1)
+
+> ⏱ **Порядок:** Williams → Grand Canyon (Rim Trail) → Desert View Drive → Cameron → Page → Horseshoe Bend → Glen Canyon Dam → Kanab
+>
+> 💡 **Рекомендації:**
+> - Виїхали о ~10:15 (план мав 08:00) — зсунуло розклад на ~2 год
+> - Grand Canyon Rim Trail: ~3 год (11:38–14:35), 5.37 km загалом
+> - Desert View Watchtower — 14 хв достатньо
+> - Маршрут через Desert View Drive → Cameron → US-89 до Page замість прямої дороги на Kanab через 89A
+> - Horseshoe Bend — 59 хв (план Day 9 мав 1 год) — ідеально
+> - Glen Canyon Dam — 10 хв (план Day 9 мав 20 хв) — швидкий огляд
+> - Horseshoe Bend та Glen Canyon Dam зроблено сьогодні замість Day 9 — зекономлено ~1.5 год у п'ятницю
+> - 💡 **На наступний раз:** Grand Canyon можна починати з [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) — один із найкращих оглядових майданчиків South Rim
 
 
 ---
