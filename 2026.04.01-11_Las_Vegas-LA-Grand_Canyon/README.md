@@ -38,7 +38,7 @@
   > 📋 **Pick-up стан:** 083,927 mi · Oil Life 40% · 70°F · Honda CR-V
 - ~22:45 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas)
 
-### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km) · 🚶 16,359 steps · 4.2 km / ⛰️ 90 m · Одометр: 084,437 mi · ⏰ 07:11–23:00 · [📸 Фото](https://photos.app.goo.gl/xoTnMnHoADVK45JRA)
+### Day 1 — Четвер, 02.04 · Death Valley · 🚗 ~545 mi (877 km) · 🚶 16,359 steps · 🥾 4.2 km / ⛰️ 90 m · Одометр: 084,437 mi · ⏰ 07:11–23:00 · [📸 Фото](https://photos.app.goo.gl/xoTnMnHoADVK45JRA)
 > 🧠 Назву «Долина Смерті» дали золотошукачі 1849 р., які ледве вибрались з неї живими. Один сказав: *«Goodbye, Death Valley»* — і назва прилипла. Тут зафіксовано абсолютний рекорд температури на Землі — **56.7 °C** (134 °F, 1913). А ще тут одне з **найтемніших небес у США** (Gold Tier Dark Sky Park) — неозброєним оком видно Чумацький Шлях.
 - 07:11 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (checkout)
 - ~10:04 🛒 Зупинка NW Las Vegas (магазин)
@@ -53,7 +53,6 @@
 - 17:47–17:59 📍 [Mesquite Flat Sand Dunes](https://www.google.com/maps/search/Mesquite+Flat+Sand+Dunes+Death+Valley) (~12 хв)
   > 🧠 На висохлому озері Racetrack Playa камені залишають сліди на глині — загадку розгадали лише у 2014 р.: їх зсувають тонкі листи льоду взимку.
 - ~18:00 🚗 Виїзд DV → Three Rivers (через Bakersfield)
-- 22:03 ⛽ Заправка Circle K Bakersfield ($56.99)
 - ~23:00 🏨 [**Comfort Inn & Suites Sequoia Kings Canyon**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) (ніч 1/2)
 
 > ⏱ **Порядок:** Artist's → Dante's → Zabriskie → Badwater → Store → Dunes
@@ -64,7 +63,7 @@
 > - На Death Valley закладати мінімум 5 год на зупинки
 > - Dante's View варто 45+ хв, Zabriskie Point — 15 хв достатньо
 
-### Day 2 — П'ятниця, 03.04 · Sequoia National Park · 🚗 ~50 mi (80 km) · 🚶 25,290 steps · 11.9 km / ⛰️ 396 m · Одометр: 084,487 mi · ⏰ 10:15–19:27 · [📸 Фото](https://photos.app.goo.gl/Swf9wfHbNz9sPYCy7)
+### Day 2 — П'ятниця, 03.04 · Sequoia National Park · 🚗 ~50 mi (80 km) · 🚶 25,290 steps · 🥾 11.9 km / ⛰️ 396 m · Одометр: 084,487 mi · ⏰ 10:15–19:27 · [📸 Фото](https://photos.app.goo.gl/Swf9wfHbNz9sPYCy7)
 - ~10:15 🚗 Виїзд з готелю
 - ~10:30–10:58 📍 [Sequoia NP — Ash Mountain Entrance](https://www.google.com/maps/search/Sequoia+National+Park+Ash+Mountain+Entrance) (~28 хв)
 - 11:07 🚗 Generals Highway (серпантин, ~40 хв)
@@ -85,7 +84,7 @@
 > - General Sherman + Congress Trail — варто об'єднати (1.5 год загалом)
 > - Big Trees Trail — 30 хв достатньо
 
-### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · 🚶 17,959 steps · 8.4 km / ⛰️ 74 m · Одометр: 084,741 mi · ⏰ 09:56–21:00 · [📸 Фото](https://photos.app.goo.gl/Tk5Gbwmwrnkqtmih6)
+### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · 🚶 17,959 steps · 🥾 8.4 km / ⛰️ 74 m · Одометр: 084,741 mi · ⏰ 09:56–21:00 · [📸 Фото](https://photos.app.goo.gl/Tk5Gbwmwrnkqtmih6)
 - ~09:56 🚗 Виїзд з Three Rivers
 - ~12:48 🚗 Дорога (Castaic area)
 - 14:02–14:22 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~20 хв, фото Hollywood Sign)
@@ -108,7 +107,7 @@
 > - Walk of Fame потребує 2+ год
 > - Lake Hollywood Park — 20 хв достатньо
 
-### Day 4 — Неділя, 05.04 · Los Angeles · 🚗 ~76 mi (122 km) · 🚶 17,950 steps · 12.0 km / ⛰️ 212 m · Одометр: 084,817 mi · ⏰ 09:05–20:30 · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
+### Day 4 — Неділя, 05.04 · Los Angeles · 🚗 ~76 mi (122 km) · 🚶 17,950 steps · 🥾 12.0 km / ⛰️ 212 m · Одометр: 084,817 mi · ⏰ 09:05–20:30 · 🌅 19:24 · [📸 Фото](https://photos.app.goo.gl/1Dza6nGPdGWTS4Uj8)
 - 09:05 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
 - 09:46–11:50 ⛪ [Великодня Літургія 🐣](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) (~2 год) · о. Ігор
 - 12:30 🏨 Повернення в готель
@@ -137,7 +136,7 @@
 > - На вершині 54 хв — ідеально для заходу сонця
 > - Griffith Observatory вночі — 5 хв достатньо для фото, виставки вже бачили
 
-### Day 5 — Понеділок, 06.04 · LA → Las Vegas · 🚗 ~270 mi (435 km) · 🚶 25,021 steps · 19.3 km / ⛰️ 271 m · Одометр: 085,087 mi · ⏰ 09:19–22:30 · 🌅 19:11 · [📸 Фото](https://photos.app.goo.gl/gK6Y9TSvRnZxw6R7A)
+### Day 5 — Понеділок, 06.04 · LA → Las Vegas · 🚗 ~270 mi (435 km) · 🚶 25,021 steps · 🥾 19.3 km / ⛰️ 271 m · Одометр: 085,087 mi · ⏰ 09:19–22:30 · 🌅 19:11 · [📸 Фото](https://photos.app.goo.gl/gK6Y9TSvRnZxw6R7A)
 - ~09:19 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
 - ~09:20 🚗 Лос-Анджелес → Лас-Вегас (~4 год)
 - 13:25–13:36 📍 [Seven Magic Mountains](https://www.google.com/maps/search/Seven+Magic+Mountains+Las+Vegas) (~11 хв)
@@ -171,7 +170,7 @@
 > - Sphere: прибули за 30 хв до шоу — ідеально
 > - Бонус: нічна прогулянка по Strip після Sphere (~42 хв)
 
-### Day 6 — Вівторок, 07.04 · Route 66 → Williams · 🚗 ~280 mi (451 km) · 🚶 8,918 steps · 6.2 km / ⛰️ 119 m · Одометр: 085,416 mi · ⏰ 10:30–21:22 · 🌅 18:53 · [📸 Фото](https://photos.app.goo.gl/j16CfoqqRRjakSAM8)
+### Day 6 — Вівторок, 07.04 · Route 66 → Williams · 🚗 ~280 mi (451 km) · 🚶 8,918 steps · 🥾 6.2 km / ⛰️ 119 m · Одометр: 085,416 mi · ⏰ 10:30–21:22 · 🌅 18:53 · [📸 Фото](https://photos.app.goo.gl/j16CfoqqRRjakSAM8)
 - ~10:30 🏨 [Comfort Inn & Suites Henderson — Las Vegas](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (check-out 12:00)
 - ~10:30 🚗 Henderson → Grand Prix Plaza (~15 хв)
 - 10:59–11:22 📍 [Grand Prix Plaza / Las Vegas Strip Circuit](https://www.google.com/maps/search/Grand+Prix+Plaza+Las+Vegas+F1) (~23 хв) · 🕐 10:00–22:00 (Tue)
@@ -204,7 +203,7 @@
 > - Williams — пропустили огляд (приїхали о 21:18). Час не вистачило
 > - Прибуття в готель на 2.5 год пізніше запланованого
 
-### Day 7 — Середа, 08.04 · Grand Canyon → Horseshoe Bend → Kanab · 🚗 ~283 mi (455 km) · 🚶 12,858 steps · 10.3 km / ⛰️ 190 m · Одометр: 085,699 mi · ⏰ 10:15–21:07 · 🌅 18:56
+### Day 7 — Середа, 08.04 · Grand Canyon → Horseshoe Bend → Kanab · 🚗 ~283 mi (455 km) · 🚶 12,858 steps · 🥾 10.8 km / ⛰️ 189 m · Одометр: 085,699 mi · ⏰ 10:15–21:07 · 🌅 18:56
 > 📸 [Фото](https://photos.app.goo.gl/y7DhHXApMxAD8XdB9)
 
 > 🧠 **Grand Canyon** — 446 км завдовжки, до 29 км завширшки, 1 600 м завглибшки. Ріка Колорадо вирізала його за ~5–6 млн років. Скелі на дні — **1.8 млрд років** (майже половина віку Землі). Кожен шар — окрема геологічна ера. Тут живе **каліфорнійський кондор** — у 1987 р. залишалось лише 22 птахи, зараз ~500. Різниця температур між верхом і дном — до **15–20 °C**.
@@ -217,7 +216,6 @@
 - 13:52–14:35 🥾 Grand Canyon — продовження (~1.61 km, ⛰️ 33 m, 43 хв)
 - ~14:40 🚗 [Desert View Drive](https://www.google.com/maps/search/Desert+View+Drive+Grand+Canyon) (scenic drive на схід)
 - 15:04–15:18 📍 [Desert View Watchtower](https://www.google.com/maps/search/Desert+View+Watchtower+Grand+Canyon) (~14 хв)
-- ~15:52 📍 Cameron (по дорозі)
 - ~16:00 🚗 US-89 на північ → Page
 - 17:26–18:25 📍 [Horseshoe Bend](https://www.google.com/maps/search/Horseshoe+Bend+Page+Arizona) (~59 хв, 2.30 km, ⛰️ 43 m) · 🅿️ $10
   > 🧠 Ріка Колорадо робить поворот на **270°**. Падіння з обриву до води — **300 м**. До 2018 р. тут не було ні огорожі, ні паркінгу — тільки ґрунтова стежка.
@@ -239,7 +237,7 @@
 > - Horseshoe Bend та Glen Canyon Dam зроблено сьогодні замість Day 9 — зекономлено ~1.5 год у п'ятницю
 > - 💡 **На наступний раз:** Grand Canyon можна починати з [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) — один із найкращих оглядових майданчиків South Rim
 
-### Day 8 — Четвер, 09.04 · Zion National Park → Page · 🚗 ~169 mi (272 km) · Одометр: 085,868 mi · ⏰ 07:47–20:39 · 🌅 18:55
+### Day 8 — Четвер, 09.04 · Zion National Park → Page · 🚗 ~169 mi (272 km) · 🥾 5.6 km / ⛰️ 93 m · Одометр: 085,868 mi · ⏰ 07:47–20:39 · 🌅 18:55
 - 07:47 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (фото з балкону)
 - ~09:00 🚗 Kanab → Zion NP East Entrance (~55 хв)
 - 09:56–10:32 📍 [Zion Park Scenic Byway / Zion-Mt Carmel Highway](https://www.google.com/maps/search/Zion+Mount+Carmel+Highway) (~36 хв, зупинки по дорозі)
@@ -274,7 +272,7 @@
 > - Lake Powell sunset — 72 хв, неочікуваний бонус
 > - Watchman Trail — лише 9 хв (швидкий огляд)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~400 mi (644 km) · 5.5 km / ⛰️ 267 m · ⏰ 08:57–~19:00 · 🌅 18:57
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~432 mi (695 km) · 🥾 5.5 km / ⛰️ 267 m · Одометр: 086,300 mi · ⏰ 08:57–21:35 · 🌅 18:57
 > 📸 [Фото](https://photos.app.goo.gl/Wkng4g5ys1BdWVWR7)
 
 > ⏰ **Часові пояси:** Page, AZ та Las Vegas — MST/PDT (UTC-7). **Bryce Canyon, UT — MDT (UTC-6, +1 год).** Час фото в Bryce — Utah time.
@@ -284,27 +282,27 @@
 - 10:17–11:15 📍 [**Upper Antelope Canyon**](https://www.google.com/maps/search/Upper+Antelope+Canyon+Page+Arizona) (~58 хв, 44 фото) · 🥾 888 m / ⛰️ 48 m
   > 🧠 Промені світла згори найкраще видно з кінця березня по жовтень, близько полудня. Навахо називають його *Tsé bighánílíní* — «місце, де вода тече крізь скелі». У 1997 р. раптова повінь у Lower Antelope Canyon забрала 11 життів — відтоді тільки з гідом.
 - ~11:30 🍽️ Обід в Page
-- ~12:00 🚗 Page → Bryce Canyon (~2 год через US-89N → UT-12E)
-- 14:07 📍 [UT-12 Scenic Byway](https://www.google.com/maps/search/Scenic+Byway+12+Utah) (по дорозі)
+- ~13:10 🚗 Kanab → Bryce Canyon (~1.5 год через US-89N → UT-12E)
 - 14:38–14:48 🥾 [**Bryce Point**](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) (~10 хв, 17 фото, 652 m, ⛰️ 39 m) · 🎫 America the Beautiful Pass
   > 🧠 Насправді **не каньйон**, а серія природних амфітеатрів. «Худу» (кам'яні стовпи) формуються морозним вивітрюванням (~200 циклів замерзання/рік). **Найчистіше повітря** серед усіх нацпарків США — видимість до **320 км**. Одне з найтемніших небес для спостереження зірок.
 - 14:59–15:22 🥾 [**Inspiration Point**](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) (~23 хв, 16 фото, 1,265 m, ⛰️ 66 m)
 - 15:34–16:05 🥾 [**Sunset Point / Navajo Loop Trail**](https://www.google.com/maps/search/Sunset+Point+Bryce+Canyon) (~31 хв, 29 фото, 2,739 m, ⛰️ 114 m)
   > 🧠 Секція «Wall Street» — щілина шириною кілька метрів, де ростуть дугласові ялини, які майже ніколи не бачать прямого сонця.
 - ~16:23 📍 [Bryce Canyon NP](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (виїзд)
-- ~16:30 🚗 Bryce Canyon → St. George → Las Vegas (~3 год через UT-12W → US-89S → I-15S)
-- ~18:50 📍 [I-15 / Las Vegas area](https://www.google.com/maps/search/Las+Vegas+Nevada) (фото по дорозі)
-- ~19:00 🚗 Повернення авто (Turo Lot LAS)
+- ~16:30 🚗 Bryce Canyon → St. George → Las Vegas (~5 год через UT-12W → US-89S → I-15S)
+- 21:05 🚗 Turo Lot LAS · Trip A: **2,375.4 mi**
+- 21:35 🚗 Повернення авто (Turo Lot LAS) · Одометр: ~086,300 mi
 
-> ⏱ **Порядок:** Page hotel → Antelope Canyon → Page (обід) → UT-12 Scenic Byway → Bryce Point → Inspiration Point → Sunset Point / Navajo Loop → I-15 → LAS
+> ⏱ **Порядок:** Page hotel → Antelope Canyon → Page (обід) → Kanab → UT-12 Scenic Byway → Bryce Point → Inspiration Point → Sunset Point / Navajo Loop → I-15 → Turo Lot LAS
 >
 > 💡 **Рекомендації:**
 > - Antelope Canyon: тур о 9:00, в каньйон потрапили о 10:17. Shuttle до каньйону ~20 хв
 > - Час у каньйоні: ~58 хв (10:17–11:15), 44 фото. Підйом по піску на виході ~15 хв
-> - Page → Bryce Canyon: ~2 год. Перетин часового поясу AZ→UT (+1 год)
+> - Page → Kanab → Bryce Canyon: перетин часового поясу AZ→UT (+1 год)
 > - Bryce Canyon: ~2 год 16 хв (14:07–16:23 Utah time). Bryce Point → Inspiration Point → Sunset Point — оптимальний маршрут
 > - Sunset Point / Navajo Loop — найдовший та найцікавіший хайк (2.7 км, 38 хв, +114 м)
-> - Bryce Canyon → Las Vegas: ~3 год через I-15
+> - Bryce Canyon → Las Vegas: ~5 год (16:30–21:05) через I-15
+> - Повернення авто о 21:35 (Turo Lot). Загальний пробіг поїздки: **2,375 mi**
 
 ### Day 10 — Субота, 11.04
 - *(день від'їзду)*
@@ -453,7 +451,7 @@
 - 🚗 На авто є OEM-трекінг (Honda Connected Services)
 - ⚠️ Штрафи за забруднення: **$150** (бруд зовні, салон, куріння, сильне забруднення)
 
-### 🚗 Пробіг та заправки
+### 🚗 Пробіг
 
 | День | Дата | Одометр | За день | Маршрут |
 |------|------|---------|--------|--------|
@@ -467,11 +465,9 @@
 | Day 6 | 07.04 | 085,416 mi | ~280 mi (451 km) | Henderson → Hoover Dam → Route 66 → Williams |
 | Day 7 | 08.04 | 085,699 mi | ~283 mi (455 km) | Williams → Grand Canyon → Kanab |
 | Day 8 | 09.04 | 085,868 mi | ~169 mi (272 km) | Kanab → Zion → Page |
-| Day 9 | 10.04 | — | ~400 mi (644 km) | Page → Bryce Canyon → St. George → LAS |
-| Return | 10.04 ~19:00 | — | — | Turo Lot LAS |
-| **Всього** | **01–10.04** | | **~2,342 mi (3,769 km)** | |
-
-> ⛽ **Заправка #1:** Circle K, 220 S Union Ave, Bakersfield CA 93307 · 02.04 22:03 · 10.555 gal × $5.399 = **$56.99** · VISA ****0360
+| Day 9 | 10.04 | 086,300 mi | ~432 mi (695 km) | Page → Kanab → Bryce Canyon → St. George → LAS |
+| Return | 10.04 21:35 | 086,300 mi | — | Turo Lot LAS · Trip A: 2,375.4 mi |
+| **Всього** | **01–10.04** | | **~2,375 mi (3,822 km)** | |
 
 ### Забір та повернення авто (Harry Reid International Airport)
 
