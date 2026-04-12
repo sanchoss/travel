@@ -1,8 +1,8 @@
 # Las Vegas — LA — Grand Canyon 🇺🇸
 
-> 📝 **Оновлено:** 11.04.2026
+> 📝 **Оновлено:** 12.04.2026
 
-[Карта маршруту](https://www.google.com/maps/d/edit?mid=1CxBmw3yHuJFF5vk0Sd7NS-VGBYelY1o&usp=sharing)
+[Карта маршруту](https://www.google.com/maps/d/edit?mid=1EoXsLyBMB3sviSQ7EwBnlhk22eZmmGs&usp=sharing)
 
 **01.04.2026 — 11.04.2026** (11 днів / 10 ночей)
 
@@ -13,19 +13,17 @@
 
 | # | Що | День | Дата | Ціна | Деталі | Посилання |
 |---|---|---|---|---|---|---|
-| 1 | **America the Beautiful Pass** | Day 1+ | 02.04+ | $90.88 | Order #UPP538726 · pass $80 + shipping $9.99 + tax $0.89 · Expires 30.04.2027. Покриває DV + GC + Zion + Bryce | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) |
-| 2 | **Death Valley NP** | Day 1 | 02.04 | ABP | Покриває America the Beautiful Pass | [nps.gov/deva](https://www.nps.gov/deva/) |
-| 3 | **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | $35.00 | Order #0898115340 · Valid 02.04–08.04 | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
-| 4 | **Griffith Observatory** | Day 4 | 05.04 | Безкоштовно | Без бронювання | [griffithobservatory.org](https://griffithobservatory.org/) |
-| 5 | **Santa Monica Pier** | Day 4 | 05.04 | Безкоштовно | Без бронювання | [santamonicapier.org](https://www.santamonicapier.org/) |
-| 6 | **Sphere — "The Wizard of Oz"** | Day 5 | 06.04 | $521.00 | Order #60-18902/NEV · 4 квитки · Sec 405, Row 10, Seats 21–24 + Parking Lot B | [thesphere.com](https://www.thesphere.com/) |
-| 7 | **Hoover Dam — Exhibits Only** | Day 6 | 07.04 | $60.00 | Order #C75-HBC-GQLT · 3 Adult + 1 Junior | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
-| 8 | **Grand Canyon NP** | Day 7 | 08.04 | ABP | Покриває America the Beautiful Pass | [nps.gov/grca](https://www.nps.gov/grca/) |
-| 9 | **Horseshoe Bend** | Day 7 | 08.04 | $10 | Парковка на місці | — |
-| 10 | **Glen Canyon Dam** | Day 7 | 08.04 | Безкоштовно | Без бронювання | [nps.gov/glca](https://www.nps.gov/glca/) |
-| 11 | **Zion NP — Site Pass** | Day 8 | 09.04 | $35.00 | Order #0872378323 · Valid 06–12.04 | [recreation.gov](https://www.recreation.gov/) |
-| 12 | **Upper Antelope Canyon** | Day 9 | 10.04 | $502.23 | Booking #339689525 · 4 квитки · 09:00–10:40 | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
-| 13 | **Bryce Canyon NP** | Day 9 | 10.04 | ABP | Покриває America the Beautiful Pass | — |
+| 1 | **America the Beautiful Pass** | Day 1+ | 02.04+ | $90.88 | Order #UPP538726 · pass $80 + shipping $9.99 + tax $0.89 · Expires 30.04.2027. Покриває DV + GC + Zion + Bryce + Sequoia (вхід) | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) |
+| 2 | **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | $35.00 | Order #0898115340 · Valid 02.04–08.04 | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
+| 3 | **Sphere — "The Wizard of Oz"** | Day 5 | 06.04 | $521.00 | Order #60-18902/NEV · 4 квитки · Sec 405, Row 10, Seats 21–24 + Parking Lot B | [thesphere.com](https://www.thesphere.com/) |
+| 4 | **Hoover Dam — Exhibits Only** | Day 6 | 07.04 | $60.00 | Order #C75-HBC-GQLT · 3 Adult + 1 Junior | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
+| 5 | **Horseshoe Bend — паркінг** | Day 7 | 08.04 | $10.00 | Оплата на місці | — |
+| 6 | **Zion NP — Site Pass** | Day 8 | 09.04 | $35.00 | Order #0872378323 · Valid 06–12.04 | [recreation.gov](https://www.recreation.gov/) |
+| 7 | **Upper Antelope Canyon** | Day 9 | 10.04 | $502.23 | Booking #339689525 · 4 квитки · 09:00–10:40 | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
+| | | | | **$1,254.11** | **Всього квитки та паси** | |
+
+> ℹ️ **Безкоштовно / ABP:** Death Valley, Grand Canyon, Bryce Canyon (покриває America the Beautiful Pass), Griffith Observatory, Santa Monica Pier, Glen Canyon Dam, Hollywood Walk of Fame
+> ❌ **Не використано:** Angels Landing Permit (лотерея, не подавали)
 
 ---
 
@@ -354,60 +352,65 @@
 
 ---
 
-## Список речей
+## 💰 Бюджет поїздки
+
+| Категорія | Сума |
+|---|---|
+| ✈️ Авіаквитки | *(окремо)* |
+| 🚗 Оренда авто (Turo) | $920.74 |
+| 🏨 Готелі (10 ночей) | $1,112.60 + 57,000 pts |
+| 🎫 Квитки та паси | $1,254.11 |
+| ⛽ Бензин (~2,375 mi / 31 MPG ≈ 77 gal × ~$4.50) | ~$345 |
+| 🅿️ Паркінг (LA $24 + Hoover $10 + Horseshoe $10) | ~$44 |
+| 🍽️ Їжа / продукти | *(окремо)* |
+| **Всього (без авіа та їжі)** | **~$3,676** |
+
+> 💡 Готелі: Henderson ×2 та Williams — бали (57,000 pts). Грошима: Sequoia $323 + LA $404.31 + Kanab $178.98 + Page $182.31 + LA parking $24 = **$1,112.60**
+
+---
+
+## 🎒 Список речей — що реально знадобилось
 
 ### Документи
-- [ ] Паспорти
-- [ ] Віза / ESTA
-- [ ] Водійське посвідчення
-- [ ] Страховка
-- [ ] Бронювання готелів (роздруківки або в телефоні)
-- [ ] Бронювання авто
+- ✅ Паспорти
+- ✅ Водійське посвідчення
+- ✅ Страховка
+- ✅ Бронювання готелів (у телефоні)
+- ✅ America the Beautiful Pass (**фізичний** — скан не дійсний!)
+- ✅ Zion Site Pass — PDF завантажити заздалегідь (немає зв'язку в парку!)
 
 ### Електроніка
-- [ ] Телефон + зарядка
-- [ ] Power bank
-- [ ] Навушники
-- [ ] Камера / GoPro + зарядка + SD карта
-- [ ] Автомобільна зарядка
-- [ ] Штатив
+- ✅ Телефон + зарядка + автомобільна зарядка
+- ✅ **Тримач для телефону в машину** — обов'язково для навігації!
+- ✅ USB-C шнурки для телефонів
+- ✅ Блоки живлення (зарядки в розетку)
+- ✅ Power bank — обов'язково (телефон розряджається від GPS + фото)
+- ✅ Ноутбук
+- ✅ Камера + SD карта + зарядка
+- ✅ **Селфі-палка** — дуже потрібна! Групові фото на трейлах, каньйонах, оглядових
 
 ### Одяг
-- [ ] Зручне взуття для хайкінгу
-- [ ] Кросівки
-- [ ] Шльопанці
-- [ ] Футболки
-- [ ] Шорти
-- [ ] Легкі штани
-- [ ] Куртка / вітровка
-- [ ] Тепла кофта (для вечорів у каньйонах)
-- [ ] Кепка / панама
-- [ ] Сонцезахисні окуляри
-- [ ] Шкарпетки
-- [ ] Білизна
-- [ ] Купальник
+- ✅ Зручне взуття для хайкінгу — ключова річ!
+- ✅ Кросівки (для міста)
+- ✅ Шльопанці (готель)
+- ✅ Футболки, шорти, легкі штани
+- ✅ Куртка / вітровка — потрібна ввечері в каньйонах та на Bryce (холодно!)
+- ✅ Тепла кофта — Bryce Canyon на висоті 2,400 м, ~5°C
+- ✅ Кепка + сонцезахисні окуляри — обов'язково у пустелі
 
-### Гігієна
-- [ ] Зубна щітка + паста
-- [ ] Шампунь / гель для душу
-- [ ] Дезодорант
-- [ ] Сонцезахисний крем (SPF 50+)
-- [ ] Бальзам для губ з SPF
-- [ ] Вологі серветки
-
-### Аптечка
-- [ ] Знеболюючі
-- [ ] Від алергії
-- [ ] Пластирі
-- [ ] Антисептик
+### Гігієна та аптечка
+- ✅ Сонцезахисний крем SPF 50+ — обов'язково (Death Valley, Grand Canyon)
+- ✅ Бальзам для губ з SPF
+- ✅ Вологі серветки — дуже корисні в дорозі
+- ✅ Знеболюючі, від алергії, пластирі
 
 ### В дорогу
-- [ ] Вода (велика пляшка на кожного)
-- [ ] Пляшка з ремінцем для води (для Antelope Canyon)
-- [ ] Прозора сумка / clear bag (для Antelope Canyon — без рюкзаків!)
-- [ ] Снеки
-- [ ] Рюкзак для хайків
-- [ ] Карти офлайн (Google Maps / Maps.me)
+- ✅ **Кулер (cooler)** — купили в Walmart, щодня засипали свіжим льодом. Холодна вода та снеки в спеку — musthave!
+- ✅ **Вода** — велика пляшка на кожного. В Death Valley та Grand Canyon критично!
+- ✅ **Прозора сумка / clear bag** — обов'язково для Antelope Canyon (рюкзаки заборонені!)
+- ✅ Снеки — довгі перегони між містами
+- ✅ Рюкзак для хайків
+- ✅ **Карти офлайн** — обов'язково! Немає зв'язку: Death Valley, Sequoia, Zion, Grand Canyon, між Page та Kanab
 
 ---
 
@@ -422,6 +425,12 @@
 - **Скасування:** Non-refundable
 - **Захист:** Out-of-pocket max **$500**
 - **Заміна ключа (FOB):** ~$250
+
+### 📋 Підсумок
+- **Pick-up:** 01.04, 22:15 · Одометр: 083,927 mi · Oil Life 40% · 70°F
+- **Return:** 10.04, 21:35 · Одометр: 086,300 mi · Trip A: **2,375.4 mi (3,822 km)**
+- **Пробіг за поїздку:** ~2,375 mi (~236 mi/день)
+- **Бензин:** ~77 gal (Regular) × ~$4.50 ≈ **~$345**
 
 ### Правила
 - 🚫 Без тварин (без дозволу хоста)
