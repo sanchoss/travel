@@ -237,7 +237,7 @@
 > - Horseshoe Bend та Glen Canyon Dam зроблено сьогодні замість Day 9 — зекономлено ~1.5 год у п'ятницю
 > - 💡 **На наступний раз:** Grand Canyon можна починати з [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) — один із найкращих оглядових майданчиків South Rim
 
-### Day 8 — Четвер, 09.04 · Zion National Park → Page · 🚗 ~169 mi (272 km) · 🥾 5.6 km / ⛰️ 93 m · Одометр: 085,868 mi · ⏰ 07:47–20:39 · 🌅 18:55
+### Day 8 — Четвер, 09.04 · Zion National Park → Page · 🚗 ~169 mi (272 km) · 🚶 18,490 steps · 🥾 5.6 km / ⛰️ 93 m · Одометр: 085,868 mi · ⏰ 07:47–20:39 · 🌅 18:55
 - 07:47 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (фото з балкону)
 - ~09:00 🚗 Kanab → Zion NP East Entrance (~55 хв)
 - 09:56–10:32 📍 [Zion Park Scenic Byway / Zion-Mt Carmel Highway](https://www.google.com/maps/search/Zion+Mount+Carmel+Highway) (~36 хв, зупинки по дорозі)
@@ -272,7 +272,7 @@
 > - Lake Powell sunset — 72 хв, неочікуваний бонус
 > - Watchman Trail — лише 9 хв (швидкий огляд)
 
-### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~432 mi (695 km) · 🥾 5.5 km / ⛰️ 267 m · Одометр: 086,300 mi · ⏰ 08:57–21:35 · 🌅 18:57
+### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~432 mi (695 km) · 🚶 14,670 steps · 🥾 5.5 km / ⛰️ 267 m · Одометр: 086,300 mi · ⏰ 08:57–21:35 · 🌅 18:57
 > 📸 [Фото](https://photos.app.goo.gl/Wkng4g5ys1BdWVWR7)
 
 > ⏰ **Часові пояси:** Page, AZ та Las Vegas — MST/PDT (UTC-7). **Bryce Canyon, UT — MDT (UTC-6, +1 год).** Час фото в Bryce — Utah time.
@@ -304,7 +304,7 @@
 > - Bryce Canyon → Las Vegas: ~5 год (16:30–21:05) через I-15
 > - Повернення авто о 21:35 (Turo Lot). Загальний пробіг поїздки: **2,375 mi**
 
-### Day 10 — Субота, 11.04 · Відліт
+### Day 10 — Субота, 11.04 · Відліт · 🚶 15,882 steps
 - 01:05 ✈️ Відліт LAS
 
 
