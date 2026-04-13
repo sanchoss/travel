@@ -371,21 +371,13 @@
 
 ## Оренда авто (Turo)
 
-- **Хост:** Claire
-- **Авто:** [Honda CR-V 2021 EX](https://turo.com/us/en/suv-rental/united-states/las-vegas-nv/honda/cr-v/1249515) · номерний знак **8377D6**
-- **Рейтинг:** 4.95 (129 trips)
-- **Місць:** 5 · Автомат · Бензин (Regular) · 31 MPG
+- **Авто:** [Honda CR-V 2021 EX](https://turo.com/us/en/suv-rental/united-states/las-vegas-nv/honda/cr-v/1249515) · Бензин (Regular) · 31 MPG
 - **Період:** Wed 01.04 20:00 — Sat 11.04 01:00
-- **Вартість:** $920.74 (включно з Unlimited Miles $99)
-- **Скасування:** Non-refundable
-- **Захист:** Out-of-pocket max **$500**
-- **Заміна ключа (FOB):** ~$250
 
 ### 📋 Підсумок
-- **Pick-up:** 01.04, 22:15 · Одометр: 083,927 mi · Oil Life 40% · 70°F
+- **Pick-up:** 01.04, 22:15 · Одометр: 083,927 mi
 - **Return:** 10.04, 21:35 · Одометр: 086,300 mi · Trip A: **2,375.4 mi (3,822 km)**
 - **Пробіг за поїздку:** ~2,375 mi (~236 mi/день)
-- **Бензин:** ~77 gal (Regular) × ~$4.50 ≈ **~$345**
 
 ### Правила
 - 🚫 Без тварин (без дозволу хоста)
