@@ -9,18 +9,17 @@
 
 ---
 
-## 🎫 Квитки та бронювання
+## 🎫 Доступи в парки та атракціони
 
-| # | Що | День | Дата | Ціна | Деталі | Посилання |
-|---|---|---|---|---|---|---|
-| 1 | **America the Beautiful Pass** | Day 1+ | 02.04+ | $90.88 | Order #UPP538726 · pass $80 + shipping $9.99 + tax $0.89 · Expires 30.04.2027. Покриває DV + GC + Zion + Bryce + Sequoia (вхід) | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) |
-| 2 | **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | $35.00 | Order #0898115340 · Valid 02.04–08.04 | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) |
-| 3 | **Sphere — "The Wizard of Oz"** | Day 5 | 06.04 | $521.00 | Order #60-18902/NEV · 4 квитки · Sec 405, Row 10, Seats 21–24 + Parking Lot B | [thesphere.com](https://www.thesphere.com/) |
-| 4 | **Hoover Dam — Exhibits Only** | Day 6 | 07.04 | $60.00 | Order #C75-HBC-GQLT · 3 Adult + 1 Junior | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) |
-| 5 | **Horseshoe Bend — паркінг** | Day 7 | 08.04 | $10.00 | Оплата на місці | — |
-| 6 | **Zion NP — Site Pass** | Day 8 | 09.04 | $35.00 | Order #0872378323 · Valid 06–12.04 | [recreation.gov](https://www.recreation.gov/) |
-| 7 | **Upper Antelope Canyon** | Day 9 | 10.04 | $502.23 | Booking #339689525 · 4 квитки · 09:00–10:40 | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) |
-| | | | | **$1,254.11** | **Всього квитки та паси** | |
+| Що | Дні | Дати | Ціна (4 особи) | Де купити | Коли купувати |
+|---|---|---|---|---|---|
+| **America the Beautiful Pass** | Day 1+ | 02.04+ | $80 + ~$10 доставка | [nps.gov/passes](https://www.nps.gov/planyourvisit/passes.htm) — замовити поштою | 🔴 За 1+ міс — доставка 2–4 тижні! |
+| **Sequoia NP — Site Pass** | Day 2–3 | 03–04.04 | $35 за авто | [recreation.gov](https://www.recreation.gov/timed-entry/10086745) — timed entry reservation | 🔴 За 1–2 міс — слоти розбирають! |
+| **Sphere** | Day 5 | 06.04 | ~$100–200/квиток | [thesphere.com](https://www.thesphere.com/) — онлайн | 🟡 За 2–4 тижні |
+| **Hoover Dam — Exhibits Only** | Day 6 | 07.04 | $15 adult / $12 junior | [usbr.gov/hooverdam](https://www.usbr.gov/lc/hooverdam/service/) — онлайн або на місці | 🟢 За кілька днів / на місці |
+| **Horseshoe Bend** | Day 7 | 08.04 | $10 паркінг | Оплата на місці (автомат) | 🟢 На місці |
+| **Zion NP — Site Pass** | Day 8 | 09.04 | $35 за авто | [recreation.gov](https://www.recreation.gov/) — timed entry reservation | 🔴 За 1–2 міс — слоти розбирають! |
+| **Upper Antelope Canyon** | Day 9 | 10.04 | ~$100–125/особа | [adventurousantelopecanyon.com](https://adventurousantelopecanyon.com/) — тур з гідом, онлайн | 🔴 За 2–3 міс — розкуповують! |
 
 > ℹ️ **Безкоштовно / ABP:** Death Valley, Grand Canyon, Bryce Canyon (покриває America the Beautiful Pass), Griffith Observatory, Santa Monica Pier, Glen Canyon Dam, Hollywood Walk of Fame
 > ❌ **Не використано:** Angels Landing Permit (лотерея, не подавали)
@@ -90,9 +89,9 @@
 ### Day 3 — Субота, 04.04 · Sequoia → Los Angeles · 🚗 ~254 mi (409 km) · Одометр: 084,741 mi · 🚶 17,959 steps · 🥾 8.4 km / ⛰️ 74 m · ⏰ 09:56–21:00
 - ~09:56 🚗 Виїзд з Three Rivers
 - ~12:48 🚗 Дорога (Castaic area)
-- 14:02–14:22 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~20 хв, фото Hollywood Sign)
+- 14:02–14:22 📍 [Lake Hollywood Park](https://www.google.com/maps/search/Lake+Hollywood+Park+Los+Angeles) (~20 хв)
   > 🧠 **Hollywood Sign** — спочатку (1923) написано «HOLLYWOODLAND» як реклама житлового комплексу. Букви 15 м, 4 000 лампочок. «LAND» прибрали у 1949 р.
-- 14:55–15:24 🛒 [JONS International Marketplace](https://www.google.com/maps/search/JONS+International+Marketplace+5315+Santa+Monica+Blvd+Los+Angeles) (~29 хв, $48.16)
+- 14:55–15:24 🛒 [JONS International Marketplace](https://www.google.com/maps/search/JONS+International+Marketplace+5315+Santa+Monica+Blvd+Los+Angeles) (~29 хв)
   > 📍 5315 Santa Monica Blvd, Los Angeles
 - 15:59–16:03 ⛪ [Nativity of the BVM Ukrainian Catholic Church](https://www.google.com/maps/search/Nativity+of+the+BVM+Ukrainian+Catholic+Church+Los+Angeles) — **Плащаниця** (перед Великоднем). Говорили з о. Ігорем
   > 📍 5765 W 8th St, Los Angeles, CA 90036
@@ -139,7 +138,7 @@
 > - Santa Monica → Griffith: ~50 хв (план мав 40 хв)
 > - Mt Hollywood: підйом лише 16 хв (план мав 45 хв) — легкий трейл!
 > - На вершині 54 хв — ідеально для заходу сонця
-> - Griffith Observatory вночі — 5 хв достатньо для фото, виставки вже бачили
+> - Griffith Observatory вночі — 5 хв достатньо, виставки вже бачили
 
 ### Day 5 — Понеділок, 06.04 · LA → Las Vegas · 🚗 ~270 mi (435 km) · Одометр: 085,087 mi · 🚶 25,021 steps · 🥾 19.3 km / ⛰️ 271 m · ⏰ 09:19–22:30 · 🌅 19:11
 - ~09:19 🏨 [Comfort Inn Los Angeles near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) (виїзд)
@@ -158,13 +157,13 @@
 - ~19:15 🚗 → Sphere Parking Lot B
 - 19:31–21:21 📍 [Sphere](https://www.google.com/maps/search/Sphere+Las+Vegas)
   > 🧠 Найбільша сферична споруда у світі: 112 м × 157 м. Зовнішня LED-поверхня **54 000 м²** — найбільший екран на планеті. Всередині 16K × 16K (у 100 разів чіткіше за HD).
-  > 🎫 Order #60-18902/NEV · Sec 405, Row 10, Seats 21–24 · Upper Gallery · Mobile tickets · 🅿️ Parking Lot B включено
+  > 🎫 Sec 405, Row 10, Seats 21–24 · Upper Gallery · Mobile tickets · 🅿️ Parking Lot B включено
   - 19:31 прибуття / вхід
   - 20:00 🎬 **"The Wizard of Oz" at Sphere** (~1.5 год)
   - ~21:21 вихід
 - 21:37–22:19 📍 [Las Vegas Strip — нічна прогулянка](https://www.google.com/maps/search/Las+Vegas+Strip) (~42 хв)
   - Від Sphere на південь через Venetian → Paris → Planet Hollywood
-- ~22:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · ✅ Conf #28608843 (ніч 1/1)
+- ~22:30 🏨 [**Comfort Inn & Suites Henderson — Las Vegas**](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) (ніч 1/1)
 
 > ⏱ **Порядок:** LA → Seven Magic Mountains → Обід → Strip walk (S→N→S to Welcome Sign) → Sphere → Strip Night → Hotel
 >
@@ -186,7 +185,7 @@
 - ~11:30 🚗 → Hoover Dam (~45 хв)
 - 13:15–14:46  📍 [Hoover Dam](https://www.google.com/maps/search/Hoover+Dam) (~91 хв) · 🕐 9:00–15:45 · 🅿️ $10 гараж
   > 🧠 Побудована за 5 років (1931–1936) під час Великої депресії. У бетоні **вбудовані холодильні труби** — без них він охолоджувався б 125 років. Бетону вистачило б на автомагістраль від Сан-Франциско до Нью-Йорка (~4 800 км). На дамбі є годинник із двома часовими поясами — Nevada та Arizona по різних боках.
-  > 🎫 Order #C75-HBC-GQLT · Exhibits Only (3 Adult + 1 Junior) · $60 · QR пред'явити в Visitor Center 9:00–15:45
+  > 🎫 Exhibits Only (3 Adult + 1 Junior) · QR пред'явити в Visitor Center 9:00–15:45
   > ℹ️ Включає: Visitor Center exhibits, observation deck, 1940s topographical map. Без ножів, без їжі, вода — можна
 - ~15:00 🚗 → Oatman (~1.5 год)
 - 16:30–17:25  📍 [Oatman](https://www.google.com/maps/place/Oatman,+AZ+86433) (~55 хв, Route 66 ghost town) · 🕐 магазини ~10:00–17:00
@@ -195,7 +194,7 @@
 - 19:41–19:50  📍 [Seligman](https://www.google.com/maps/search/Seligman+Arizona+Route+66) (~9 хв, Route 66) · 🕐 магазини ~9:00–18:00
   > 🧠 «Батьківщина» збереження Route 66. Перукар Анхель Дельгаділлʼо переконав штат зберегти дорогу. Містечко стало прототипом **Радіатор-Спрінгс** із «Тачок» (Pixar)!
 - ~20:00 🚗 → Williams (~1 год 15 хв)
-- 21:18 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · ✅ Conf #28612966 (ніч 1/1, check-in 15:00)
+- 21:18 🏨 [**Comfort Inn Near Grand Canyon**](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) (ніч 1/1, check-in 15:00)
 
 > ⏱ **Порядок:** Grand Prix Plaza → Hoover Dam → Oatman → Seligman → Williams
 >
@@ -226,7 +225,7 @@
   > 🧠 Озеро Пауелл за нею заповнювалось **17 років**. Його берегова лінія (3 136 км) — довша за все тихоокеанське узбережжя США.
 - ~19:00 🍽️ Page
 - ~20:16 🚗 Page → Kanab (~50 хв)
-- ~21:07 🏨 [**Comfort Suites Kanab National Park Area**](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · ✅ Conf #28615939 (ніч 1/1)
+- ~21:07 🏨 [**Comfort Suites Kanab National Park Area**](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (ніч 1/1)
 
 > ⏱ **Порядок:** Williams → Grand Canyon (Rim Trail) → Desert View Drive → Cameron → Page → Horseshoe Bend → Glen Canyon Dam → Kanab
 >
@@ -241,11 +240,11 @@
 > - 💡 **На наступний раз:** Grand Canyon можна починати з [Hopi Point](https://www.google.com/maps/search/Hopi+Point+Grand+Canyon) — один із найкращих оглядових майданчиків South Rim
 
 ### Day 8 — Четвер, 09.04 · Zion National Park → Page · 🚗 ~169 mi (272 km) · Одометр: 085,868 mi · 🚶 18,490 steps · 🥾 5.6 km / ⛰️ 93 m · ⏰ 07:47–20:39 · 🌅 18:55
-- 07:47 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) (фото з балкону)
+- 07:47 🏨 [Comfort Suites Kanab National Park Area](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) 
 - ~09:00 🚗 Kanab → Zion NP East Entrance (~55 хв)
 - 09:56–10:32 📍 [Zion Park Scenic Byway / Zion-Mt Carmel Highway](https://www.google.com/maps/search/Zion+Mount+Carmel+Highway) (~36 хв, зупинки по дорозі)
-  > 🎫 **Zion Site Pass** — Order #0872378323, valid 06–12.04 · 🎫 America the Beautiful Pass
-  - ~10:08 📍 [Checkerboard Mesa](https://www.google.com/maps/search/Checkerboard+Mesa+View+Area+Zion) (~5 хв, фото)
+  > 🎫 **Zion Site Pass** (timed entry, valid 06–12.04) + 🎫 **America the Beautiful Pass**
+  - ~10:08 📍 [Checkerboard Mesa](https://www.google.com/maps/search/Checkerboard+Mesa+View+Area+Zion) (~5 хв)
     > 🧠 Унікальний шаховий візерунок на пісковику Navajo — горизонтальні лінії від шарів осадових порід, вертикальні — від ерозії замерзання/відтавання.
   - 10:15–10:32 📍 Зупинки на Zion-Mt Carmel Highway (scenic viewpoints)
 - 10:43–11:32 🥾 [Canyon Overlook Trail](https://www.google.com/maps/search/Canyon+Overlook+Trail+Zion) (~49 хв, ~1.6 км туди-назад)
@@ -263,7 +262,7 @@
 - 17:02–17:13 📍 [Beehive Trail area / Lake Powell viewpoint](https://www.google.com/maps/search/Beehive+Trail+Page+Arizona) (~11 хв)
   > 🧠 Озеро Пауелл — берегова лінія (3 136 км) — довша за все тихоокеанське узбережжя США.
 - 17:17–18:29 📍 [Lake Powell / Lake Shore Drive viewpoint](https://www.google.com/maps/search/Lake+Shore+Drive+Page+Arizona) (~72 хв, sunset)
-- ~20:39 🏨 [**Sleep Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · ✅ Conf #28617852 (ніч 1/1)
+- ~20:39 🏨 [**Sleep Inn & Suites Page at Lake Powell**](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) (ніч 1/1)
 
 > ⏱ **Порядок:** Kanab → Zion (Scenic Byway → Checkerboard Mesa → Canyon Overlook Trail → Tunnel → Canyon side → Watchman → back) → Kanab → Page (Beehive Trail → Lake Powell sunset)
 >
@@ -276,18 +275,18 @@
 > - Watchman Trail — лише 9 хв (швидкий огляд)
 
 ### Day 9 — П'ятниця, 10.04 · Antelope Canyon → Bryce Canyon → Las Vegas · 🚗 ~432 mi (695 km) · Одометр: 086,300 mi · 🚶 14,670 steps · 🥾 5.5 km / ⛰️ 267 m · ⏰ 08:57–21:35 · 🌅 18:57
-> ⏰ **Часові пояси:** Page, AZ та Las Vegas — MST/PDT (UTC-7). **Bryce Canyon, UT — MDT (UTC-6, +1 год).** Час фото в Bryce — Utah time.
+> ⏰ **Часові пояси:** Page, AZ та Las Vegas — MST/PDT (UTC-7). **Bryce Canyon, UT — MDT (UTC-6, +1 год).** Час в Bryce — Utah time.
 - ~08:57 🏨 [Sleep Inn & Suites Page at Lake Powell](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) (виїзд)
 - ~09:00 🎫 Check-in [Antelope Canyon Tours](https://www.google.com/maps/search/22+South+Lake+Powell+Blvd+Page+AZ+86040)
-  > 🎫 Booking #339689525 · 4 квитки · $502.23
-- 10:17–11:15 📍 [**Upper Antelope Canyon**](https://www.google.com/maps/search/Upper+Antelope+Canyon+Page+Arizona) (~58 хв, 44 фото) · 🥾 888 m / ⛰️ 48 m
+  > 🎫 Тур з гідом · 4 квитки
+- 10:17–11:15 📍 [**Upper Antelope Canyon**](https://www.google.com/maps/search/Upper+Antelope+Canyon+Page+Arizona) (~58 хв) · 🥾 888 m / ⛰️ 48 m
   > 🧠 Промені світла згори найкраще видно з кінця березня по жовтень, близько полудня. Навахо називають його *Tsé bighánílíní* — «місце, де вода тече крізь скелі». У 1997 р. раптова повінь у Lower Antelope Canyon забрала 11 життів — відтоді тільки з гідом.
 - ~11:30 🍽️ Обід в Page
 - ~13:10 🚗 Kanab → Bryce Canyon (~1.5 год через US-89N → UT-12E)
-- 14:38–14:48 🥾 [**Bryce Point**](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) (~10 хв, 17 фото, 652 m, ⛰️ 39 m) · 🎫 America the Beautiful Pass
+- 14:38–14:48 🥾 [**Bryce Point**](https://www.google.com/maps/search/Bryce+Point+Bryce+Canyon) (~10 хв, 652 m, ⛰️ 39 m) · 🎫 America the Beautiful Pass
   > 🧠 Насправді **не каньйон**, а серія природних амфітеатрів. «Худу» (кам'яні стовпи) формуються морозним вивітрюванням (~200 циклів замерзання/рік). **Найчистіше повітря** серед усіх нацпарків США — видимість до **320 км**. Одне з найтемніших небес для спостереження зірок.
-- 14:59–15:22 🥾 [**Inspiration Point**](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) (~23 хв, 16 фото, 1,265 m, ⛰️ 66 m)
-- 15:34–16:05 🥾 [**Sunset Point / Navajo Loop Trail**](https://www.google.com/maps/search/Sunset+Point+Bryce+Canyon) (~31 хв, 29 фото, 2,739 m, ⛰️ 114 m)
+- 14:59–15:22 🥾 [**Inspiration Point**](https://www.google.com/maps/search/Inspiration+Point+Bryce+Canyon) (~23 хв, 1,265 m, ⛰️ 66 m)
+- 15:34–16:05 🥾 [**Sunset Point / Navajo Loop Trail**](https://www.google.com/maps/search/Sunset+Point+Bryce+Canyon) (~31 хв, 2,739 m, ⛰️ 114 m)
   > 🧠 Секція «Wall Street» — щілина шириною кілька метрів, де ростуть дугласові ялини, які майже ніколи не бачать прямого сонця.
 - ~16:23 📍 [Bryce Canyon NP](https://www.google.com/maps/search/Bryce+Canyon+National+Park) (виїзд)
 - ~16:30 🚗 Bryce Canyon → St. George → Las Vegas (~5 год через UT-12W → US-89S → I-15S)
@@ -298,7 +297,7 @@
 >
 > 💡 **Рекомендації:**
 > - Antelope Canyon: тур о 9:00, в каньйон потрапили о 10:17. Shuttle до каньйону ~20 хв
-> - Час у каньйоні: ~58 хв (10:17–11:15), 44 фото. Підйом по піску на виході ~15 хв
+> - Час у каньйоні: ~58 хв (10:17–11:15). Підйом по піску на виході ~15 хв
 > - Page → Kanab → Bryce Canyon: перетин часового поясу AZ→UT (+1 год)
 > - Bryce Canyon: ~2 год 16 хв (14:07–16:23 Utah time). Bryce Point → Inspiration Point → Sunset Point — оптимальний маршрут
 > - Sunset Point / Navajo Loop — найдовший та найцікавіший хайк (2.7 км, 38 хв, +114 м)
@@ -311,65 +310,21 @@
 
 ---
 
-## Готелі
+## � Готелі
 
-### 1. Comfort Inn & Suites Henderson — Las Vegas
-- 01.04 (Wed) — 02.04 (Thu) · 1 ніч · Conf #26234509 · 🎁 15,000 pts
-- 2 Queen Beds · 475 Marks Street, Henderson, NV 89014 · +1 (702) 387-6500
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
-
-### 2. Comfort Inn & Suites Sequoia Kings Canyon
-- 02.04 (Thu) — 04.04 (Sat) · 2 ночі · Conf #26236486 · 12,000 pts + $323.00 (VISA ****7434)
-- 2 Queen Beds · 40820 Sierra Drive, Three Rivers, CA 93271 · +1 (559) 566-0232
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) · [Choice Hotels](https://www.choicehotels.com/california/three-rivers/comfort-inn-hotels/caa26)
-
-### 3. Comfort Inn Los Angeles near Hollywood
-- 04.04 (Sat) — 06.04 (Mon) · 2 ночі · Conf #26247802 · $404.31 + паркінг $24.00
-- 2 Queen Beds · 2717 West Sunset Blvd., Los Angeles, CA 90026 · +1 (213) 413-8222
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) · [Choice Hotels](https://www.choicehotels.com/california/los-angeles/comfort-inn-hotels/ca785)
-
-### 4. Comfort Inn & Suites Henderson — Las Vegas (повторно)
-- 06.04 (Mon) — 07.04 (Tue) · 1 ніч · Conf #28608843 · 🎁 15,000 pts
-- 2 Queen Beds · 475 Marks Street, Henderson, NV 89014 · +1 (702) 387-6500
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) · [Choice Hotels](https://www.choicehotels.com/nevada/henderson/comfort-inn-hotels/nv070)
-
-### 5. Comfort Inn Near Grand Canyon
-- 07.04 (Tue) — 08.04 (Wed) · 1 ніч · Conf #28612966 · 🎁 15,000 pts
-- 2 Queen Beds · 911 W US Route 66, Williams, AZ 86046 · +1 (928) 635-4045
-- [Google Maps](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) · [Choice Hotels](https://www.choicehotels.com/arizona/williams/comfort-inn-hotels/az327)
-
-### 6. Comfort Suites Kanab National Park Area
-- 08.04 (Wed) — 09.04 (Thu) · 1 ніч · Conf #28615939 · $178.98
-- 2 Double Beds + Sofa Bed · 150 West Center Street, Kanab, UT 84741 · +1 (435) 513-3684
-- [Google Maps](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) · [Choice Hotels](https://www.choicehotels.com/utah/kanab/comfort-suites-hotels/ut189)
-
-### 7. Sleep Inn & Suites Page at Lake Powell
-- 09.04 (Thu) — 10.04 (Fri) · 1 ніч · Conf #28617852 · $182.31
-- 2 Queen Beds · 673 Scenic View Road, Page, AZ 86040 · +1 (928) 645-2020
-- [Google Maps](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) · [Choice Hotels](https://www.choicehotels.com/arizona/page/sleep-inn-hotels)
-
-> ✅ Всі готелі заброньовані!
+| # | Готель | Дати | Ночі | Адреса | Телефон |
+|---|---|---|---|---|---|
+| 1 | [Comfort Inn Henderson, LV](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) | 01–02.04 | 1 | 475 Marks St, Henderson, NV 89014 | +1 (702) 387-6500 |
+| 2 | [Comfort Inn Sequoia Kings Canyon](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Sequoia+Kings+Canyon+Three+Rivers) | 02–04.04 | 2 | 40820 Sierra Dr, Three Rivers, CA 93271 | +1 (559) 566-0232 |
+| 3 | [Comfort Inn LA near Hollywood](https://www.google.com/maps/search/Comfort+Inn+Los+Angeles+near+Hollywood) | 04–06.04 | 2 | 2717 W Sunset Blvd, LA, CA 90026 | +1 (213) 413-8222 |
+| 4 | [Comfort Inn Henderson, LV](https://www.google.com/maps/search/Comfort+Inn+%26+Suites+Henderson+Las+Vegas) | 06–07.04 | 1 | 475 Marks St, Henderson, NV 89014 | +1 (702) 387-6500 |
+| 5 | [Comfort Inn Near Grand Canyon](https://www.google.com/maps/search/Comfort+Inn+Near+Grand+Canyon+Williams+AZ) | 07–08.04 | 1 | 911 W US Route 66, Williams, AZ 86046 | +1 (928) 635-4045 |
+| 6 | [Comfort Suites Kanab](https://www.google.com/maps/search/Comfort+Suites+Kanab+National+Park+Area) | 08–09.04 | 1 | 150 W Center St, Kanab, UT 84741 | +1 (435) 513-3684 |
+| 7 | [Sleep Inn Page at Lake Powell](https://www.google.com/maps/search/Sleep+Inn+%26+Suites+Page+at+Lake+Powell) | 09–10.04 | 1 | 673 Scenic View Rd, Page, AZ 86040 | +1 (928) 645-2020 |
 
 ---
 
-## 💰 Бюджет поїздки
-
-| Категорія | Сума |
-|---|---|
-| ✈️ Авіаквитки | *(окремо)* |
-| 🚗 Оренда авто (Turo) | $920.74 |
-| 🏨 Готелі (10 ночей) | $1,112.60 + 57,000 pts |
-| 🎫 Квитки та паси | $1,254.11 |
-| ⛽ Бензин (~2,375 mi / 31 MPG ≈ 77 gal × ~$4.50) | ~$345 |
-| 🅿️ Паркінг (LA $24 + Hoover $10 + Horseshoe $10) | ~$44 |
-| 🍽️ Їжа / продукти | *(окремо)* |
-| **Всього (без авіа та їжі)** | **~$3,676** |
-
-> 💡 Готелі: Henderson ×2 та Williams — бали (57,000 pts). Грошима: Sequoia $323 + LA $404.31 + Kanab $178.98 + Page $182.31 + LA parking $24 = **$1,112.60**
-
----
-
-## 🎒 Список речей — що реально знадобилось
+## �🎒 Список речей — що реально знадобилось
 
 ### Документи
 - ✅ Паспорти
@@ -390,7 +345,7 @@
 - ✅ **Селфі-палка** — дуже потрібна! Групові фото на трейлах, каньйонах, оглядових
 
 ### Одяг
-- ✅ Зручне взуття для хайкінгу — ключова річ!
+- ✅ Кросівки для хайкінгу — ключова річ!
 - ✅ Кросівки (для міста)
 - ✅ Шльопанці (готель)
 - ✅ Футболки, шорти, легкі штани
